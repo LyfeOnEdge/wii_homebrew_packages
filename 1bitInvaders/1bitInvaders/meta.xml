@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<app version="1.0">
+<name>1bit Invaders</name>
+<version>2.2</version>
+<coder>ThatOtherPerson</coder>
+<short_description>Monochrome space shooter</short_description>
+<long_description>1bit Invaders is a 2d free roaming space shooter with a fully destructible environment and retro monochrome graphics. To stay alive and gain points just shoot the circles before they reach your ship. You can play with the Wiimote and nunchuck or a classic controller. There is an online scoreboard for PlatonicRobot.com users.
+
+This game has an online leaderboard.
+
+Author:
+ThatOtherPerson (thatotherperson@yahoo.com)
+ThatOtherDev.com
+
+music (Slow Down) by ccowley
+8bc.org/members/ccowley/
+
+</long_description>
+</app>
