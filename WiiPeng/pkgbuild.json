@@ -1,0 +1,20 @@
+{
+    "package": "WiiPeng",
+    "info": {
+        "title": "WiiPeng!",
+        "author": "Puyover y Shockper",
+        "category": null,
+        "version": "v1.0",
+        "url": null,
+        "license": null,
+        "description": null,
+        "details": null
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/WiiPeng/icon.png",
+            "type": "icon"
+        }
+    ]
+}

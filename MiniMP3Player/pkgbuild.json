@@ -1,0 +1,20 @@
+{
+    "package": "MiniMP3Player",
+    "info": {
+        "title": "Mini MP3Player",
+        "author": "nIxx",
+        "category": null,
+        "version": "0.2",
+        "url": null,
+        "license": null,
+        "description": "Mini MP3Player",
+        "details": "Mini MP3 Player is a basic MP3 Player with Wiimote and FrontSD support.\n\n\n\nUsage:\n\nCreate a MUSIC folder in your SD Card Root and put \nyour mp3 or directories in it."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/MiniMP3Player/icon.png",
+            "type": "icon"
+        }
+    ]
+}

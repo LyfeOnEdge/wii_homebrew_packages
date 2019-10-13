@@ -1,0 +1,20 @@
+{
+    "package": "wiicm",
+    "info": {
+        "title": "wiicm",
+        "author": "linus",
+        "category": null,
+        "version": "1.1",
+        "url": null,
+        "license": null,
+        "description": "Code Manager",
+        "details": "Select codes from .txt and convert to .gct for use with GeckoOS\\WiiRd\\Ocarina. Works with Code Downloader. Writes to /codes/. See readme.txt for technical details"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiicm/icon.png",
+            "type": "icon"
+        }
+    ]
+}

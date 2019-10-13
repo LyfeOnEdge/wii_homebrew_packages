@@ -1,0 +1,20 @@
+{
+    "package": "ravewild",
+    "info": {
+        "title": "RaveWild",
+        "author": "ShinCrusader",
+        "category": null,
+        "version": "0.3",
+        "url": null,
+        "license": null,
+        "description": "Arcade/Strategy",
+        "details": "RaveWild is a mix between a top-down shooter, a tower defense game (kinda), and a real-time strategy. You create three different units to protect you as invaders pour in at an increasing rate. Your job is to survive as long as you can."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/ravewild/icon.png",
+            "type": "icon"
+        }
+    ]
+}

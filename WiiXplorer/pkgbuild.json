@@ -1,0 +1,20 @@
+{
+    "package": "WiiXplorer",
+    "info": {
+        "title": "WiiXplorer",
+        "author": "Dimok/r-win",
+        "category": null,
+        "version": "r210",
+        "url": null,
+        "license": null,
+        "description": "Wii File Browser",
+        "details": "A multi device file explorer for the Wii by dimok and r-win.\nThe GUI is done with LibWiiGui by Tantric and graphics by NeoRame.\n\nFeatures:\n * SMB/USB/SD recursive copy/move/delete\n   of files/directories with all files in it\n * Rename files\n * Properties of files/directories\n * Browse through SD/USB/SMB\n * Addressbar with path\n * Multilanguage support\n * Boot .dol/.elf files\n * Open TXT/XML/PNG/JPEG/MP3/OGG/GIF\n   files\n\nComing soon (Wishlist):\n * Multiple Windows (Minimize/Maximize\n   Windows)\n * Better SMB handle\n\nCredits:\n  Coding: Dimok, r-win\n  Artworks: Neorame\n  Languages: Dj Skual\n\n  Libwiigui: Tantric\n  Libogc/Devkit: Shagkur and Wintermute\n  FreeTypeGX: Armin Tamzarian.\n\nLinks:\n  WiiXplorer Project Page:\n    http://code.google.com/p/wiixplorer/\n  WiiXplorer Support Site:\n    http://code.google.com/p/wiixplorer/\n    updates/list\n  Libwiigui Website:\n    http://wiibrew.org/wiki/Libwiigui/\n  FreeTypeGX Project Page:\n    http://code.google.com/p/freetypegx/\n  Gettext Official Page:\n    http://www.gnu.org/software/gettext/\n    gettext.html\n  Languages Page:\n    please find this page on gbatemp.\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/WiiXplorer/icon.png",
+            "type": "icon"
+        }
+    ]
+}

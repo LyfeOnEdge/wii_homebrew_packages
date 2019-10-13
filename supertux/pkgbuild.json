@@ -1,0 +1,20 @@
+{
+    "package": "supertux",
+    "info": {
+        "title": "SuperTux Wii",
+        "author": "Two devs",
+        "category": null,
+        "version": "1.2",
+        "url": null,
+        "license": null,
+        "description": "Port of SuperTux",
+        "details": "\nPort of SuperTux to the Wii.\n\n\nWritten By:\nscanff\nArikado\n\nhttp://wiibrew.org"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/supertux/icon.png",
+            "type": "icon"
+        }
+    ]
+}

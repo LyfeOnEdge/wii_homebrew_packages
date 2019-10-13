@@ -1,0 +1,20 @@
+{
+    "package": "vbagx",
+    "info": {
+        "title": "Visual Boy Advance GX",
+        "author": "Tantric",
+        "category": null,
+        "version": "2.2.8",
+        "url": null,
+        "license": null,
+        "description": "GBA/GBC/GB Emulator",
+        "details": "A port of Visual Boy Advance - M to the Wii."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/vbagx/icon.png",
+            "type": "icon"
+        }
+    ]
+}

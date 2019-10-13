@@ -1,0 +1,20 @@
+{
+    "package": "eek",
+    "info": {
+        "title": "EEEEK! EEEEEK! HOOOOOOK!!!",
+        "author": "Gabriel Garrote",
+        "category": null,
+        "version": "1.2",
+        "url": null,
+        "license": null,
+        "description": "Platformer with a funny monkey.",
+        "details": "Most people like platform games, but what do people like even more than platform games?\n\nThat's it! Monkeys!\nClick your way through 8 levels in order to break our monkey friend free from a dangerous research lab!\n\nFull GPLv3 source code is included."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/eek/icon.png",
+            "type": "icon"
+        }
+    ]
+}

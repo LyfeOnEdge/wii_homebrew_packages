@@ -1,0 +1,20 @@
+{
+    "package": "wiiwhiteboard",
+    "info": {
+        "title": "WiiWhiteboard",
+        "author": "Bg",
+        "category": null,
+        "version": "0.2b",
+        "url": null,
+        "license": null,
+        "description": "Interactive Whiteboard",
+        "details": "Use two Wiimotes and an infrared pointer to make an interactive whiteboard. This is a port of Johnny Chung Lee's Low-Cost Multi-point Interactive Whiteboards Using the Wiimote to the Nintendo Wii."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiiwhiteboard/icon.png",
+            "type": "icon"
+        }
+    ]
+}

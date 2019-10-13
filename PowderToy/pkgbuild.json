@@ -1,0 +1,20 @@
+{
+    "package": "PowderToy",
+    "info": {
+        "title": "Powder Toy",
+        "author": "Arikado",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "Powder Toy for Wii!",
+        "details": "Powder Toy is a fun and beautiful physics particle simulator.\n                                  http://arikadosblog.blogspot.com"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/PowderToy/icon.png",
+            "type": "icon"
+        }
+    ]
+}

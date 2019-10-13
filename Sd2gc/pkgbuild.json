@@ -1,0 +1,20 @@
+{
+    "package": "Sd2gc",
+    "info": {
+        "title": "Gamecube Saver",
+        "author": "dasda",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "Copy GC save to GC Memcard",
+        "details": "\tMade by dasda\n\tThanks to dudebfg and emu_kidid\n\n\tThis ELF allows you to copy a Gamecube save file from the front SD slot \n\tto either your Slot A or Slot B Memory card.\n\n\tYou need:\n\t\tSD card\n\t\tWay of loading the ELF\n\t\tsave file\n\t\tGamecube controller\n\t\tsome way to access card on computer\n\t\n\tDownload whatever .GCI file you want (there are plenty scattered around the internet)\n\tand make a folder in the root of your SD card called gc_saves.\n\tPlace the .GCI file inside of that folder. Put the SD card back in the Wii and load the ELF.\n\tOnly one .GCI should be in your folder at a time.\n\t\n\tFollow instructions and after the data has been copied, it should go to a screen with a lot of crap everywhere\n\tIgnore it, it means nothing. You can't do much except for turning off the Wii at that point.\n\n\t\"USB Memory Adapter Save\" saves should always be .GCI. If you see a save you want that is a .SAV file, there are working converters around.\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Sd2gc/icon.png",
+            "type": "icon"
+        }
+    ]
+}

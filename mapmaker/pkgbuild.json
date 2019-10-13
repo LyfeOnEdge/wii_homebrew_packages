@@ -1,0 +1,20 @@
+{
+    "package": "mapmaker",
+    "info": {
+        "title": "Map Maker",
+        "author": "Jesse Dubay (adb)",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "Generate and edit terrain",
+        "details": "Map Maker is a demo application that generates cool-looking terrain that you can edit with the Wiimote.\n\nControls:\nA: Generate new map\nB: Hold and drag to pan\nUp / Down: Adjust terrain height\nHome: Show menu and options\nPlus / Minus: Adjust brush size *\n1: Re-center map\n\n* By default, these buttons have no effect because brush size is based on distance from the screen. You can enable manual mode in the Menu.\n\nThese people did all the hard work:\nThanks to para for the WiiUse library;\nthanks to Paul Martz, who wrote a very helpful article about the diamond-square algorithm;\nthanks to Max Russell, who is much better at math than I;\nthanks to Team Twiizers for their contributions to the homebrew community -- without you guys I'd never have even tried;\nthanks to TheBlasphemer, whose nifty RGB to YUY2 routine I blatantly lifted from the WiiRayTracer demo;\nthanks to WinterMute for the extremely enlightening \"How to use the Wiimote\" tutorial;\nand thanks to River for being my alpha tester <3\n\nWho to blame:\nI'm Jesse! Let me know what you think: jesse@thefortytwo.net or on the WiiBrew wiki's discussion page for Map Maker. Comments, criticism, bug reports and feature suggestions welcome."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/mapmaker/icon.png",
+            "type": "icon"
+        }
+    ]
+}

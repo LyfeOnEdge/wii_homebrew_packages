@@ -1,0 +1,20 @@
+{
+    "package": "uae",
+    "info": {
+        "title": "UAE",
+        "author": "Simon Kagstrom, Oibaf",
+        "category": null,
+        "version": "9.1",
+        "url": null,
+        "license": null,
+        "description": "Amiga emulator",
+        "details": "UAE is an Amiga emulator written by Bernd Schmidt et al, see http://amigaemulator.org. The port to Wii was done by Simon Kagstrom, with help from Christopher Follett, \"Knitax\" and Fabio Olimpieri (Oibaf)"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/uae/icon.png",
+            "type": "icon"
+        }
+    ]
+}

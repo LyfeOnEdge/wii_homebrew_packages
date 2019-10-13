@@ -1,0 +1,20 @@
+{
+    "package": "operation",
+    "info": {
+        "title": "WiiOperation",
+        "author": "beardface",
+        "category": null,
+        "version": "1.2",
+        "url": null,
+        "license": null,
+        "description": "Uh Oh! Operation!",
+        "details": "Drag around da bones and earn doctor points with the chicks.\n   \n\t   Built Using libwiisprite and libmxml. (Also ogc/devekitpro ofcourse!)"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/operation/icon.png",
+            "type": "icon"
+        }
+    ]
+}

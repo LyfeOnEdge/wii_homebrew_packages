@@ -1,0 +1,20 @@
+{
+    "package": "CascadeBeneath",
+    "info": {
+        "title": "Cascade Beneath",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "1.2",
+        "url": null,
+        "license": null,
+        "description": "Fall Down clone",
+        "details": "Cascade Beneath is a simple Fall Down style game. Just tilt your wiimote to move from side to side and avoid being pushed off the screen by the moving platforms.\n\nThis game has an online leaderboard.\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/CascadeBeneath/icon.png",
+            "type": "icon"
+        }
+    ]
+}

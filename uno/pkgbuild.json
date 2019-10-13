@@ -1,0 +1,20 @@
+{
+    "package": "uno",
+    "info": {
+        "title": "UNO",
+        "author": "kriogeN",
+        "category": null,
+        "version": "12",
+        "url": null,
+        "license": null,
+        "description": "UNO cards game",
+        "details": "This is the card game Uno, 2 to 4 people can play via the Internet (or local area network). You can also play against 3 computer controlled opponents.\n\nConfigurations\nEdit server.xml and change the server's IP and port with the one you want to connect to (if you're going to act as a server you also have to configure, but the IP can be private rather than public)\n\nRules\nThe rules are one of the classic:\n\n    - If you can not put a single letter sacks one before turning to the next round, and if you can put that card can do. \n    - If you play a Wild Draw 4 the next player loses their turn. \n    - There is no accumulation of +2. \n    - No letter boomerang. "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/uno/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "magicnumber",
+    "info": {
+        "title": "Magic Number",
+        "author": "Stevie G.",
+        "category": null,
+        "version": "1.00",
+        "url": null,
+        "license": null,
+        "description": "Number guessing game",
+        "details": "Magic Number is a console application for the Wii. Users attempt to guess a randomized number chosen by the Wii. There are 6 levels of difficulty available."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/magicnumber/icon.png",
+            "type": "icon"
+        }
+    ]
+}

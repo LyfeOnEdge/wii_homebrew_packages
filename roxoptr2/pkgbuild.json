@@ -1,0 +1,20 @@
+{
+    "package": "roxoptr2",
+    "info": {
+        "title": "roxoptr2",
+        "author": "Thomas Jollans",
+        "category": null,
+        "version": "0.2",
+        "url": null,
+        "license": null,
+        "description": "Helicopter fun.",
+        "details": "\nIt's simple: fly the little helicopter around all those BIG obstables. Don't leave the playing field! (except at the right places) Where are these places? You'll see. Or maybe you won't, but then you can always play again.\n\nNew in this version:\n* animation\n* new levels\n* better collision detection\n* did I mention the new levels?\n\nControl the heli with the D-Pad on your primary WiiMote.\n\nThanks a lot to Mr_Nick666, of Wii Double Down fame, for his amazing artwork.\n\nRoxoptr2 is a free game.\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/roxoptr2/icon.png",
+            "type": "icon"
+        }
+    ]
+}

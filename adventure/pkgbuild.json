@@ -1,0 +1,20 @@
+{
+    "package": "adventure",
+    "info": {
+        "title": "Christmas-Type Adventure Time",
+        "author": "mntorankusu",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Side scroller",
+        "details": "This is a game about a stick-man, who, like most other stick-people, likes to run from the start of levels to the end of levels.\n\nBut, in a daring twist, some weird, mostly-harmless creatures have stolen the christmas music! It's actually only one christmas song, because I ran out of time. But still. Get the music back from them!\n\nControls:\nOn the sideways Wiimote, press 2 to jump, hold 1 to run. Press 1 while walking to do a rolling dash attack. Hold down to duck, press left or right while ducking to crawl. Crawling and Rolling both allow you through small gaps. Press Plus+Minus at any time to exit. This game is also compatible with a Gamecube controller. 2=A, 1=B, Plus=Start, Minus=Z.\n\n\nSpecial Instructions:\nImportant: This game requires that the /apps/adventure/ and /apps/adventure/data/ folders exist. If you don't want, to run the game from your APPS folder, you don't have to, but you must copy the other files there. If you don't, the game may simply play without music/saving or it could crash, I don't really know.\n\nJump on enemies or roll into them to kill them. Press up while standing near a Gift Box (this is picky about where you stand, don\\\\\\'t stand right on top of it) to open it, and regain 1 bar of health.\n\nThere are different terrain types. Forward slashes can be walked through from the left side, but not from the right, and back slashes are the opposite. You can jump through the bottom of skinny platforms, but not fall through the top (but there is a bug where sometimes you WILL fall through the top, sorry). Spikes do damage if you touch them while moving upward, but will not hurt you if you touch them while moving downward or walking straight. Water simply indicates a bottomless pit below. Stick-people are non-buoyant, you see, due to a complete lack of body fat (it's true, look it up.)\n\n\nCollect all 11 music notes in a level to earn a Golden Note badge for completion. Also, hear a nice tune if you collect them all!\n\nIf you have a widescreen TV, open savedata.elg in notepad (or anything) and change \"widescreen='0'\" to \"widescreen='1'\" There may be more graphical glitches when running in widescreen mode, but you should have an easier time playing as there's a larger view field. \n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/adventure/icon.png",
+            "type": "icon"
+        }
+    ]
+}

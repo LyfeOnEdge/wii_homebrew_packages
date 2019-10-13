@@ -1,0 +1,20 @@
+{
+    "package": "buscawiinas",
+    "info": {
+        "title": "BuscaWiinas",
+        "author": "Jomofer",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "Minesweeper game",
+        "details": "BuscaWiinas is my own version of the famous minesweeper. The name comes from Spanish (buscaminas=minesweeper).\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/buscawiinas/icon.png",
+            "type": "icon"
+        }
+    ]
+}

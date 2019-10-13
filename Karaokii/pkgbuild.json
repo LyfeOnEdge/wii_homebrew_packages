@@ -1,0 +1,20 @@
+{
+    "package": "Karaokii",
+    "info": {
+        "title": "Karaokii",
+        "author": "pedrocrespo",
+        "category": null,
+        "version": "005",
+        "url": null,
+        "license": null,
+        "description": "Karaoke player for Wii",
+        "details": "New on 0.05: Ultrastar lyrics file support!"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Karaokii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

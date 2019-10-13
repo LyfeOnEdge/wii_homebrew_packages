@@ -1,0 +1,20 @@
+{
+    "package": "MultiBu",
+    "info": {
+        "title": "Multi Bu!",
+        "author": "csar.ale",
+        "category": null,
+        "version": "v1.0",
+        "url": null,
+        "license": null,
+        "description": "Multiples funciones",
+        "details": "Multi Bu! Es una aplicacion creada para que el usuario pueda explotar el potencial de su wii, con funciones que han sido dise\u00f1adas para que cualquiera las use facilmente, como un cronometro, un tester buttons entre otros pruebalo!!! la wii cada vez es m\u00e1s \u00fatil!"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/MultiBu/icon.png",
+            "type": "icon"
+        }
+    ]
+}

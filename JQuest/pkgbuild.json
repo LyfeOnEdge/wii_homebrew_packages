@@ -1,0 +1,20 @@
+{
+    "package": "JQuest",
+    "info": {
+        "title": "JewelQuest",
+        "author": "MCartman",
+        "category": null,
+        "version": "1.0.3",
+        "url": null,
+        "license": null,
+        "description": "A 3 match puzzle game",
+        "details": "Jewel Quest is a \"3-match\" puzzle game similar to Bejeweled or other tile-sliding puzzle games. It is played on a 8 x 8 square grid filled with various items like rubies, diamonds, emeralds, gold skulls, and more."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/JQuest/icon.png",
+            "type": "icon"
+        }
+    ]
+}

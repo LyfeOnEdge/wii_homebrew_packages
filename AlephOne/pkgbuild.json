@@ -1,0 +1,20 @@
+{
+    "package": "AlephOne",
+    "info": {
+        "title": "Marathon 2",
+        "author": "Bungie Software Corporation",
+        "category": null,
+        "version": "1.0 beta 2 - Nightly build",
+        "url": null,
+        "license": null,
+        "description": "Bungie's Marathon 2 for Wii",
+        "details": "\nAleph one port to the wii with Marathon 2 resources.\nCompiled by Mathieu Deletrain.\n\nAleph One/SDL\nAn Open Source 3D action game\n\nCopyright (C) 1995 Bungie Software Corporation\nPortions Copyright (C) 2000-2005 Christian Bauer, Loren Petrich,\n  Chris Pruett, Rhys Hill, Ben Thompson, Woody Zenfell, Mihai Pararita,\n  Bo Lindbergh et al.\nExpat XML Library Copyright (C) 1998, 1999 James Clark\n   "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/AlephOne/icon.png",
+            "type": "icon"
+        }
+    ]
+}

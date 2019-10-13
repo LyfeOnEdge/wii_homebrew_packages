@@ -1,0 +1,20 @@
+{
+    "package": "bowfishing",
+    "info": {
+        "title": "Bowfishing Action",
+        "author": "linus",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Arcade Style Bowfishing",
+        "details": "[Instructions]\n-Select difficulty then press start. \n-Press Home to exit menu or to pause game. \n-Aim crosshairs at fish and press A to shoot arrow. \n-Hold wii remote sideways and rotate in a circle to reel. \n-Remember even if you don't hit a fish, you can't shoot again until you reel the arrow in. \n-Go for the GOLD!  \n\nBackground music by drabmeat34."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/bowfishing/icon.png",
+            "type": "icon"
+        }
+    ]
+}

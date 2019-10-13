@@ -1,0 +1,20 @@
+{
+    "package": "helium",
+    "info": {
+        "title": "Helium Boy",
+        "author": "Bertil",
+        "category": null,
+        "version": "0.1.1",
+        "url": null,
+        "license": null,
+        "description": "3d platformer",
+        "details": " A 3D platformer inspired by the classic Nintendo title Balloon Kid. Fly through the level with you helium balloons and collect stars while whatching out for birds and flying ninjas.\n\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/helium/icon.png",
+            "type": "icon"
+        }
+    ]
+}

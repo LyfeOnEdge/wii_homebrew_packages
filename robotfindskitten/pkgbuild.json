@@ -1,0 +1,20 @@
+{
+    "package": "robotfindskitten",
+    "info": {
+        "title": "robotfindskitten",
+        "author": "chris",
+        "category": null,
+        "version": "1.7320508.406/wii::Cheshire",
+        "url": null,
+        "license": null,
+        "description": "ASCII zen simulation",
+        "details": "\"In this game, you are robot (#). Your job is to find kitten. This task is complicated by the existence of various things which are not kitten. Robot must touch items to determine if they are kitten or not. The game ends when robotfindskitten.\"\n    \nTOX 011\n\nwww.toxicbreakfast.com\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/robotfindskitten/icon.png",
+            "type": "icon"
+        }
+    ]
+}

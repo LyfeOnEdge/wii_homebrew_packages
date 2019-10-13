@@ -1,0 +1,20 @@
+{
+    "package": "mole",
+    "info": {
+        "title": "M\u00f6le",
+        "author": "andersers",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "Garden protection simulator game",
+        "details": "\nM\u00f6le is a video game in the garden protection simulator genre. A vicious arvicola amphibius is destroying your beautiful garden. You must protect your garden by sm\u00e4cking down the m\u00f6le with your hammer. If you sm\u00e4ck it down more than 93 times you win the game, yay! So yeah... the game is a clone of whack-a-mole.\n\nYou play the game aiming the hammer with your nunchuck control stick, and you sm\u00e4ck the m\u00f6le by swinging your wiimote like a hammer.\n\nThe game was made using the SDL and SDL_draw libraries.\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/mole/icon.png",
+            "type": "icon"
+        }
+    ]
+}

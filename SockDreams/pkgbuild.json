@@ -1,0 +1,20 @@
+{
+    "package": "SockDreams",
+    "info": {
+        "title": "Sock Dreams",
+        "author": "NoNameNo",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Another Tiny Intro to promote GRRLIB",
+        "details": "Another Tiny Intro to promote GRRLIB"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/SockDreams/icon.png",
+            "type": "icon"
+        }
+    ]
+}

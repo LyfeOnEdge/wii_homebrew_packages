@@ -1,0 +1,20 @@
+{
+    "package": "WiimoteDemo",
+    "info": {
+        "title": "WiiMotionDemo",
+        "author": "shdwcoder",
+        "category": null,
+        "version": "1.5",
+        "url": null,
+        "license": null,
+        "description": "Demo to read Wiimote Accelerometers",
+        "details": "WiiMotionDemo is a simple demo that shows the current reading of the Wiimote accelerometers.\n\n How to use\n    * Load the elf using your favorite loader\n    * Tested to work with the Homebrew Channel \n    * Move your Wiimote and see the accelerometers readings\n    * Press and hold A to activate rumble\n    * Press HOME to return to the loader \n\n Thanks\n    * NoNameNo for the great GRRLIB library\n    * para for the WiiUse library\n    * Everyone who made Wii homebrew a reality! \n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/WiimoteDemo/icon.png",
+            "type": "icon"
+        }
+    ]
+}

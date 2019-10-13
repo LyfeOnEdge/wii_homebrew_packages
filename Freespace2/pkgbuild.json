@@ -1,0 +1,20 @@
+{
+    "package": "Freespace2",
+    "info": {
+        "title": "Freespace 2",
+        "author": "litghost",
+        "category": null,
+        "version": "beta 3",
+        "url": null,
+        "license": null,
+        "description": "Freespace 2",
+        "details": null
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Freespace2/icon.png",
+            "type": "icon"
+        }
+    ]
+}

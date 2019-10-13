@@ -1,0 +1,20 @@
+{
+    "package": "Plop",
+    "info": {
+        "title": "Plop!",
+        "author": "Minishlink",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "An awesome XMas !",
+        "details": "\n\t\tBe prepared to a maaaad game with mini Santa Claus !\n\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Plop/icon.png",
+            "type": "icon"
+        }
+    ]
+}

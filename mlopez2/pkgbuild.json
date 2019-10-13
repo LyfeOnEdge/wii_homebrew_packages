@@ -1,0 +1,20 @@
+{
+    "package": "mlopez2",
+    "info": {
+        "title": "Marcos Lopez: Part II",
+        "author": "M. Z. (Wii port : beredezebe)",
+        "category": null,
+        "version": "0.01",
+        "url": null,
+        "license": null,
+        "description": "The Real Life Simulator",
+        "details": "MARCOS LOPEZ 2, The Real Life Simulator\nhttp://code.google.com/p/bennugames/\n\n- 1. DESCRIPTION -\n\nMarcos Lopez 2 is a game of instant gratification, made\nfor people who don't like playing video games anymore.\n\nA lot of people complained that Marcos Lopez 1 was too\nshort because of its 3 stages, so I made Marcos Lopez longer.\nThere are now in total 4 stages. Also, if you manage to\nbeat the game, there's a satisfying ending now.\n\nAre you human enough to be Marcos Lopez?\n\n\n- 2. GAME STORY -\n\nYou are a poet and a eternal dreamer. All you want to do\nin your life is to sail the seas and to marry a beautiful girl,\nbut are you willing to pay the high price of having a girl who is not ugly?\n\n\n- 3. CONTROLS -\n\nIn the game, you hold the Wiimote horizontal pad.\n\nLeft : move to the left\nRight : move to the right"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/mlopez2/icon.png",
+            "type": "icon"
+        }
+    ]
+}

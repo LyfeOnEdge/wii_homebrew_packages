@@ -1,0 +1,20 @@
+{
+    "package": "hugo-gx",
+    "info": {
+        "title": "Hugo GX",
+        "author": "Eke-Eke",
+        "category": null,
+        "version": "100614",
+        "url": null,
+        "license": null,
+        "description": "PC-Engine Emulator",
+        "details": "This is a port of the PC Engine emulator Hugo!, originally coded by Zeograd. Please read hugo-gx.txt first and check http://www.tehskeen.com/forums/ for any questions and updates.\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/hugo-gx/icon.png",
+            "type": "icon"
+        }
+    ]
+}

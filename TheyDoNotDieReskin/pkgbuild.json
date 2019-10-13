@@ -1,0 +1,20 @@
+{
+    "package": "TheyDoNotDieReskin",
+    "info": {
+        "title": "They Do Not Die (Reskin)",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Zombie shooter",
+        "details": "They Do Not Die is a zombie shooter.\n\nNow with enhanced graphics and an all new custom\nmap, Zombie Death Maze! -- Navigate the maze \nand make it to the Safe House at the end! \n(Extras by Mr. Reaper)\t\n\t\nControls:\nNunchuck analog stick = Move\nA button = Run\nB button = Shoot\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\nSurrounded background music by RekcahDam\nwww.rekcahdam.com\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/TheyDoNotDieReskin/icon.png",
+            "type": "icon"
+        }
+    ]
+}

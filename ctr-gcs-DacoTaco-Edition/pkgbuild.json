@@ -1,0 +1,20 @@
+{
+    "package": "ctr-gcs-DacoTaco-Edition",
+    "info": {
+        "title": "ctr-gcs DacoTaco Edition",
+        "author": "DacoTaco",
+        "category": null,
+        "version": "0.2b",
+        "url": null,
+        "license": null,
+        "description": "Memory Card Dumper",
+        "details": "raw memory card dumper that dumps a memory card's content to the SD ( MemoryCard.raw ).\nthis raw can be used as backup, for later recovery or to use in dolphin emulator."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/ctr-gcs-DacoTaco-Edition/icon.png",
+            "type": "icon"
+        }
+    ]
+}

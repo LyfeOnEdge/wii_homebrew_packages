@@ -1,0 +1,20 @@
+{
+    "package": "mahjongg",
+    "info": {
+        "title": "MahJongg Wii",
+        "author": "JustWoody",
+        "category": null,
+        "version": "0.8",
+        "url": null,
+        "license": null,
+        "description": "MahJongg solitaire for Wii",
+        "details": "\nv0.8 changes\n\nAdded multiple tilesets!\nAdded character voices on 2 player versus mode \nRe-encoded and removed cracklys from the sound effects\nAdded graphic when two player game ends as a draw\nTidied up and fixed bugs around the placing of tiles / shuffling\nFixed bug where saved music volume was not being used on startup\nChanged screenshot function to output filenames with date and time instead of just one\nCleaned up the code that deals with memory allocation of textures in the menus\nAdded new menu music + other music tracks for the different tilesets/themes during the game\nFixed some memory allocation problems that may have caused memory to be held onto when mahjongg is exited and could have caused problems moving between the menu and the game if done numerous times\nAdded pressing A button on already selected tile deselects it \nAdded proper support for widescreen including options to turn it on or off\nChanged config loading and saving to include widescreen and tileset selections. Does in a way that is backwards compatible with version 0.7 config files\nAdded Norwegian language support\nChanged internationalisation code to fully support utf8 encoding thus giving the use of non-ASCII characters without the need for mapping\nChange to auto detect whether the game has been loaded from a loader or not and exit accordingly (either reset to menu or back to loader)\nFixed even more bugs\n\nCredits\nThank you to all the following:\n\nProgramming by JustWoody\n\nGraphics by DayDreamOz\nSpooky, Egyptian and Space tilesets and backgrounds by Mr_Nick666\n\nMusic\n\nOriental by Allister Brimble\nSushi by Dr Awesome\nNebulos by audiomonster\nChildhood by Sandra Chan\nEgypt crap(?) by The freak\nGraveyard by fleshbrain\n\nSFX\n\nVersus mode characterisations by Banjo Fett\nTile click SFX by Partners in Rhyme,\nTile pair selected SFX by Chris,\nTile pair mismatch SFX by Public Domain \n\nTesting by Cashman\n\nTranslations\n\nFrench by Yod4z, Crayon and CashMan\nItalian by Charlespig\nGerman by Digdug\nDutch by Digdug and Bitflusher\nSpanish by Xtract and CashMan\nCatalan by Xtract\nJapanese by HisshouBuraiKen\nPortuguese by Yod4z, Banjo Fett and CashMan\nHungarian by Ezmegaz\nFinnish by Tubelinus\nSwedish by Tubelinus and noONE\nDanish by Buffstricker and Jedicommando \nNorwegian by Raschi\n\nLibs\nThe project uses devkitpro, GRRLib, sndlib, libpng, wiiuse, etc.\n\n(Thanks to all the devs on these projects for their excellent tools/libraries)\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/mahjongg/icon.png",
+            "type": "icon"
+        }
+    ]
+}

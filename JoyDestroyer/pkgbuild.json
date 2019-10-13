@@ -1,0 +1,20 @@
+{
+    "package": "JoyDestroyer",
+    "info": {
+        "title": "JoyDestroyer",
+        "author": "Dioni0396",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Get as many points",
+        "details": "Simple game where to objective is to get as many points as possible by pressing the buttons on the Wiimote. Multiplayer support."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/JoyDestroyer/icon.png",
+            "type": "icon"
+        }
+    ]
+}

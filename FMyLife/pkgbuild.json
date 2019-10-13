@@ -1,0 +1,20 @@
+{
+    "package": "FMyLife",
+    "info": {
+        "title": "FMyLife",
+        "author": "rosch",
+        "category": null,
+        "version": "0.2.4",
+        "url": null,
+        "license": null,
+        "description": "View stories fromn FMyLife.com!",
+        "details": "FMyLife viewer downloads recent and random stories from FMyLife.com for your viewing pleasure. It's funny until it happens to you!"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/FMyLife/icon.png",
+            "type": "icon"
+        }
+    ]
+}

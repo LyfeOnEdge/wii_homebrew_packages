@@ -1,0 +1,20 @@
+{
+    "package": "neopopwii_TheStripper",
+    "info": {
+        "title": "NeoPOP Wii",
+        "author": "softdev, Wxcvn, Drack, eke-eke, Askot",
+        "category": null,
+        "version": "03/02/2009",
+        "url": null,
+        "license": null,
+        "description": "NeoGeo Pocket/Color Emulator for WII",
+        "details": "Wiimote Support added by TheStripper\n\tNeoPop emulates the SNK NeoGeo Pocket handheld console. \n\tIt is based on NeoPop/SDL by neopopUK and ported to the \n\tNintendo GameCube by The \"Genesis Plus\" Team. \n\tIt has been converted from a PC based platform to run on \n\tthe GameCube's proprietary PPC Gekko processor and features \n\tcustomized code to give you the best gaming experience possible.\n    "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/neopopwii_TheStripper/icon.png",
+            "type": "icon"
+        }
+    ]
+}

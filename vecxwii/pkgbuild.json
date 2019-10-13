@@ -1,0 +1,20 @@
+{
+    "package": "vecxwii",
+    "info": {
+        "title": "VectrexWii",
+        "author": "Aruskano",
+        "category": null,
+        "version": "0.3",
+        "url": null,
+        "license": null,
+        "description": "Vectrex Emulator",
+        "details": "Wii port of Vecx - a vectrex emulator written by Valavan Manohararajah."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/vecxwii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

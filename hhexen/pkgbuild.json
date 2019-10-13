@@ -1,0 +1,20 @@
+{
+    "package": "hhexen",
+    "info": {
+        "title": "HHexen",
+        "author": "Hermes",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "port of hhexen",
+        "details": "Hexen port for Wii based in hhexen 1.6.1"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/hhexen/icon.png",
+            "type": "icon"
+        }
+    ]
+}

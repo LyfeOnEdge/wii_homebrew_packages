@@ -1,0 +1,20 @@
+{
+    "package": "e02wii",
+    "info": {
+        "title": "E02",
+        "author": "Stealth",
+        "category": null,
+        "version": "11.01.02",
+        "url": null,
+        "license": null,
+        "description": "E02 Game Engine",
+        "details": "A Multi-Purpose, Multi-Platform 2D Game Engine\n\nDirectly download and play games created for E02, or obtain the DOS, Windows, Linux, or MacOS builds to create your own!\n\nhttp://stealth.hapisan.com/E02\nhttp://stealth.hapisan.com/Forum"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/e02wii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "mandelbrot",
+    "info": {
+        "title": "Mandelbrot for Wii",
+        "author": "krupkat",
+        "category": null,
+        "version": "1.3",
+        "url": null,
+        "license": null,
+        "description": "Mandelbrot Generator",
+        "details": "This is a Mandelbrot set generator, you could have seen them on other platforms as well e.g. FractInt for PC.\n\nA - zoom\nB - reset\n-,+ - change palette\n1,2 - change number of iterations\nDOWN - run cycling palette\nHOME - back to HBC\n\nv1.3 - cycling palette\nv1.2 - major speedup thanks to Dashxdr\nv1.1 - wiimote friendly"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/mandelbrot/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "RockBlueMet",
+    "info": {
+        "title": "RockBlueMet",
+        "author": "iSubaru",
+        "category": null,
+        "version": "RC3",
+        "url": null,
+        "license": null,
+        "description": "RockBlueMet Game",
+        "details": "RockBlueMet is a TicTacToe variation game, with Rockman style and graphics, it's purely fan-made and no money is made from this production"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/RockBlueMet/icon.png",
+            "type": "icon"
+        }
+    ]
+}

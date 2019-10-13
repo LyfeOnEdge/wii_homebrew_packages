@@ -1,0 +1,20 @@
+{
+    "package": "crazyblocks",
+    "info": {
+        "title": "Crazy Blocks",
+        "author": "hilo",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "Wii shooter with blocks",
+        "details": "Wii shooter with blocks. The goal of this game is simple, Don't get hit by blocks. You can press B for missiles and move using the wiimote. When you get hit, the controler rumbles. Press the home button to return to the homebrew channel."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/crazyblocks/icon.png",
+            "type": "icon"
+        }
+    ]
+}

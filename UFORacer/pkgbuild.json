@@ -1,0 +1,20 @@
+{
+    "package": "UFORacer",
+    "info": {
+        "title": "UFO Racer",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "3.6",
+        "url": null,
+        "license": null,
+        "description": "Racing",
+        "details": "3D motion controlled racing game.\n\nControls:\nTilt = Move\n1 Button = Move back\n2 Button = Move forward\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/UFORacer/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "loadmii",
+    "info": {
+        "title": "loadMii",
+        "author": "The Lemon Man",
+        "category": null,
+        "version": "0.3",
+        "url": null,
+        "license": null,
+        "description": "load !t",
+        "details": "A small n' loader coded by The Lemon man\n\tI developed all with the help of best people on this world\n\tThanks luccax (for the error hunting), wiipower (for the idea),\n\tcrediar (for base address hint), wiihelp chan for the help\n\tand various lol.\n\tContact me on www.nextrl.it or on #wiihelp"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/loadmii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

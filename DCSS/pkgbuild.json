@@ -1,0 +1,20 @@
+{
+    "package": "DCSS",
+    "info": {
+        "title": "Dungeon Crawl Stone Soup",
+        "author": "Ported by PaceMaker",
+        "category": null,
+        "version": "0.4.5-w1",
+        "url": null,
+        "license": null,
+        "description": "A Rogue-like game.",
+        "details": "\nDungeon Crawl Stone Soup is a fun, free rogue-like game of exploration and treasure-hunting in dungeons filled with dangerous and unfriendly monsters in a quest for the mystifyingly fabulous Orb of Zot.  For more information see: crawl-ref.sourceforge.net\nVersion:\n\t0.4.5 - Wii Release 1 (alpha)\nControls:\n   Point at screen:\n\tPoint at screen to activate On Screen Keyboard (OSK).\n\t(A) - Select OSK Key\n\n   Hold sideways:\n\tD Pad - Move character up/down/left/right.\n\tD Pad + (2) - Run character up/down/left/right.\n\t(A) - Repeat last command (if applicable)\n\t(B) - Space Bar (clears --more--)\n\t(-) - Opens/Closes Context Menu.\n\t(+) - Opens/Closes Rare Commands Menu.\n\t(1) - Opens/Closes Common Commands Menu.\n\n   Hold sideways in Menu\n\tD Pad - Move menu up/down\n\t2 - Select menu item.\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/DCSS/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "pomwii",
+    "info": {
+        "title": "pomwii",
+        "author": "Silver.nux",
+        "category": null,
+        "version": "1.2",
+        "url": null,
+        "license": null,
+        "description": "A mystery number game",
+        "details": "A mystery number game, simply press the + or - to discover the mystery, does it remind you of anything?"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/pomwii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

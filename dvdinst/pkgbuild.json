@@ -1,0 +1,20 @@
+{
+    "package": "dvdinst",
+    "info": {
+        "title": "DVDx Installer",
+        "author": "Erant",
+        "category": null,
+        "version": null,
+        "url": null,
+        "license": null,
+        "description": "Allows DVDs to be played",
+        "details": "The DVDX installer will install a small, hidden, channel on your Wii that allows you to read DVDs on an unmodified system. Just follow the onscreen instructions to install."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/dvdinst/icon.png",
+            "type": "icon"
+        }
+    ]
+}

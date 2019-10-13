@@ -1,0 +1,20 @@
+{
+    "package": "wiisudoku2",
+    "info": {
+        "title": "Sudoku 2",
+        "author": "bmic",
+        "category": null,
+        "version": "0.2b",
+        "url": null,
+        "license": null,
+        "description": "Put the numbers in the squares",
+        "details": "Presently at version 0.2b of the game, the following has been implemented.\n\n* a better sprite\n* audio \n\nThe puzzle is controlled by moving an on screen cursor. The cursor will wraparound the edges of the puzzle if you try to move past the edge.\n\nThe value under the cursor is incremented/decremented to the desired value. Value '0' is shown as a blank cell. Values are wraparound from 0 to 9 as well.\n\nIf desired, the user may mark a cell as 'uncertain' by pressing the 'A' button. This can be toggled off if desired via the same button. 'uncertain' cells are marked with a gray background.\n\nThe game will check for any incorrect cells (i.e. duplicate numbers in any row, column or 3x3 cell). Any incorrect cells will be highlighted with a red tint.\n\nHold the WiiMote sideways as per [+ : oo] (NES Style)\n\nControls\n\n* Directional Pad (D Pad) to control navigation\n* 'home' button displays menu\n* '1' button decrements number\n* '2' button increments number\n* '+' button screen captures (if enabled)\n* '-' button saves game to SD card\n* 'A' button toggles 'uncertain' marking for the cells.\n\n\nCredits\n\nSudoku Puzzle generator currently uses ssudg. This might change in the future after further investigation of suitable alternatives.\n\nlibraries used\n\n* libogc/libfat\n* pngu/libpng\n* freetype2 \n\nPhotoshop was used to create the tiles graphics.\n\ndevkitPro was used to build the program."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiisudoku2/icon.png",
+            "type": "icon"
+        }
+    ]
+}

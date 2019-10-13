@@ -1,0 +1,20 @@
+{
+    "package": "resistorwii",
+    "info": {
+        "title": "resistorwii",
+        "author": "crazygoth",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Calculate resistance values",
+        "details": "\nCalculate the value resistance for a resistor."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/resistorwii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

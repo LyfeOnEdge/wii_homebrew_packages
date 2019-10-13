@@ -1,0 +1,20 @@
+{
+    "package": "ripolles",
+    "info": {
+        "title": "La Pesadilla de Ripoll\u00e9s DEMO1",
+        "author": "PiX Juegos",
+        "category": null,
+        "version": "0.7",
+        "url": null,
+        "license": null,
+        "description": "Classic beat'em up featuring Castell\u00f3n and its artist Ripoll\u00e9s",
+        "details": "\n  Features:\n- 4 players at the same time (not working right now)\n- 4 different game modes\n- 2 different characters\n- 2 levels\n- 6 different enemies\n- 3 enemy bosses\n..."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/ripolles/icon.png",
+            "type": "icon"
+        }
+    ]
+}

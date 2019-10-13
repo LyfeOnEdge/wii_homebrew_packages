@@ -1,0 +1,20 @@
+{
+    "package": "komopong_wii",
+    "info": {
+        "title": "Komopong wii",
+        "author": "copete23",
+        "category": null,
+        "version": "V0.9",
+        "url": null,
+        "license": null,
+        "description": "Pong for the Wii",
+        "details": "Komopong wii is a game based on the legendary pong, is a way for one player and one for two players, although in the future I would like to add more levels. The main novelty of this pong is to be controlled by moving the Wiimote XD also incorporates vibration to feel the impact of the ball in your paddle, another thing you can do is to rotate the paddle by turning the Wiimote, to change the angle of rebound the ball.\n\nThe mechanics of the game is simple, note the maximum number of points his rival before the end of the counter, the one with more points wins. :) "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/komopong_wii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

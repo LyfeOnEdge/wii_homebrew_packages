@@ -1,0 +1,20 @@
+{
+    "package": "RickDangerous",
+    "info": {
+        "title": "Rick Dangerous",
+        "author": "Gouky / MagicTeam",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Spiritual son of Indiana",
+        "details": "Rick Dangerous, super hero and part time stamp collector is in dire peril. Armed with\n\this trusty six shooter, a stick and some dynamite."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/RickDangerous/icon.png",
+            "type": "icon"
+        }
+    ]
+}

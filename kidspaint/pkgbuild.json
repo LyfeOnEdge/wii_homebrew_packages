@@ -1,0 +1,20 @@
+{
+    "package": "kidspaint",
+    "info": {
+        "title": "Kidspaint",
+        "author": "Uffe Flarup",
+        "category": null,
+        "version": "2.0.2",
+        "url": null,
+        "license": null,
+        "description": "Painting program for kids",
+        "details": "Up to four persons can paint simultaneously!\n\nThis painting program can be run in 3 different modes, so there are suitable painting modes\nfor kids of all ages.\n\nPowered by HBC, devkitPro, GRRLIB and LIBFAT.\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/kidspaint/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "Tic-Tac-Toe",
+    "info": {
+        "title": "TicTacToe",
+        "author": "Minishlink",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "A retro-style TicTacToe",
+        "details": "Just that simple ! This is a multiplayer game, with 1 or 2 Wiimotes. :)"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Tic-Tac-Toe/icon.png",
+            "type": "icon"
+        }
+    ]
+}

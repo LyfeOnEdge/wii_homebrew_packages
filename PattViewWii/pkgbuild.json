@@ -1,0 +1,20 @@
+{
+    "package": "PattViewWii",
+    "info": {
+        "title": "PattView Wii",
+        "author": "Vash",
+        "category": null,
+        "version": "0.1 Alpha",
+        "url": null,
+        "license": null,
+        "description": "AC:CF Pattern Editor",
+        "details": "\nPattView Wii\nAnimal Crossing: City Folk Pattern Editor\n\nCreated by Vash\nwww.Game-Hackers.com\n\nThe long-awaited arrival of PattView right on your Wii console!\nThis build offers a plethora of new features to allow for the\nbest pattern designs right from the comfort of your couch.\n\nAlso, check out PattViewX, available for purchase at Game-Hackers.com!\n\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/PattViewWii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

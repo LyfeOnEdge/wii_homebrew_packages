@@ -1,0 +1,20 @@
+{
+    "package": "UAE4Wii",
+    "info": {
+        "title": "UAE4Wii",
+        "author": "Gouky / MagicTeam",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "Amiga forever",
+        "details": "UAE4Wii is a port of the famous amiga emulator UAE based on UAE4all from Chui."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/UAE4Wii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

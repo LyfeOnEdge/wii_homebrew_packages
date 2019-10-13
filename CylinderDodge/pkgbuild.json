@@ -1,0 +1,20 @@
+{
+    "package": "CylinderDodge",
+    "info": {
+        "title": "Cylinder Dodge",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "1.2",
+        "url": null,
+        "license": null,
+        "description": "dodge cylinders",
+        "details": "Just hold the controller sideways and tilt it from side to side to move left and right. The longer you avoid contact with the cylinders the higher your score will be.\n\nThis game has an online leaderboard.\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\nWalk of Game music by Scattle\n8bc.org/music/Scattle/Walk+of+Game/\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/CylinderDodge/icon.png",
+            "type": "icon"
+        }
+    ]
+}

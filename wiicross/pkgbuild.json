@@ -1,0 +1,20 @@
+{
+    "package": "wiicross",
+    "info": {
+        "title": "Piero's Wiicross",
+        "author": "Scognito",
+        "category": null,
+        "version": "v0.2",
+        "url": null,
+        "license": null,
+        "description": "A picross game for Wii",
+        "details": "Color the blocks according to numbers given at the side of the grid to reveal a hidden picture."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiicross/icon.png",
+            "type": "icon"
+        }
+    ]
+}

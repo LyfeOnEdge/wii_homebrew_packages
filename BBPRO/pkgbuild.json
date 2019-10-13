@@ -1,0 +1,20 @@
+{
+    "package": "BBPRO",
+    "info": {
+        "title": "BALANCE BOARD PRO",
+        "author": "Paul Craven",
+        "category": null,
+        "version": "1.1",
+        "url": null,
+        "license": null,
+        "description": "\"Weigh\" cool tools!",
+        "details": "\nA full-featured toolset for use with the Wii Balance Board.\n\nFEATURES INCLUDE:\n- High-quality GUI for easy navigation.\n- WiiMote cursor navigation.\n- Nice background music and sound effects to enhance your weighing pleasure.\n- Zero/Calibrate the scale with the press of a button.\n- Fine-tuner button to lock onto precise readings, accurate at two decimal places.\n- Three precise, dynamic weighing modes:\n  - Center of Gravity with target practice option.  Get a bull's-eye to clear the targets!\n  - Weight display in analog and digital formats in both KG and LB, and with a rotary scale option.\n  - Pro Board that features center of gravity cursor, total weight, and readouts of all four Balance Board sensors in both KG and LB so you can more accurately see how weight is centered and moved around.\n- Overweight warning.\n- Board indicator icon.\n\n\t\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/BBPRO/icon.png",
+            "type": "icon"
+        }
+    ]
+}

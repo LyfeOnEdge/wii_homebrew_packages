@@ -1,0 +1,20 @@
+{
+    "package": "wiibsrvr",
+    "info": {
+        "title": "WiiBServer",
+        "author": "Jay",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "Tiny unfinished web server",
+        "details": "WiiBServer is a small and unfinished HTTP/1.0 server, used to test networking functions on the Wii. It loads resources from the front sd card.\n\nI just wanted to play a little with networking functions on the wii so I started with something simple, the HTTP/1.0 protocole. Then I decided to try the sd card api and ended up with threads. Very interesting :-)\n\nHistory:\nHowever, I won't work much on this project because:\n* there's already another project of that kind\n* the HTTP/1.1 protocole is far more complex to handle\n* there's no real point in running a web server on the wii :-S\n* there's already some specialized software for that (apache, ...), would be more interesting to port existing robust software\n* I don't have enough time\n\nRequirements:\nNothing special on the wii. On the PC side, a web browser. Some files on sd card in the /wiibsrv/htdocs folder.\n\nHow does it work:\nWell, nothing magic here, just socket programming. When started, the server initializes the socket subsystem, setups some parameters (bind), and then listens for incoming connections. The Wii's IP is displayed on screen so that clients can connect.\nThere's two threads, one that waits for buttons, the other that accepts incoming connections and processes them.\nIt seems the server freezes after two or three requests, especially after loading multiple resources for a single html page. It also drop when requesting a big image. Not time to fix it, sorry :-O \n\nFeatures:\nThis server is rather limited (on purpose).\n* process request one after the other (one thread)\n* URIs are limited to 1024 cars\n* resources are loaded from the front sd card, in the /wiibsrv/htdocs folder\n\nRun:\nLaunched successfully with the Twilight Hack and the Wii Homebrew Launcher. Didn't try the HBC or TcpLoader but should work.\nOnce started, you should press the 'A' button to start the accepting thread. Then press 'B' to stop listening. Browse from a web client (use an URL that refers to a file since directory listing is not yet supported).\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiibsrvr/icon.png",
+            "type": "icon"
+        }
+    ]
+}

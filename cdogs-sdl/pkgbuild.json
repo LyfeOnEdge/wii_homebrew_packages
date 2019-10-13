@@ -1,0 +1,20 @@
+{
+    "package": "cdogs-sdl",
+    "info": {
+        "title": "C-Dogs SDL",
+        "author": "insin",
+        "category": null,
+        "version": "0.4.1-1",
+        "url": null,
+        "license": null,
+        "description": "Arcade shoot-em-up",
+        "details": "C-Dogs is an arcade shoot-em-up which lets players work alone and cooperatively during missions or fight against each other in the \"dogfight\" deathmatch mode. The original DOS version of C-Dogs came with several built in missions and dogfight maps. This version does too.\n\nCopyright (C) 1995 Ronny Wester\nCopyright (C) 2003 Jeremy Chin\nCopyright (C) 2003-2007 Lucas Martin-King\nPorted by insin"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/cdogs-sdl/icon.png",
+            "type": "icon"
+        }
+    ]
+}

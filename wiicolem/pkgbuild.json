@@ -1,0 +1,20 @@
+{
+    "package": "wiicolem",
+    "info": {
+        "title": "WiiColEm",
+        "author": "raz0red",
+        "category": null,
+        "version": "0.2",
+        "url": null,
+        "license": null,
+        "description": "ColecoVision Emulator",
+        "details": "WiiColem is a port of the ColEm emulator developed by Marat Fayzullin.\n   \nWii port by raz0red [http://www.twitchasylum.com].\n   "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiicolem/icon.png",
+            "type": "icon"
+        }
+    ]
+}

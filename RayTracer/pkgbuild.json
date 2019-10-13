@@ -1,0 +1,20 @@
+{
+    "package": "RayTracer",
+    "info": {
+        "title": "WiiRayTracer",
+        "author": "TheBlasphemer",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Paints silly bubbles on your screen",
+        "details": "What's it do?\nIt paints silly bubbles on your screen.\n\nWhat's the purpose?\nI wanted to experiment with Wii development, and figured\nsomething nice to start off with would be to port a\nraytracing engine I had made earlier for university work.\n\nWhat does it use?\nThe raw framebuffer + a shitload of vector functions.\n\nFurther info:\n\nThe book that I prefer when it comes to 3d-graphics programming:\n\t\"Fundamentals of computer graphics\" (second edition)\n\tby Peter Shirley\n\t(the one with the big tiger up front)\n\t\nOriginal java assignment this was based on:\n\thttp://www.cs.uu.nl/docs/vakken/gr/lab1.html\n\t\nFeel free to contact me at tb [at] stuffplug.com\n\nhave fun poking around in the source code!"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/RayTracer/icon.png",
+            "type": "icon"
+        }
+    ]
+}

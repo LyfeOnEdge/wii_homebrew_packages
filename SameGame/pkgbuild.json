@@ -1,0 +1,20 @@
+{
+    "package": "SameGame",
+    "info": {
+        "title": "SameGame",
+        "author": "Meir Goldstein",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "SameGame for Wii",
+        "details": "Changes:\n1.0:\n- Added Saving/Loading\n- Added Undo ('B' Button)\n- Added Skinning\n- Bugfixes\n- Other Stuff\n\nbeta 0.1:\n- Wiimote IR\n- Change board size"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/SameGame/icon.png",
+            "type": "icon"
+        }
+    ]
+}

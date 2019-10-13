@@ -1,0 +1,20 @@
+{
+    "package": "harmony",
+    "info": {
+        "title": "Harmony's Nightmare",
+        "author": "Mr. Reaper",
+        "category": null,
+        "version": "1.2",
+        "url": null,
+        "license": null,
+        "description": "Can you help her escape the terror?",
+        "details": " \n  Multi-Genre Platform/Reflex/Puzzle/Horror Survival Game.\n  \n  It's up to you to figure it out....\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/harmony/icon.png",
+            "type": "icon"
+        }
+    ]
+}

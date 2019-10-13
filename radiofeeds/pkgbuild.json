@@ -1,0 +1,20 @@
+{
+    "package": "radiofeeds",
+    "info": {
+        "title": "RadioFeeds UK & Ireland",
+        "author": "Mplayer CE Team",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Internet Radio",
+        "details": "Listen to radio stations from the UK and Ireland on your Wii.\t\n\nApplication based largely on MPlayer-CE 0.76\nAdapted by Vincent Lo\nhttp://www.radiofeeds.co.uk/\n\nMplayer-CE Team\nScip, rodries, AgentX, DJDynamite123, \nTantric, Extrems.\n\nhttp://mplayer-ce.googlecode.com\n\nMPlayer Wii port \u00a9 Team Twiizers,\nused code \u00a9 MPlayerWii[rOn], GeeXboX,\ntipolosko, Ludovic Orban, hax, Shareese,\nDennisLKJ.\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/radiofeeds/icon.png",
+            "type": "icon"
+        }
+    ]
+}

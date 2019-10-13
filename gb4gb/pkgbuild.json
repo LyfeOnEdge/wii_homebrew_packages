@@ -1,0 +1,20 @@
+{
+    "package": "gb4gb",
+    "info": {
+        "title": "gb4gb",
+        "author": "Daid",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "GB/GBC/SGB emulator",
+        "details": "GB/GBC/SGB emulator"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/gb4gb/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "wiiship",
+    "info": {
+        "title": "WiiSHIP",
+        "author": "AcADIeN",
+        "category": null,
+        "version": "0.6",
+        "url": null,
+        "license": null,
+        "description": "Battleship clone for the WII",
+        "details": "Wiiship is a battleship clone for the wii, having the ability to play against the computer or multiplayer (multiplayer mode is still under dev).\n\nhttp://wiibrew.org/wiki/Homebrew_apps/wiiship for more info\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiiship/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "pingus",
+    "info": {
+        "title": "Pingus",
+        "author": "r-win",
+        "category": null,
+        "version": "0.7.6",
+        "url": null,
+        "license": null,
+        "description": "Quake Rev PAK",
+        "details": "Pingus is a free Lemmings-like puzzle game covered under the GNU GPL. It features currently 77 playable levels and runs under a wide variety of operating systems."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/pingus/icon.png",
+            "type": "icon"
+        }
+    ]
+}

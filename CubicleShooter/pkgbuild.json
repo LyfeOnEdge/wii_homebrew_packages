@@ -1,0 +1,20 @@
+{
+    "package": "CubicleShooter",
+    "info": {
+        "title": "Cubicle Shooter",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "0.5",
+        "url": null,
+        "license": null,
+        "description": "FPS",
+        "details": "Cubicle Shooter is an FPS with a destructible environment.\n\nControls:\nPointer = Aim\nAnalog stick = Move\nA button = Stop turning\nB button = Shoot\nC button = Jump\nZ button = Crouch\n- button = Load\n+ button = Save\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\nmusic (Homeless) by Julien Lussiez\njamendo.com/en/artist/Julien_Lussiez\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/CubicleShooter/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "np2",
+    "info": {
+        "title": "NP2",
+        "author": "Yui",
+        "category": null,
+        "version": "0.83_beta5",
+        "url": null,
+        "license": null,
+        "description": "NEC PC-9801 Emulator",
+        "details": "\nNEC PC-9801 Emulator, NP2(Neko Project II), for Wii.\nOriginal Source code by Yui at http://www.retropc.net/yui/np2.html, and modified source includes this file set by Rako. For more informaion, see http://wiibrew.org/wiki/Neko_Project_II\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/np2/icon.png",
+            "type": "icon"
+        }
+    ]
+}

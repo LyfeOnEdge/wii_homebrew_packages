@@ -1,0 +1,20 @@
+{
+    "package": "leveltool",
+    "info": {
+        "title": "Leveltool",
+        "author": "Alanceil",
+        "category": null,
+        "version": "0.5",
+        "url": null,
+        "license": null,
+        "description": "A level tool",
+        "details": "Missing a spirit level at home, I decided to use the Wiimote as a replacement.\nOver time, this tool evolved to something more like a protractor.\n\t\nUsage:\nPut the wiimote on a surface you want to use as a reference and press A.\nThis will start a calibration for minimum and maximum values of your Wiimote,\nafterwards you can put it on a target surface to see the difference in inclination.\n\nChangelog:\n\nv0.5:\n- Chg: Slightly adjusted maximum value\n  to reduce flickering near 90 degrees.\n- Chg: GRRlib is now responsible for\n  all drawing needs. (Which means:\n  more eye-candy)\n- Add: Raw acceleration values in the\n  debug info text\n- Add: Freeze function on pressing Plus\n  to freeze current values - this is \n  interesting if you cannot see your\n  screen.\n  \nv0.4:\n- Chg: Median instead of arithmetic mean\n  is now used to get calibration values,\n  this should increase accuracy\n- Chg: Message class now handles text\n  drawing\n- Add: Internal info on pressing B in the\n  slider box screen.\n- Add: Arc graph showing current tilt\n\nv0.3:\n- Fix: Leftover cursor pixel from\n  previous tests removed\n- Chg: Measuring is done in degrees\n- Chg: Verbosity of calibration screen\n  decreased\n- Add: Detection if Wiimote #1 is up and\n  running\n- Add: Pictures\n- Add: Calibration for maximum value on\n  the wiimote when standing upright.\n  These things are so unprecise :-/\n\nv0.2:\n- First public release\n\nCredits and thanks:\n  - suw for the background image\n    (http://www.gnome-look.org/content/\n    show.php/?content=96640)\n  - Marcan for the Wiimote axis drawing\n    on the wiibrew.org wiki\n  - frontier for PNGU\n  - Crayon for Wiibuilder\n  - Teknecal for his tutorials\n  - The devkitPro developers\n  - the GRRLIB developers\n \t\nGreetings to wiiwillrockyou.de and the users of www.wii-homebrew.com.\nReleased under the terms of the GNU GPLv3. See LICENSE.txt for more info."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/leveltool/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "PongFWii",
+    "info": {
+        "title": "PongFWii",
+        "author": "the_marioga",
+        "category": null,
+        "version": "Ver. 0.3",
+        "url": null,
+        "license": null,
+        "description": "Pong para Wii",
+        "details": "\nJuega al mitico Pong en tu Wii con los wiimotes\n\nUso:\nEjecuta la aplicacion con Homebrew Channel y disfruta.\n\nAgradecimientos:\n- Team Twiizers y devkitPRO -> libogc\n- frontier -> libpng y pngu\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/PongFWii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

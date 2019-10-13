@@ -1,0 +1,20 @@
+{
+    "package": "CubicleShooterCity",
+    "info": {
+        "title": "Cubicle Shooter City",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "Shooter",
+        "details": "Cubicle Shooter City is a top down shooter with a procedurally generated city and a bonus mode that features procedural destruction of the aforementioned city.\n\nControls:\nAnalog stick = Move\nIR pointer = Aim\nB button = Shoot\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/CubicleShooterCity/icon.png",
+            "type": "icon"
+        }
+    ]
+}

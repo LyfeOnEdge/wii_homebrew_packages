@@ -1,0 +1,20 @@
+{
+    "package": "inuit_wars",
+    "info": {
+        "title": "Inuit Wars",
+        "author": "EvilTroopa",
+        "category": null,
+        "version": "0.8",
+        "url": null,
+        "license": null,
+        "description": "Basic Polar RTS",
+        "details": "\n\t\tLead your Inuit people through war against wild nature.\n\t\tCreate buildings et units to fight wolves (and maybe more creatures next time...).\n\t\tHave Fun !\n\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/inuit_wars/icon.png",
+            "type": "icon"
+        }
+    ]
+}

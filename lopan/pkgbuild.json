@@ -1,0 +1,20 @@
+{
+    "package": "lopan",
+    "info": {
+        "title": "Lopan",
+        "author": "David Ashley",
+        "category": null,
+        "version": "1.01",
+        "url": null,
+        "license": null,
+        "description": "Match pairs to clear the board",
+        "details": "Lopan is a clone of Shanghai, you match pairs of movable tiles until the board is cleared."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/lopan/icon.png",
+            "type": "icon"
+        }
+    ]
+}

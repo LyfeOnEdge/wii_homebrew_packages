@@ -1,0 +1,20 @@
+{
+    "package": "WiiChatter",
+    "info": {
+        "title": "Wii Chatter",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "0.3",
+        "url": null,
+        "license": null,
+        "description": "Chat room",
+        "details": "Wii Chatter is an online chat room for Wii.\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/WiiChatter/icon.png",
+            "type": "icon"
+        }
+    ]
+}

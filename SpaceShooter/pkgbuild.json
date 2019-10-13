@@ -1,0 +1,20 @@
+{
+    "package": "SpaceShooter",
+    "info": {
+        "title": "Space Shooter!",
+        "author": "PaceMaker",
+        "category": null,
+        "version": "0.3",
+        "url": null,
+        "license": null,
+        "description": "Shoot Stuff in Space!",
+        "details": "\nName:\n\tSpace Shooter\nVersion:\n\t0.2\nObjective:\n\tDestroy the Enemies\nControls:\n\tHold Wii Remote Sideways.\n\tMove with directional pad\n\t2 Button - Fire\n\t1 Button - Turn\n\tHome Button - Main Menu\nTechnical Details:\t\n\t6 levels of 2D space shooter action\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/SpaceShooter/icon.png",
+            "type": "icon"
+        }
+    ]
+}

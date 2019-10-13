@@ -1,0 +1,20 @@
+{
+    "package": "wiilauncher",
+    "info": {
+        "title": "Zelda ROTH",
+        "author": "Wiimpathy",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "Zelda ROTH",
+        "details": "A port of Zelda Return of the Hylian to the Wii.\n\n  HOW TO PLAY :\n  \n  WIIMOTE/NUNCHUCK\n  * A:\t\tConfirm/open menu\n  * B:\t\tSword\n  * 1:\t\tRead/open/talk\n  * 2:\t\tUse object\n  * -:\t\tDisplay enemies\n  * +:\t\tMap\n  * Home:\tSave/quit\n  * Z:\t\tRun\n  * C:\t\tGlove\n\n  CLASSIC CONTROLLER\n  * A:\t\tConfirm/open menu\n  * B:\t\tSword\n  * X:\t\tUse object\n  * Y:\t\tRead/open/talk\n  * -:\t\tDisplay enemies\n  * +:\t\tMap\n  * Home:\tSave/quit\n  * L:\t\tRun\n  * R:\t\tGlove\n  * ZL:\t\tLook around\n\n  CREDITS :\n  Vincent Jouillat, HunoPPC(OS4 version), etc...\n\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiilauncher/icon.png",
+            "type": "icon"
+        }
+    ]
+}

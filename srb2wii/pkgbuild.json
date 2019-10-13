@@ -1,0 +1,20 @@
+{
+    "package": "srb2wii",
+    "info": {
+        "title": "SRB2Wii",
+        "author": "Callum",
+        "category": null,
+        "version": "2.0.0 RC4",
+        "url": null,
+        "license": null,
+        "description": "A 3D Sonic fangame",
+        "details": "Sonic Robo Blast 2 is a 3D fangame by a small group called\nSonic Team Junior, using the Doom engine as a base.\nThe game has been worked on for almost 11 years so far, and\nit is still being very much developed today, with a huge\nfanbase developing custom content, including characters,\nlevels, and even large-scale modifications that play out\na brand new adventure.\nBased on the Doom II engine, SRB2's system requirements\nare very low, even the oldest computers can play it at a\ndecent speed."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/srb2wii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

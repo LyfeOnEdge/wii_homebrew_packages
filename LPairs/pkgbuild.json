@@ -1,0 +1,20 @@
+{
+    "package": "LPairs",
+    "info": {
+        "title": "LPairs",
+        "author": "ThErZA",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Classical memory game.",
+        "details": "LPairs is a classical memory game. This means you have to find pairs of identical cards which will then be removed.\n\t\n\tYour time and tries needed will be counted but there is no highscore chart or limit to this.\n\t\n\tWii port done by ThErZA.\n\tOriginal code by Michael Speck."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/LPairs/icon.png",
+            "type": "icon"
+        }
+    ]
+}

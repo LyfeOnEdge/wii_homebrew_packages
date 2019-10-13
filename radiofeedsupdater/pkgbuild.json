@@ -1,0 +1,20 @@
+{
+    "package": "radiofeedsupdater",
+    "info": {
+        "title": "RadioFeeds Updater",
+        "author": "Teknecal",
+        "category": null,
+        "version": "1.0a",
+        "url": null,
+        "license": null,
+        "description": "Internet Radio",
+        "details": "Updates the station database in the RadioFeeds UK & Ireland homebrew.\n\nRun the RadioFeeds UK & Ireland homebrew after updating.\n\nRadioFeeds UK & Ireland\nhttp://www.radiofeeds.co.uk/\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/radiofeedsupdater/icon.png",
+            "type": "icon"
+        }
+    ]
+}

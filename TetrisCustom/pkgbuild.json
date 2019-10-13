@@ -1,0 +1,20 @@
+{
+    "package": "TetrisCustom",
+    "info": {
+        "title": "Tetris Custom",
+        "author": "TheDrev",
+        "category": null,
+        "version": "1",
+        "url": null,
+        "license": null,
+        "description": "Tetris with custom design",
+        "details": "\n\tThis is yet another Tetris, but you can put your own sounds and graphics by editing the res/tetris.xml file.\n\tThe Default skins are Keithris featuring Talking Classics' Keith Apicary (Screw Attack), and a classic skin named Russia.\n\tPost you skins to the wii brew wiki page at http://wiibrew.org/wiki/Tetris_Custom\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/TetrisCustom/icon.png",
+            "type": "icon"
+        }
+    ]
+}

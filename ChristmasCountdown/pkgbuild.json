@@ -1,0 +1,20 @@
+{
+    "package": "ChristmasCountdown",
+    "info": {
+        "title": "Christmas Countdown",
+        "author": "PaceMaker",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "How much longer until Christmas?",
+        "details": "\nName:\n\tChristmas Countdown\nVersion:\n\t0.1\nObjective:\n\tHow long until Christmas?\n\tA, B - Change the displayed units\n\tHome Button - Return to Loader\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/ChristmasCountdown/icon.png",
+            "type": "icon"
+        }
+    ]
+}

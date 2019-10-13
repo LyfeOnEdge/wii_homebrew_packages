@@ -1,0 +1,20 @@
+{
+    "package": "moonstone",
+    "info": {
+        "title": "Moonstone: A Hard Days Knight",
+        "author": "Tantric (with no help at all from Baboon)",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Moonstone",
+        "details": "Moonstone is a computer game developed and published by Mindscape in 1991. This underrated all-time and extremely gory classic blends several different genres, including strategy, real time fighting and role-playing. This version is the original PC game running via DOSBox-wii (1.5) which simply autoboots into the game and has the controls mapped and binded so that you no longer need to use a usb keyboard. \t\n\nControls:\nUse the wiimote's d-dad to move your knight and the button's 1 to attack and 2 to bring up your magic item inventory screen. Only 1-player games currently work.\n\t\n\nCredits: \nCoding (DOSBox Wii): Thanks to Dborth and Carl Kenner for porting DOSBox for the Wii.\n\nMoonstone Credits:\nTodd Prescott, Rob Anderson and Mindscape for creating the original game on the Amiga and PC.\n\nWii contribution(the easy bit): Baboon for editing the mapper to get the joystick working on the Wiimote, creating the HBC icon and for making the game autoboot on the Wii via the config file etc.\n\nMoonstone is officially free Abandonware. \n\nFor more infomation on this classic game (including tutorials on how to play) visit the excellent fan made site: http://www.moonstonetavern.co.uk/\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/moonstone/icon.png",
+            "type": "icon"
+        }
+    ]
+}

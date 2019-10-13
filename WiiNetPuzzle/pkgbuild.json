@@ -1,0 +1,20 @@
+{
+    "package": "WiiNetPuzzle",
+    "info": {
+        "title": "WiiNetPuzzle",
+        "author": "Chris_C",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "A logical puzzle game",
+        "details": "\n\t\tUse WiiMote as a pointer with A and B to rotate\n\t\teach tile till they all link up with the centre\n\t\ttile. Larger game sizes are harder start with\n\t\t5x5 and teach yourself to play...\n\t\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/WiiNetPuzzle/icon.png",
+            "type": "icon"
+        }
+    ]
+}

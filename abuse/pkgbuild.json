@@ -1,0 +1,20 @@
+{
+    "package": "abuse",
+    "info": {
+        "title": "FCE Ultra GX Channel Installer",
+        "author": "Tantric",
+        "category": null,
+        "version": "1.2",
+        "url": null,
+        "license": null,
+        "description": "FCE Ultra GX Channel Installer",
+        "details": "FCE Ultra GX Channel Installer"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/abuse/icon.png",
+            "type": "icon"
+        }
+    ]
+}

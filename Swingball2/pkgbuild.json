@@ -1,0 +1,20 @@
+{
+    "package": "Swingball2",
+    "info": {
+        "title": "Swingball 2",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "0.4",
+        "url": null,
+        "license": null,
+        "description": "Swing",
+        "details": "Swingball 2 is a sequel to a time based platformer with the ability to swing from almost anything.\n\nControls:\nPointer = Aim\nAnalog stick = Move\nA button = Jump\nB button = Swing\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\nmusic (The Jackals) by ara\nccmixter.org/people/ara\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Swingball2/icon.png",
+            "type": "icon"
+        }
+    ]
+}

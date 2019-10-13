@@ -1,0 +1,20 @@
+{
+    "package": "lsusb",
+    "info": {
+        "title": "lsusb",
+        "author": "Brian",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "lsusb",
+        "details": "Dumps USB descriptor infomation"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/lsusb/icon.png",
+            "type": "icon"
+        }
+    ]
+}

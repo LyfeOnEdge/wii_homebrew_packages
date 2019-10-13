@@ -1,0 +1,20 @@
+{
+    "package": "ExistenzE",
+    "info": {
+        "title": "ExistenzE",
+        "author": "NoNameNo",
+        "category": null,
+        "version": "FINAL",
+        "url": null,
+        "license": null,
+        "description": "A Jochen Hippel Tribute",
+        "details": "More than Ten hours of soundchip from the best ATARI/AMIGA musician ever."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/ExistenzE/icon.png",
+            "type": "icon"
+        }
+    ]
+}

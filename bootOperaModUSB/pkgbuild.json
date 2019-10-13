@@ -1,0 +1,20 @@
+{
+    "package": "bootOperaModUSB",
+    "info": {
+        "title": "bootOpera",
+        "author": "gannon",
+        "category": null,
+        "version": "0.4",
+        "url": null,
+        "license": null,
+        "description": "Boot installed Opera",
+        "details": "This will let you boot Opera from the homebrew channel.\nTo boot to a specific page, enter a url in url.cfg.\nIt will try in the order of USA, JAPAN, PAL verions of Opera."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/bootOperaModUSB/icon.png",
+            "type": "icon"
+        }
+    ]
+}

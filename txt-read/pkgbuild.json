@@ -1,0 +1,20 @@
+{
+    "package": "txt-read",
+    "info": {
+        "title": "txt-read",
+        "author": "Muzer, CraZzy, Mattgentl",
+        "category": null,
+        "version": "1.1",
+        "url": null,
+        "license": null,
+        "description": "A text file viewer",
+        "details": "A text file viewer with many features.\n\nCoders:\n        Muzer\n        mattgentl\n        CraZzy\n\nLib makers:\n            AlexLH (libwiiupdate)\n            Davyg (libwiikeyboard)\n            Bool (wiilight example)\n            Beardface (libmxml port)\n            svpe (libfat port)\n            All the people who made Wii Homebrew possible!\n\nEtc.\n     GizmoTheG (icon.png)\n     marcan (various things)\n     Bobbings (a real life friend), for all his support and kind words of\n     advice, and the donation of 20p.\n     AlexLH (file space)\n     WarpedFla (file space)"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/txt-read/icon.png",
+            "type": "icon"
+        }
+    ]
+}

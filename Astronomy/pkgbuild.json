@@ -1,0 +1,20 @@
+{
+    "package": "Astronomy",
+    "info": {
+        "title": "Astronomy",
+        "author": "Harpet-pg",
+        "category": null,
+        "version": "v1.0",
+        "url": null,
+        "license": null,
+        "description": "For the Wii in Lua",
+        "details": "Astronomy for the Wii in Lua"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Astronomy/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "sysCheckGX",
+    "info": {
+        "title": "sysCheck GX",
+        "author": "Erik Spyder",
+        "category": null,
+        "version": "1.0.0",
+        "url": null,
+        "license": null,
+        "description": "System Checker",
+        "details": "Homebrew which does several checks on installed IOS and custom IOS:\n\t- IOS Stub;\n\t- Fake signature (aka Trucha Bug);\n\t- ES_DiVerify (aka ES_Identify);\n\t- Flash Access;\n\t- NAND Access;\n\t- Boot2 Access;\n\t- USB 2.0.\n\nsysCheck GX generates a report on the root of the SD card.\n\n\nThe author can not be held responsible for any damage sysCheck might cause!\n\n------------------\n\nChangelog:\n\nVersion 1.0.0\n    * Initial public release\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/sysCheckGX/icon.png",
+            "type": "icon"
+        }
+    ]
+}

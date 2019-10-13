@@ -1,0 +1,20 @@
+{
+    "package": "codedownloader",
+    "info": {
+        "title": "Code Downloader",
+        "author": "linus",
+        "category": null,
+        "version": "1.5",
+        "url": null,
+        "license": null,
+        "description": "Get WiiRD txt code files",
+        "details": "Saves to sd: /txtcodes/ Controls:(Up,Down,Left,Right,A,Home) Thanks to James0x57@geckocodes.org, all the hackers@wiird.l0nk.org/forum/ and Slimjim8094"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/codedownloader/icon.png",
+            "type": "icon"
+        }
+    ]
+}

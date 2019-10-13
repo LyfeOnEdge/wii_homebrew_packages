@@ -1,0 +1,20 @@
+{
+    "package": "garnatron",
+    "info": {
+        "title": "Garnatron",
+        "author": "Carles V. Gines",
+        "category": null,
+        "version": "1.7",
+        "url": null,
+        "license": null,
+        "description": "Shoot'em up",
+        "details": "Classical vertical shoot'em up - by Carles V. Gines\n\n- 1 player\n- 5 levels\n- 6 different weapons with power updates\n\nhttp://proyectos.bennugd.org/?details=44"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/garnatron/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "iiii",
+    "info": {
+        "title": "iiii",
+        "author": "Yossi",
+        "category": null,
+        "version": "2.1-TR",
+        "url": null,
+        "license": null,
+        "description": "A connect 4 game",
+        "details": "Play connect 4 against your friend or the computer with this idioticly named game."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/iiii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "wiitchdl",
+    "info": {
+        "title": "Wiitch",
+        "author": "TheStripper",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "Wii Batch Downloader",
+        "details": "\n\tA batch downloader for Wii\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiitchdl/icon.png",
+            "type": "icon"
+        }
+    ]
+}

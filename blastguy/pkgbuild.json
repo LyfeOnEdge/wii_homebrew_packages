@@ -1,0 +1,20 @@
+{
+    "package": "blastguy",
+    "info": {
+        "title": "BlastGuy",
+        "author": "TheDrev",
+        "category": null,
+        "version": "3",
+        "url": null,
+        "license": null,
+        "description": "Bomberman clone",
+        "details": "\n    Move and put bombs into the map to blast other guys.\n    Between 2 and 4 players. \n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/blastguy/icon.png",
+            "type": "icon"
+        }
+    ]
+}

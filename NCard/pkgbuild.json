@@ -1,0 +1,20 @@
+{
+    "package": "NCard",
+    "info": {
+        "title": "Ncard Client",
+        "author": " chris,Minus_273",
+        "category": null,
+        "version": "0.4",
+        "url": null,
+        "license": null,
+        "description": "Gamer Card Updater",
+        "details": "\n    Reads the Wii's game play logs and updates your most recently played games on \n    your gamer card at Messageboardchampion.com\n    \n    ONLY RUN AFTER YOU HAVE A NETWORK CONNECTION\n    \n    Requires a username and  password on Messageboardchampion.com\n    \n    "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/NCard/icon.png",
+            "type": "icon"
+        }
+    ]
+}

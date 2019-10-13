@@ -1,0 +1,20 @@
+{
+    "package": "yabause",
+    "info": {
+        "title": "Yabause",
+        "author": "Yabause Team with...",
+        "category": null,
+        "version": "r2926 beta26",
+        "url": null,
+        "license": null,
+        "description": "Sega Saturn Emulator",
+        "details": "This is unofficial version.\nSo, you must not ask the Yabause Team about this unofficial Wii version.\nOriginal Source is coded by Yabause Team  at http://www.yabause.org, and modified source includes this file set. \nFor more information, see http://wiibrew.org/wiki/Yabause_Wii\n(I will update the Wiibrew website. But the site is wiki, anyone \n can edit it. If I felt inconvenience, I might stop updating.)\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/yabause/icon.png",
+            "type": "icon"
+        }
+    ]
+}

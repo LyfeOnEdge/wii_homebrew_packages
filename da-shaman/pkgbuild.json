@@ -1,0 +1,20 @@
+{
+    "package": "da-shaman",
+    "info": {
+        "title": "Da ShAmAn",
+        "author": "Da ShAmAn",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Da ShAmAn's first wii old skool demo",
+        "details": "Da ShAmAn is back with a shout out to talented ppl who want to form a team for wii brew creations, can you make rockin trax or cool lookin logos and fonts ? then get in touch - hint search the binary for .com\n\nWell here we are again... 20 odd years down the line and boy does the internet make demo coding and homebrew a whole world (sorry) easier  .......... greetz fly out to  lynnie, debbie, daimo, paxo, anastasiya and beppie, andreas, lara\n\t\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/da-shaman/icon.png",
+            "type": "icon"
+        }
+    ]
+}

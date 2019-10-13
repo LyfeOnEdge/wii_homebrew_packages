@@ -1,0 +1,20 @@
+{
+    "package": "supersonicwii",
+    "info": {
+        "title": "Supersonic Wii : Winter Edition",
+        "author": "Aaron \"AerialX\"",
+        "category": null,
+        "version": "0.05",
+        "url": null,
+        "license": null,
+        "description": "Music-Rhythm Game",
+        "details": "Supersonic Wii is a music rhythm game where the player needs to hit buttons in sync with the music being played. Called \"space button Guitar Hero\" by some, you play one part of the song at a time (focus on one instrument at a time, for example drums) until you've played it enough to continue on and try another. The sound for each instrument track only plays if you are successful at playing the pattern.\n\n\nFor control schemes and more information, consult the Readme included with this game, or visit http://supersonicwii.com/about for the online readme."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/supersonicwii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

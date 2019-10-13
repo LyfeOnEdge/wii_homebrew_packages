@@ -1,0 +1,20 @@
+{
+    "package": "NewoEscape",
+    "info": {
+        "title": "Newo Escape",
+        "author": "Owen",
+        "category": null,
+        "version": "1.2",
+        "url": null,
+        "license": null,
+        "description": " dodge the rocks while flying fast",
+        "details": "Use wiimote+nunchuck, gamecube or classic controller to play.  Go for a high score.\nYou have no breaks and no weapons."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/NewoEscape/icon.png",
+            "type": "icon"
+        }
+    ]
+}

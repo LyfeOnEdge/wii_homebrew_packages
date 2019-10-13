@@ -1,0 +1,20 @@
+{
+    "package": "bootNetflix",
+    "info": {
+        "title": "bootNetflix",
+        "author": "mdm2k",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Boot installed Netflix Channel",
+        "details": "This will let you boot the Netflix Channel from the Homebrew Channel. It's based on bootOpera."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/bootNetflix/icon.png",
+            "type": "icon"
+        }
+    ]
+}

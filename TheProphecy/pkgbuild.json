@@ -1,0 +1,20 @@
+{
+    "package": "TheProphecy",
+    "info": {
+        "title": "The Prophecy - Dark Half",
+        "author": "Daid, Ezekiel Rage",
+        "category": null,
+        "version": "First Demo",
+        "url": null,
+        "license": null,
+        "description": "Castlevania Clone",
+        "details": "A basic Castlevania clone.\n\nControls:\n1 button = Attack\n2 button = Jump\n\nAuthors:\nCodes:\nDaid\nhttp://daid.mine.nu/\n\nGraphics and Sounds\nEzekiel Rage\nezekielrage.wordpress.com\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/TheProphecy/icon.png",
+            "type": "icon"
+        }
+    ]
+}

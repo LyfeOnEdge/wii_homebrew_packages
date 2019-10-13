@@ -1,0 +1,20 @@
+{
+    "package": "NeoTanks",
+    "info": {
+        "title": "Neo Tanks",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "0.2",
+        "url": null,
+        "license": null,
+        "description": "3D Tank Game",
+        "details": "An act of organized violence involving tanks.\n\nControls:\nPointer = Aim\nAnalog stick = Move\nB button = Shoot\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/NeoTanks/icon.png",
+            "type": "icon"
+        }
+    ]
+}

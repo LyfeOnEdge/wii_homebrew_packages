@@ -1,0 +1,20 @@
+{
+    "package": "DiskDriveLight",
+    "info": {
+        "title": "Disk Drive Lighter",
+        "author": "Khjui",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Turn drive light on/off",
+        "details": "Disk Drive Lighter is a small program that I made used for turning the disk drive light on and off. It is open source, so hopefully others can learn from it. "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/DiskDriveLight/icon.png",
+            "type": "icon"
+        }
+    ]
+}

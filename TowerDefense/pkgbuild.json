@@ -1,0 +1,20 @@
+{
+    "package": "TowerDefense",
+    "info": {
+        "title": "TowerDefense",
+        "author": "wplaat",
+        "category": null,
+        "version": "0.98",
+        "url": null,
+        "license": null,
+        "description": "TowerDefense for Wii",
+        "details": "Wii TowerDefense is an classic 2D action game. Protect your base with all kind of defense systems and kill all the waves of enemies. If ten enemies reach the base the game is over. Good Luck!\n\nSpecial thanks to my family for there support during the development"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/TowerDefense/icon.png",
+            "type": "icon"
+        }
+    ]
+}

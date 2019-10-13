@@ -1,0 +1,20 @@
+{
+    "package": "PlasmaRaketti",
+    "info": {
+        "title": "PlasmaRaketti",
+        "author": "Tassu",
+        "category": null,
+        "version": "0.9",
+        "url": null,
+        "license": null,
+        "description": "A 3D space shooter",
+        "details": "Controls:\nHold your wiimote like a TV remote. Turn your wrist to steer, press A to move and B to shoot.\n\nCredits:\nEverything was done by Tapio \"Tassu\" Pyrhonen\n(http://tapsa.bitmagick.com/nds)\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/PlasmaRaketti/icon.png",
+            "type": "icon"
+        }
+    ]
+}

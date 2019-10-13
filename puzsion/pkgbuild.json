@@ -1,0 +1,20 @@
+{
+    "package": "puzsion",
+    "info": {
+        "title": "Puzsion",
+        "author": "Hokutoy",
+        "category": null,
+        "version": "1.0RC1",
+        "url": null,
+        "license": null,
+        "description": "Gem collecting game.",
+        "details": "Gem-collecting game, made with BennuGD."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/puzsion/icon.png",
+            "type": "icon"
+        }
+    ]
+}

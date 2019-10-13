@@ -1,0 +1,20 @@
+{
+    "package": "MegaCodeDownloader",
+    "info": {
+        "title": "MegaCodeDownloader",
+        "author": "Megazig/tpw_rules",
+        "category": null,
+        "version": "0.4",
+        "url": null,
+        "license": null,
+        "description": "Code Downloader for Ocarina/GechoOS",
+        "details": "Ocarina cheat code downloader for the wii. Programmed to be open-source and\neasily updateable with extra features.  Uses geckocodes.org for cheat code\ndownloads.  Big thanks to James0x57 for his great site and compilation of codes."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/MegaCodeDownloader/icon.png",
+            "type": "icon"
+        }
+    ]
+}

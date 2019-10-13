@@ -1,0 +1,20 @@
+{
+    "package": "snes9xgx-channel-installer",
+    "info": {
+        "title": "Snes9x GX Channel Installer",
+        "author": "Tantric",
+        "category": null,
+        "version": "1.2",
+        "url": null,
+        "license": null,
+        "description": "Snes9x GX Channel Installer",
+        "details": "Snes9x GX Channel Installer"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/snes9xgx-channel-installer/icon.png",
+            "type": "icon"
+        }
+    ]
+}

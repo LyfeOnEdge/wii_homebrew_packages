@@ -1,0 +1,20 @@
+{
+    "package": "wiilight",
+    "info": {
+        "title": "Wiilight",
+        "author": "Bool",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Example controlling disc slot light",
+        "details": "Example controlling disc slot light (simple fading effect using PWM)"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiilight/icon.png",
+            "type": "icon"
+        }
+    ]
+}

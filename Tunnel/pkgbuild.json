@@ -1,0 +1,20 @@
+{
+    "package": "Tunnel",
+    "info": {
+        "title": "Tunnel",
+        "author": "LS",
+        "category": null,
+        "version": "1",
+        "url": null,
+        "license": null,
+        "description": "You are a triangle. Don't hit the walls.",
+        "details": "Tilt the Wiimote to move the Triangle. Try to navigate through the random path without hitting the walls. Press 2 to shoot if you get scared. Press the Home button to quit."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Tunnel/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "kobodl",
+    "info": {
+        "title": "Kobo Deluxe",
+        "author": "The GameCube Linux Team",
+        "category": null,
+        "version": "0.5.1-whiite",
+        "url": null,
+        "license": null,
+        "description": "A scrolling space shooter",
+        "details": "Kobo Deluxe is an enhanced version of Akira Higuchi's game XKobo for Un*x systems with X11. XKobo was a fastpaced multiway scrolling shoot-em-up. It was simple but clever and very addictive.\n\nKobo Deluxe adds sound, smoother animation, high resolution support, OpenGL  acceleration (optional), an intuitive menu driven user interface, joystick support and other features. Recent versions also add a number of alternative skill levels with slightly modernized gameplay. Kobo Deluxe uses SDL for graphics, sound and input, which makes it possible to build and run the game on pretty much anything.\n\nPlease, visit http://olofson.net/kobodl/ for information related to Kobo Deluxe.\nPlease, visit http://www.gc-linux.org for information about Linux on the Nintendo Wii and GameCube.\n\nCopyright (c) 1995, 1996 Akira Higuchi\nCopyright (C) 1997 Masanao Izumo\nCopyright (C) 1999-2001 Simon Peter\nCopyright (C) 2002 Florian Schulze\nCopyright (C) 2002 Jeremy Sheeley\nCopyright (C) 2005 Erik Auerswald\nCopyright (c) 1999-2007 David Olofson\nCopyright (C) 2008 The GameCube Linux Team\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/kobodl/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "quadrax",
+    "info": {
+        "title": "Quadrax (Wii)",
+        "author": "Slappy",
+        "category": null,
+        "version": "0.5",
+        "url": null,
+        "license": null,
+        "description": "The Secrets of Pyramid",
+        "details": "\nQuadrax is logical game game where more than keen reactions you will need fast fingers and you will have to use all your grey brain cells. :-)\nJust only that way you can succeed in solving all the 90 (ninety!) levels, which the game has.\nAuthor \n\nMULTIPLAYER VERSION!\n\nVersion 0.5\n+ Multiplayer game added!!!\n+ Characters are now controlled by Nunchuk joystick\n+ Camera is controlled by D-pad\n* Better loading times\n+ Engine log is created (file Quadrax.log)\n\n\nVersion 0.4\n+ Added sound effect for screenshots-taking\n* Max. unlocked level saving corrected (#bug fixed)\n+ New screen after level completing\n* Victory screen camera position corrected\n\nVersion 0.3\n* Less memory usage\n+ Screenshots-taking is now possible (Nunchuk C button)\n+ Added level number in HUD\n- Max. unlocked level is sometimes not saving correctly (send me an email if this occurs)\n+ Camera movement added (Nunchuk joystick)\n\nVersion 0.2\n* Few graphic improvements.\n+ Minimap added\n+ Game music is playing in background\n+ Performance up!\n\nVersion 0.1\nThis is first public version, so if You find any bug report it! Thanks...\nLevels 00, 01 and 02 are unlocked!\n\n\nControls\nWiimote D-pad (up, down, left, right) = movement\nButton 1 = Red character\nButton 2 = Blue character\nButton A = action\nButton B = Main Menu\nButton Home = Back/Cancel or In-Game Menu\nButton +/- = Level Up/Down \n\nCredits\n\nWii Port\n\nProgramming by Slappy\nhttp://wiibrew.org/wiki/Quadrax or http://www.cwg.yw.sk\nContact: slappy@pobox.sk\n\nOriginal PC game\n\nProgramming, music, SFX and Graphics by Josef Kreutzer\n\nhttp://www.quadrax4.wz.cz/\nContact: j.crusader@seznam.cz\n\nQuadrax idea\nDavid Durcak and Marian Ferko, Cauldron Ltd. (ZX-Spectrum)\n\n(Thanks to all the devs on SDL, libogc, wiiuse... projects for their excellent tools/libraries!)\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/quadrax/icon.png",
+            "type": "icon"
+        }
+    ]
+}

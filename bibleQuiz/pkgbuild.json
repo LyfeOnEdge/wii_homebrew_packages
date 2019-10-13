@@ -1,0 +1,20 @@
+{
+    "package": "bibleQuiz",
+    "info": {
+        "title": "bibleQuiz",
+        "author": "wplaat",
+        "category": null,
+        "version": "0.95",
+        "url": null,
+        "license": null,
+        "description": "BibleQuiz for Wii",
+        "details": "BibleQuiz is an open-source quiz game. Test your knowlegde about the bible. \n\nSpecial thanks to my family for there support during the development"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/bibleQuiz/icon.png",
+            "type": "icon"
+        }
+    ]
+}

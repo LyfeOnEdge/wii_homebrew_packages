@@ -1,0 +1,20 @@
+{
+    "package": "WiiMP3",
+    "info": {
+        "title": "WiiMP3",
+        "author": "Wentstorm",
+        "category": null,
+        "version": "2.0.0",
+        "url": null,
+        "license": null,
+        "description": "An opensource Mp3 Player",
+        "details": "WiiMP3 is a very simple MP3 player with a text interface, but it's completly open source.\n\nCHANGELOG:\n\n- Added support for USB Drives (now you can choose to use SD or USB in the 1st screen)\n- In the filebrowser, pressing B while you are in a subdir, makes it to go to the parent directory - if you are in root, it goes back to the drive selection screen\n- Added \"Now playing FILE\" function\n- Filesize also displayed in Megabytes\n- Volume changing is now possible\n- Semplified control's buttons\n- While playing a song, pressing B will redirect you to the last visited foder and not in root.\n- ASCII-Art logo :P\n- Other minor changes\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/WiiMP3/icon.png",
+            "type": "icon"
+        }
+    ]
+}

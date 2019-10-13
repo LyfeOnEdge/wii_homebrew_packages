@@ -1,0 +1,20 @@
+{
+    "package": "helii3d",
+    "info": {
+        "title": "Helii 3D",
+        "author": "BHSPitMonkey",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "Pilot a helicopter in style!",
+        "details": "\nControls:\n\n(A) Fly (Or start the level)\n(+) Pause (Or setup a new game after crashing)\n(Home) Exit to loader\n\nTodo:\n\n- Scores\n- Sound\n- Menus\n\nChangelog:\n\n0.1: Initial release\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/helii3d/icon.png",
+            "type": "icon"
+        }
+    ]
+}

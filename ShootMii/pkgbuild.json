@@ -1,0 +1,20 @@
+{
+    "package": "ShootMii",
+    "info": {
+        "title": "ShootMii",
+        "author": "ShootMii Team",
+        "category": null,
+        "version": "0.9 svn 184",
+        "url": null,
+        "license": null,
+        "description": "Wii Shooting Tank Game",
+        "details": "cuicui666 & Altarfinch presents ShootMii."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/ShootMii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

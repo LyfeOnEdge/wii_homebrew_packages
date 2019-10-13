@@ -1,0 +1,20 @@
+{
+    "package": "ItalianTraffic",
+    "info": {
+        "title": "Italian Parking ",
+        "author": "ElectroKidd",
+        "category": null,
+        "version": "0.44",
+        "url": null,
+        "license": null,
+        "description": "Puzzle Game",
+        "details": "Try to let the red car(s) to the exit... Just understand what's mean coming in Italy with a car!"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/ItalianTraffic/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "automatii",
+    "info": {
+        "title": "Automatii",
+        "author": "Gabriel Barros",
+        "category": null,
+        "version": "1.2",
+        "url": null,
+        "license": null,
+        "description": "Game Of Life",
+        "details": "Celular Automata Simulation.\n\nControls:\n---------\nROLL WIIMOTE\n\t\troll camera\nPITCH WIIMOTE\n\t\tzoom (point forward for no zoom.\n\t\tdown for zoom in.\n\t\tup for zoom out)\n[-] or [<-]\n\t\tStop camera\n[+] or [->]\n\t\tResume camera control\nHOME BUTTON\n\t\tReturn to loader (exit)\n\n--\nGabriel Barros\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/automatii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

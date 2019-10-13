@@ -1,0 +1,20 @@
+{
+    "package": "HMPreview",
+    "info": {
+        "title": "HOME Demo",
+        "author": "Arikado",
+        "category": null,
+        "version": "None",
+        "url": null,
+        "license": null,
+        "description": "Lib Deomonstartion",
+        "details": "Deomonstartion of the The HOMEbrew Menu Standard Library."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/HMPreview/icon.png",
+            "type": "icon"
+        }
+    ]
+}

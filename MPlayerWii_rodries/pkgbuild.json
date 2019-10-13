@@ -1,0 +1,20 @@
+{
+    "package": "MPlayerWii_rodries",
+    "info": {
+        "title": "MPlayer-Wii_rodries",
+        "author": "rodries",
+        "category": null,
+        "version": "0.07.4 r20",
+        "url": null,
+        "license": null,
+        "description": "MPlayer for the Wii",
+        "details": "This is a port of MPlayer (http://mplayerhq.hu) for the Nintendo Wii. Put your video and audio files on the root folder of the SD card."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/MPlayerWii_rodries/icon.png",
+            "type": "icon"
+        }
+    ]
+}

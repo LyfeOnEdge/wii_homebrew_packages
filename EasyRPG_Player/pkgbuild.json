@@ -1,0 +1,20 @@
+{
+    "package": "EasyRPG_Player",
+    "info": {
+        "title": "EasyRPG Player",
+        "author": "EasyRPG Team",
+        "category": null,
+        "version": "0.1.2",
+        "url": null,
+        "license": null,
+        "description": "RPG Maker 2000/2003 player",
+        "details": "EasyRPG is a Role Playing Game interpreter for playing games created by the RPG Maker 2000/2003.\n\nHomepage: http://easy-rpg.org/"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/EasyRPG_Player/icon.png",
+            "type": "icon"
+        }
+    ]
+}

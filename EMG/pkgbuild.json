@@ -1,0 +1,20 @@
+{
+    "package": "EMG",
+    "info": {
+        "title": "EMG",
+        "author": "DeViaNTe & Chimecho",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "Endless Maze Game",
+        "details": "Endless Maze Game, un juego donde el \u00fanico objetivo es buscar la salida, atravesando laberintos 3D, en juego sin fin...\n\nAutores: DeViaNTe & Chimecho\n\nEl objetivo del juego es atravesar una infinita cantidad de laberintos. Este juego es una prueba de concepto, donde se aparenta estar en un entorno 3D usando rect\u00e1ngulos.\n\nPara salir del laberinto, lo \u00fanico que debemos hacer es ir caminando, y si nos llegamos a trabar, podemos usar el mapa.\n\nPara pasar de nivel, debemos llegar a un punto verde que estar\u00e1 marcado en el mapa, y que siempre se encuentra en la esquina inferior derecha del mismo.\n\nPara m\u00e1s informaci\u00f3n visita wii.scenebeta.com"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/EMG/icon.png",
+            "type": "icon"
+        }
+    ]
+}

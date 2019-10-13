@@ -1,0 +1,20 @@
+{
+    "package": "sar",
+    "info": {
+        "title": "Sar",
+        "author": "Sam Carmichael",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Move around in 3d over a colorful terrain",
+        "details": "Sar is a Nintendo Wii game made in America where you can move around in 3d over a colorful terrain.\n \nYou can switch between 3 camera types with the ''A'' button (still, following, pointing), jump with the ''B'' button, zoom with ''1'' - ''2'' buttons, rotate the camera with ''-'', ''+'' buttons, and move around (as if on flat ground) with d-pad on the remote in a fully 3d environment.\n\nHOME to exit. \n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/sar/icon.png",
+            "type": "icon"
+        }
+    ]
+}

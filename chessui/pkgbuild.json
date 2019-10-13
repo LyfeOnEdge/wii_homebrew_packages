@@ -1,0 +1,20 @@
+{
+    "package": "chessui",
+    "info": {
+        "title": "ChessUI",
+        "author": "TheDrev",
+        "category": null,
+        "version": "1",
+        "url": null,
+        "license": null,
+        "description": "Chess game",
+        "details": "Chess interface designed to use several engines. \n  Currently, only the FirstChess engine is playable"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/chessui/icon.png",
+            "type": "icon"
+        }
+    ]
+}

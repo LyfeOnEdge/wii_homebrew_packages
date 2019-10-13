@@ -1,0 +1,20 @@
+{
+    "package": "geexbox",
+    "info": {
+        "title": "GeeXboX for Wii",
+        "author": "ported by farter",
+        "category": null,
+        "version": "0.1beta2",
+        "url": null,
+        "license": null,
+        "description": "Linux Open Media Center",
+        "details": "\nThis is an UNOFFICIAL port of GeeXboX.\n\nProject Homepage:\nhttp://geexboxforwii.sourceforge.net"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/geexbox/icon.png",
+            "type": "icon"
+        }
+    ]
+}

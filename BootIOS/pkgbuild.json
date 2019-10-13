@@ -1,0 +1,20 @@
+{
+    "package": "BootIOS",
+    "info": {
+        "title": "BootIOS",
+        "author": "Vithon",
+        "category": null,
+        "version": "1.1",
+        "url": null,
+        "license": null,
+        "description": "BootMii IOS loader",
+        "details": "Small (really small) app to load BootMii IOS version."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/BootIOS/icon.png",
+            "type": "icon"
+        }
+    ]
+}

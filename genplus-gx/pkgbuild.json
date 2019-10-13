@@ -1,0 +1,20 @@
+{
+    "package": "genplus-gx",
+    "info": {
+        "title": "Genesis Plus GX",
+        "author": "Eke-Eke",
+        "category": null,
+        "version": "1.7.4",
+        "url": null,
+        "license": null,
+        "description": "Sega 8-bit/16-bit emulator",
+        "details": "This is a Sega / Mega CD, Mega Drive / Genesis, Master System, Game Gear & SG-1000 emulator based on the initial work of Charles MacDonald. The original code has been highly modified to improve emulation accuracy as well as adding many extra features, in order to provide 100% game compatibility with emulated systems. For any questions, make sure to read the user manual first and visit official homepage at http://code.google.com/p/genplus-gx/"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/genplus-gx/icon.png",
+            "type": "icon"
+        }
+    ]
+}

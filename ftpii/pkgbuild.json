@@ -1,0 +1,20 @@
+{
+    "package": "ftpii",
+    "info": {
+        "title": "ftpii",
+        "author": "joedj",
+        "category": null,
+        "version": "0.0.21",
+        "url": null,
+        "license": null,
+        "description": "An FTP server",
+        "details": "ftpii is an FTP server.\n\nTo exit, hold A on controller #1 or press the reset button.\nTo remount a device, hold B on controller #1.\nTo specify a password, rename the apps/ftpii directory to apps/ftpii_YourPassword.\nTo specify a password remotely, use the SITE PASSWD and SITE NOPASSWD commands.\n\nA working DVDx installation is required for the DVD features."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/ftpii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

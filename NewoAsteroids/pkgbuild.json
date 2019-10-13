@@ -1,0 +1,20 @@
+{
+    "package": "NewoAsteroids",
+    "info": {
+        "title": "Newo Asteroids",
+        "author": "Owen",
+        "category": null,
+        "version": "2.6",
+        "url": null,
+        "license": null,
+        "description": "Protect the earth against destruction",
+        "details": "Defend earth against aliens and asteroids.  \nUse wiimote+nunchuck, gamecube or classic controller to play.  \nGo for a high score or try to complete challenges."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/NewoAsteroids/icon.png",
+            "type": "icon"
+        }
+    ]
+}

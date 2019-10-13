@@ -1,0 +1,20 @@
+{
+    "package": "alienbreed",
+    "info": {
+        "title": "Alien Breed 2010 WII",
+        "author": "HabitualCoder",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Alien Breed 92 Clone",
+        "details": "Classic top-down Guantlet style shooter from Amiga heydays originally written by Team17. This version is a WII clone of a FlashJesterPunk's 2007 PC retro remake.\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/alienbreed/icon.png",
+            "type": "icon"
+        }
+    ]
+}

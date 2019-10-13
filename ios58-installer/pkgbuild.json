@@ -1,0 +1,20 @@
+{
+    "package": "ios58-installer",
+    "info": {
+        "title": "IOS58 Installer",
+        "author": "Tantric",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Installs IOS58",
+        "details": "Downloads and installs IOS58 from NUS"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/ios58-installer/icon.png",
+            "type": "icon"
+        }
+    ]
+}

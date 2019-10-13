@@ -1,0 +1,20 @@
+{
+    "package": "jewels",
+    "info": {
+        "title": "Jewels",
+        "author": "David Ashley",
+        "category": null,
+        "version": "1.01",
+        "url": null,
+        "license": null,
+        "description": "Jewels action game",
+        "details": "Try to clear away jewels by using mouse to swap neighbors next to each other to make at least 3 in a row."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/jewels/icon.png",
+            "type": "icon"
+        }
+    ]
+}

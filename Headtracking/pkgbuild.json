@@ -1,0 +1,20 @@
+{
+    "package": "Headtracking",
+    "info": {
+        "title": "Headtracking",
+        "author": "PaulWagener",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Headtracking Demo",
+        "details": "Demo inspired by Johnny Chung Lees YouTube video of headtracking.\nPut the Wiimote by your TV-set while you hold the sensorbar above or under your head.\nThe image will zoom and pan around as you move in front of the TV.\n   \n   Controls:\n   Home - Back to Homebrew channel\n   A - Show debug information\n   D-pad plus minus - change variables"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Headtracking/icon.png",
+            "type": "icon"
+        }
+    ]
+}

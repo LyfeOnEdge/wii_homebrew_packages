@@ -1,0 +1,20 @@
+{
+    "package": "PostEm",
+    "info": {
+        "title": "Post'Em",
+        "author": "EvilSpoon and ZeBlackos",
+        "category": null,
+        "version": "0.0.01Beta12",
+        "url": null,
+        "license": null,
+        "description": "Questions on post-its",
+        "details": "Questions on post-its"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/PostEm/icon.png",
+            "type": "icon"
+        }
+    ]
+}

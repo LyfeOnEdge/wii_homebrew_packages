@@ -1,0 +1,20 @@
+{
+    "package": "btc",
+    "info": {
+        "title": "Bash The Castle",
+        "author": "Scanff",
+        "category": null,
+        "version": "Version 1.0",
+        "url": null,
+        "license": null,
+        "description": "Bash The Castle, Destroy castles with rocks",
+        "details": "\n\tBash The Castle, Go forth and destroy the castles!\n\n\tCoding by Scanff\n\tSound by WaxyPumpkin72\n\tArt by bg4545 and Scanff\n    "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/btc/icon.png",
+            "type": "icon"
+        }
+    ]
+}

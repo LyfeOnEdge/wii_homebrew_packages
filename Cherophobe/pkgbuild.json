@@ -1,0 +1,20 @@
+{
+    "package": "Cherophobe",
+    "info": {
+        "title": "Cherophobe",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "1.3",
+        "url": null,
+        "license": null,
+        "description": "Resist the happy",
+        "details": "Cherophobe is a first person shooter with a smile.\n\nThis game has an online leaderboard.\n\nControls:\nAnalog stick = Move\nIR pointer = aim\nB button = shoot\nA button = stop turning\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\nmusic (Melancoly) by Grace Valhalla\njamendo.com/en/artist/grace.valhalla/\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Cherophobe/icon.png",
+            "type": "icon"
+        }
+    ]
+}

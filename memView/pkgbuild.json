@@ -1,0 +1,20 @@
+{
+    "package": "memView",
+    "info": {
+        "title": "memView",
+        "author": "gannon",
+        "category": null,
+        "version": "0.1a",
+        "url": null,
+        "license": null,
+        "description": "Wii Memory Viewer",
+        "details": null
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/memView/icon.png",
+            "type": "icon"
+        }
+    ]
+}

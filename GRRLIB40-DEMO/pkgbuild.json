@@ -1,0 +1,20 @@
+{
+    "package": "GRRLIB40-DEMO",
+    "info": {
+        "title": "GRRLIB 4.0 Demo",
+        "author": "NoNameNo",
+        "category": null,
+        "version": "4.0.0",
+        "url": null,
+        "license": null,
+        "description": "a GRRLib 4.0 presentation",
+        "details": "Here is the so waited GRRLib 4.0 Demo. It's a little presentation of some GRRLib 4.0 capabilities. Hope you will like it. More info http://grrlib.santo.fr"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/GRRLIB40-DEMO/icon.png",
+            "type": "icon"
+        }
+    ]
+}

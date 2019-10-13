@@ -1,0 +1,20 @@
+{
+    "package": "playstats",
+    "info": {
+        "title": "Playstats",
+        "author": "chris",
+        "category": null,
+        "version": "1.1",
+        "url": null,
+        "license": null,
+        "description": "Wii playtime history stats",
+        "details": "Analyse your Wii's play history.\n    \nv1.1\nBug fixes, Unicode support and logging ability.\n\nTOX 010\n\nwww.toxicbreakfast.com"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/playstats/icon.png",
+            "type": "icon"
+        }
+    ]
+}

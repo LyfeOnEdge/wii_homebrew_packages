@@ -1,0 +1,20 @@
+{
+    "package": "defendguin",
+    "info": {
+        "title": "Defendguin",
+        "author": "MiniK",
+        "category": null,
+        "version": "0.11b",
+        "url": null,
+        "license": null,
+        "description": "Defender Clone",
+        "details": "Defendguin is a clone of the arcade game \"Defender,\" but with a Linux theme. Your mission is to defend little penguinoids from being captured and mutated."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/defendguin/icon.png",
+            "type": "icon"
+        }
+    ]
+}

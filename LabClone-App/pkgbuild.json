@@ -1,0 +1,20 @@
+{
+    "package": "LabClone-App",
+    "info": {
+        "title": "LabClone",
+        "author": "Hirni-Hard",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Train your Wiimote handling",
+        "details": "\nLabClone aka ChindliSchreck\nTrain your Wiimote handling\nAttention: Not suitable for children under 10 years or very aged people\nUSE AT YOUR OWN RISK ;-)\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/LabClone-App/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "Tetrominos",
+    "info": {
+        "title": "Tetrominos Rebel",
+        "author": "Created by Vash",
+        "category": null,
+        "version": "0.5 Beta",
+        "url": null,
+        "license": null,
+        "description": "Avoid the falling pieces!",
+        "details": "\nAfter years of torture and being held without permission, the Tetrominos from the famous Tetris series have finally turned. Use your cursor to avoid the attacking pieces for as long as possible. Take a screenshot of your high score (saved to SD:\\screenshot.png) and show your friends!\n\nConcept, graphics, and programming by Vash\nhttp://www.Game-Hackers.com"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Tetrominos/icon.png",
+            "type": "icon"
+        }
+    ]
+}

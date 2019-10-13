@@ -1,0 +1,20 @@
+{
+    "package": "pacline",
+    "info": {
+        "title": "Pacline",
+        "author": "crazygoth",
+        "category": null,
+        "version": "1.2",
+        "url": null,
+        "license": null,
+        "description": "pacman en ligne droite",
+        "details": "\n-wiimote a la vertical \n-l ecran defile \n-droite et gauche pour se deplace \n-ramasser les points\n-eviter les ennemis\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/pacline/icon.png",
+            "type": "icon"
+        }
+    ]
+}

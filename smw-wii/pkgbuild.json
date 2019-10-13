@@ -1,0 +1,20 @@
+{
+    "package": "smw-wii",
+    "info": {
+        "title": "Super Mario War Wii",
+        "author": "Tantric",
+        "category": null,
+        "version": "1.4",
+        "url": null,
+        "license": null,
+        "description": "Port of Super Mario War",
+        "details": "Port of Super Mario War"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/smw-wii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

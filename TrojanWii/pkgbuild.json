@@ -1,0 +1,20 @@
+{
+    "package": "TrojanWii",
+    "info": {
+        "title": "TrojanWii",
+        "author": "Jon Conrad",
+        "category": null,
+        "version": "Unknown",
+        "url": null,
+        "license": null,
+        "description": "Trojan LCD Simulator for Wii",
+        "details": "Here is the Trojan LCD game simulator I wrote. I have it running on PC, OSX, NDS, Wii and the original xbox. I decided to write it using SDL so It would port easliy. OS X was the easiest while the PC and Visual Studio was a big pain in the butt. I didn\u2019t simulate the date or time functions as I was only interested in the game play element. Have Fun."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/TrojanWii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "Kof_BENNU_Wii",
+    "info": {
+        "title": "King of Fighters: Flames of Courage V5",
+        "author": "EGS",
+        "category": null,
+        "version": "5d",
+        "url": null,
+        "license": null,
+        "description": "Fighting game",
+        "details": "Fight agains CPU or a friend. Select between 9 characters and prepare yourself! Your Wii will never be so gore!\n\nhttp://sites.google.com/site/egstudiogames/\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Kof_BENNU_Wii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

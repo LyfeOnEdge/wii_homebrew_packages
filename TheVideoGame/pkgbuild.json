@@ -1,0 +1,20 @@
+{
+    "package": "TheVideoGame",
+    "info": {
+        "title": "The Video Game",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "0.3",
+        "url": null,
+        "license": null,
+        "description": "Interactive Entertainment",
+        "details": "This is a game.\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\nmusic (Cerebral Corset) by audiotechnica\nhttp://ccmixter.org/people/audiotechnica\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/TheVideoGame/icon.png",
+            "type": "icon"
+        }
+    ]
+}

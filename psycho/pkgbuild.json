@@ -1,0 +1,20 @@
+{
+    "package": "psycho",
+    "info": {
+        "title": "Psycho",
+        "author": "Enno",
+        "category": null,
+        "version": "1.1",
+        "url": null,
+        "license": null,
+        "description": "Light Synthesizer",
+        "details": "Inspired by Jeff Minter's Psychedelia for the Commodore 64"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/psycho/icon.png",
+            "type": "icon"
+        }
+    ]
+}

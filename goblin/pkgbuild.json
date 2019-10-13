@@ -1,0 +1,20 @@
+{
+    "package": "goblin",
+    "info": {
+        "title": "Goblin's Cube",
+        "author": "sponters",
+        "category": null,
+        "version": "1.1.0",
+        "url": null,
+        "license": null,
+        "description": "A Rubik's Cube game",
+        "details": "A Rubik's Cube game with motion detection interface. Read the instructions screen or visit http://www.wiibrew.org/wiki/Goblin's_Cube for more information"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/goblin/icon.png",
+            "type": "icon"
+        }
+    ]
+}

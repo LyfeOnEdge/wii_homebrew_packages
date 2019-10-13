@@ -1,0 +1,20 @@
+{
+    "package": "inkpoly",
+    "info": {
+        "title": "Inkpoly",
+        "author": "David Ashley",
+        "category": null,
+        "version": "1.01",
+        "url": null,
+        "license": null,
+        "description": "Inkpoly screensaver",
+        "details": "Wii port of inkpoly screensaver by David Ashley http://www.linuxmotors.com/inkpoly"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/inkpoly/icon.png",
+            "type": "icon"
+        }
+    ]
+}

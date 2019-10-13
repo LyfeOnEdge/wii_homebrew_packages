@@ -1,0 +1,20 @@
+{
+    "package": "sandtraps",
+    "info": {
+        "title": "Sand Traps",
+        "author": "Uffe Flarup",
+        "category": null,
+        "version": "2.3",
+        "url": null,
+        "license": null,
+        "description": "Puzzle/platform game",
+        "details": "This is an original Wii homebrew game.\n\nTwist your wiimote to guide the sand towards the exit and avoid the traps on the board!"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/sandtraps/icon.png",
+            "type": "icon"
+        }
+    ]
+}

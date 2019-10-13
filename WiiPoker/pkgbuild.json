@@ -1,0 +1,20 @@
+{
+    "package": "WiiPoker",
+    "info": {
+        "title": "WiiPoker",
+        "author": "Beardface",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "Video Poker for the Wii",
+        "details": "WiiPoker is an implementation of Video Poker for the Wii.  It was programmed using libogc along with GRRLIB.  Also, the opencardlibrary project on sourceforge was used as the card engine. (Also programmed by beardface).  As always, thanks to those at wiibrew and devkitpro for making homebrew possible."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/WiiPoker/icon.png",
+            "type": "icon"
+        }
+    ]
+}

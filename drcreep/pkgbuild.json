@@ -1,0 +1,20 @@
+{
+    "package": "drcreep",
+    "info": {
+        "title": "The Castles of Dr. Creep",
+        "author": "Ed Hobbs",
+        "category": null,
+        "version": "SVN-351",
+        "url": null,
+        "license": null,
+        "description": "Ported by segra",
+        "details": "\nPorted by segra\n\nAbout:\n------\n The Castles of Dr. Creep is an open source reimplementation of the \n  original 1984 Commodore 64 game by Ed Hobbs.\n\n\n\nRequired To Play:\n----------------- \n Commodore 64 Disk Image (D64) of \"The Castles of Dr. Creep\", \n  which should be placed inside the game 'data' folder. \n \n This file may have any name, but the 'D64' extension must remain.\n\n\nWhats Missing:\n--------------\n  Nothing!\n\n\nWhats Broken:\n-------------\n *occasional lock-up, caused by walking, or mummy/franky walking\n *sound is not perfect\n *graphic glitch caused by floor-switch toggling\n \n\n\nSave Game Support:\n------------------\n D64s will be created in the data\\save folder, and all save games will be stored in these files.\n These files are compatible with the original Commodore64 game, and in return the original save games are supported.\n\n\n\nWii Version:\n------------\n Hold WiiMote on its side,\n\n  In-Game:\n    DPAD \t= Movement\n    Button 2 \t= Fire Button\n    Button A \t= Self Kill\n\n  Intro:\t\n    Button Plus = Option Menu\n    Button 1 \t= HighScores\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/drcreep/icon.png",
+            "type": "icon"
+        }
+    ]
+}

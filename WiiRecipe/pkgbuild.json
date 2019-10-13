@@ -1,0 +1,20 @@
+{
+    "package": "WiiRecipe",
+    "info": {
+        "title": "Wii Recipe",
+        "author": "CalThePhenom",
+        "category": null,
+        "version": "0.3",
+        "url": null,
+        "license": null,
+        "description": "Displays Recipes, Receently Updated",
+        "details": "Displays Recipes. Please Subscribe To CalThePhenom On Youtube If You Used This App"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/WiiRecipe/icon.png",
+            "type": "icon"
+        }
+    ]
+}

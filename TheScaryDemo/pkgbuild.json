@@ -1,0 +1,20 @@
+{
+    "package": "TheScaryDemo",
+    "info": {
+        "title": "The Scary Demo",
+        "author": "CRTC",
+        "category": null,
+        "version": "1",
+        "url": null,
+        "license": null,
+        "description": "A demo.",
+        "details": "A demo by CRTC, released at Revision 2012. Soundtrack is\n\"Tesla\" by Golgot/SmokeLife vs. Simao.\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/TheScaryDemo/icon.png",
+            "type": "icon"
+        }
+    ]
+}

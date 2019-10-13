@@ -1,0 +1,20 @@
+{
+    "package": "vbagx-channel-installer",
+    "info": {
+        "title": "VBA GX Channel Installer",
+        "author": "Tantric",
+        "category": null,
+        "version": "1.3",
+        "url": null,
+        "license": null,
+        "description": "VBA GX Channel Installer",
+        "details": "VBA GX Channel Installer"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/vbagx-channel-installer/icon.png",
+            "type": "icon"
+        }
+    ]
+}

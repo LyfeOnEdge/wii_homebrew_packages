@@ -1,0 +1,20 @@
+{
+    "package": "nowhere",
+    "info": {
+        "title": "Nowhere",
+        "author": "copete23",
+        "category": null,
+        "version": "0.9",
+        "url": null,
+        "license": null,
+        "description": "Bienvenido a ninguna parte",
+        "details": "\u00bfQue ocurriria si un dia despertaras en un lugar desconocido, sin nadie a tu alrededor, y sin saber quien eres?. En Nowhere deber\u00e1s adentrarte en la misteriosa ciudadela y encontrar la salida que te permita abandonar ese frio y siniestro lugar.\n    \u00bfExistir\u00e1 realmente una salida?, \u00bfQue misterios esconder\u00e1 este extra\u00f1o lugar?\n\n\t-CONTROLES-\n     Wiimote: apuntar, mover c\u00e1mara.\n     A: Saltar, siguiente.\n     B: Acci\u00f3n, agarrar un objeto.\n     HOME: salir\n     NUNCHUCK/Stick: Avanzar.\n    \n\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/nowhere/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "plusoumoins",
+    "info": {
+        "title": "plusoumoins",
+        "author": "Crazygoth",
+        "category": null,
+        "version": "0.5",
+        "url": null,
+        "license": null,
+        "description": "find the mystery nombers",
+        "details": "find the mystery nombers\nthanks to :\n# Team Twiizers\n# DevkitPro Authors \n# GRRLIB http://grrlib.santo.fr\n# Wii Addict http://www.wii-addict.fr"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/plusoumoins/icon.png",
+            "type": "icon"
+        }
+    ]
+}

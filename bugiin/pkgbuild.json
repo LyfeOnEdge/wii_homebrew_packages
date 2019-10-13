@@ -1,0 +1,20 @@
+{
+    "package": "bugiin",
+    "info": {
+        "title": "bugiin",
+        "author": "brunette_redhead",
+        "category": null,
+        "version": "1.4",
+        "url": null,
+        "license": null,
+        "description": "Swat the Bugs!",
+        "details": "Swat each of the bugs on the screen using the wiimote by pointing and pressing either the A or B button\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/bugiin/icon.png",
+            "type": "icon"
+        }
+    ]
+}

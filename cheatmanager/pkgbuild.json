@@ -1,0 +1,20 @@
+{
+    "package": "cheatmanager",
+    "info": {
+        "title": "Cheat Manager",
+        "author": "SpriteZ",
+        "category": null,
+        "version": "0.3",
+        "url": null,
+        "license": null,
+        "description": "Cheat code manager",
+        "details": "[ DESCRIPTION ]:\n\n- Cheat Manager is an homebrew that allows you to generate GCT file\n  form text file.\n\n- Allows you edit text code.\n\n- List txt file on sd card.\n\n- Chaet Codes can be found here : http://www.usbgecko.com/codes/\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/cheatmanager/icon.png",
+            "type": "icon"
+        }
+    ]
+}

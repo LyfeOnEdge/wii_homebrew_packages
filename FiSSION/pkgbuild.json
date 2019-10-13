@@ -1,0 +1,20 @@
+{
+    "package": "FiSSION",
+    "info": {
+        "title": "FiSSION Engine Project",
+        "author": "PunMaster",
+        "category": null,
+        "version": "0.01",
+        "url": null,
+        "license": null,
+        "description": "Public Demo v0.01",
+        "details": "FiSSION is a homebrew 3D game engine being developed for the Nintendo Wii. Its goal is to allow homebrew developers the opportunity to develop studio-quality games without the massive upfront investment of writing a game engine to support their content. This is a very early demonstration build of this project, which allows users to select and browse game levels, rendered real-time in 3D."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/FiSSION/icon.png",
+            "type": "icon"
+        }
+    ]
+}

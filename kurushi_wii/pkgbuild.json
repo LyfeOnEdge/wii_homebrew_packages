@@ -1,0 +1,20 @@
+{
+    "package": "kurushi_wii",
+    "info": {
+        "title": "KURUSHI Wii",
+        "author": "Tchagui",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "KURUSHI Wii est un puzzle-game.",
+        "details": "Jeu de reflexion. Soyez vif, rapide, detruisez les cubes avant qu'ils ne vous ecrasent. Jeu developpe a l'occasion de la NintendoMax Wii Dev Compo 2012 www.nintendomax.com"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/kurushi_wii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

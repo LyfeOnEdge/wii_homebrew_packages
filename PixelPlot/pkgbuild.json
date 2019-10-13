@@ -1,0 +1,20 @@
+{
+    "package": "PixelPlot",
+    "info": {
+        "title": "PixelPlot",
+        "author": "Morukutsu",
+        "category": null,
+        "version": "1.0.0-NMax",
+        "url": null,
+        "license": null,
+        "description": "The king is so fat !",
+        "details": "PixelPlot is a platform game, to finish a level, you have to find all of the \"Pixols\". With the level editor, you are able to make your own levels."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/PixelPlot/icon.png",
+            "type": "icon"
+        }
+    ]
+}

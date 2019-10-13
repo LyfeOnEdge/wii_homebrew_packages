@@ -1,0 +1,20 @@
+{
+    "package": "ironing",
+    "info": {
+        "title": "IRONING MAIDEN",
+        "author": "Nuance & G*P",
+        "category": null,
+        "version": "1.0 - Released at tUM 2011",
+        "url": null,
+        "license": null,
+        "description": "The real simulator",
+        "details": "Move your Wiimote to iron the shirt within the time limit, but don't overheat the shirt!"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/ironing/icon.png",
+            "type": "icon"
+        }
+    ]
+}

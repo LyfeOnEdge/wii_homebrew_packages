@@ -1,0 +1,20 @@
+{
+    "package": "WII7800",
+    "info": {
+        "title": "Wii7800",
+        "author": "raz0red",
+        "category": null,
+        "version": "0.3",
+        "url": null,
+        "license": null,
+        "description": "Atari 7800 Emulator",
+        "details": "Wii7800 is a port of the ProSystem emulator developed by Greg Stanton.\nAdditional changes developed by Ludovic Jacomme aka Zx-81 (PSP port), Leonis, and gdement.\n\nWii port by raz0red [http://www.twitchasylum.com].\n   "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/WII7800/icon.png",
+            "type": "icon"
+        }
+    ]
+}

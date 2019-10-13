@@ -1,0 +1,20 @@
+{
+    "package": "robo_tank",
+    "info": {
+        "title": "Robo tank",
+        "author": "Copete23",
+        "category": null,
+        "version": "0.6.8",
+        "url": null,
+        "license": null,
+        "description": "Destroy tanks",
+        "details": "The world is being conquered by the evil of Warlior and and his army of tanks, the only hope is you, a brave warrior who at the controls of a super tank will have to face to face the dreaded Warlior. Use powerful weapons to defeat your enemies, fight with powerful final bosses (in this version at the moment there is only one)"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/robo_tank/icon.png",
+            "type": "icon"
+        }
+    ]
+}

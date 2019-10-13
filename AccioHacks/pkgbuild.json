@@ -1,0 +1,20 @@
+{
+    "package": "AccioHacks",
+    "info": {
+        "title": "Accio Hacks",
+        "author": "James0x57",
+        "category": null,
+        "version": "v1.2",
+        "url": null,
+        "license": null,
+        "description": "Get Codes, Create gct's",
+        "details": "The Official WiiRD Code Database App.\n  \n  Features:\n  * Access all the latest codes for Wii games and Channels- including VC and WW- right from the hackers by connecting to GeckoCodes.org and downloading them right to your SD Card!\n  * Edit and Enable codes to create the gct file that Gecko OS can apply to your game!\n  * Automatically be notified of, and apply, Accio Hacks updates when they happen!\n  * SD Cards can be swapped out whenever you'd like for any reason you may have!\n  * A complete user interface resembling the WiiRD Code Database that makes all of the above quick and easy!\n  * Full support for Wii Remote, Classic Controller, and the GCN Controller!\n  \n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/AccioHacks/icon.png",
+            "type": "icon"
+        }
+    ]
+}

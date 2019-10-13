@@ -1,0 +1,20 @@
+{
+    "package": "WiiSPACE",
+    "info": {
+        "title": "WiiSPACE",
+        "author": "Seiken",
+        "category": null,
+        "version": "1.2a",
+        "url": null,
+        "license": null,
+        "description": "Shoot-'em-up in space",
+        "details": "\nThe online high score table can be found at http://www.seiken.co.uk/WiiSPACE.\nFor more detailed information and game help, see http://www.wiibrew.org/WiiSPACE.\n\nAn original retro-themed spaceship shoot-'em-up supporting up to 4 simultaneous players for co-operative play.\nFeatures include powerups, bosses, high scores, and an aiming system allowing independent movement and targeting.\n\nControls (Wiimote and nunchuk)\n\t\t\t\tStart, pause - Minus, home or plus\n\t\t\t\tMenu navigation - D-pad\n\t\t\t\tMenu accept, menu cancel - A, B\n\t\t\t\tControl spaceship - Nunchuk analog stick\n\t\t\t\tControl targeting crosshair - Wiimote aim\n\t\t\t\tFire - B\n\t\t\t\tUse bomb - A or Z\n\nControls (Gamecube controller)\n\t\t\t\tStart, pause - Start\n\t\t\t\tMenu navigation - D-pad\n\t\t\t\tMenu accept, menu cancel - A, B\n\t\t\t\tControl spaceship - Analog stick\n\t\t\t\tControl targeting crosshair - C-stick\n\t\t\t\tFire - R or C-stick\n\t\t\t\tUse bomb - A or L\n\nControls (Classic controller)\n\t\t\t\tStart, pause - Minus, home or plus\n\t\t\t\tMenu navigation - D-pad\n\t\t\t\tMenu accept, menu cancel - B, Y\n\t\t\t\tControl spaceship - Left analog stick\n\t\t\t\tControl targeting crosshair - Right analog stick\n\t\t\t\tFire - R or right analog stick\n\t\t\t\tUse bomb - B or L\n\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/WiiSPACE/icon.png",
+            "type": "icon"
+        }
+    ]
+}

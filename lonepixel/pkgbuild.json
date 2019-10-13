@@ -1,0 +1,20 @@
+{
+    "package": "lonepixel",
+    "info": {
+        "title": "The Lone Pixel",
+        "author": "Aslai",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Aslai's Ludum Dare entry",
+        "details": "\n  Controls:\n    Note: use the Wiimote on its side.\n    Movement: D-Pad\n    Jump: 2\n    Restart Level: -\n    Next Level: +\n    Quit: Home\n\n\nThis was originally programmed as an entry \nfor Ludum Dare on the PC, but I got a Wii for \nChristmas and I thought I'd try my hand at \nHomebrew. As my first big project, I ported this.\nEnjoy!\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/lonepixel/icon.png",
+            "type": "icon"
+        }
+    ]
+}

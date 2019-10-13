@@ -1,0 +1,20 @@
+{
+    "package": "net_enabler",
+    "info": {
+        "title": "Offline Network Enabler",
+        "author": "Suloku",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "Enable network connections",
+        "details": "This applications allows to enable and use a network connection (set up from the wii's system menu configuration screen) even if there's no internet access, since the wii won't allow using a connection if it doesn't pass the internet test.\n\nWarning! This application writes to the nand.\n\nNand access based on fstoolbox by Nicksasa and WiiPower"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/net_enabler/icon.png",
+            "type": "icon"
+        }
+    ]
+}

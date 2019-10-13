@@ -1,0 +1,20 @@
+{
+    "package": "CobraArcade",
+    "info": {
+        "title": "COBRA ARCADE",
+        "author": "TROUDKY/STARKY",
+        "category": null,
+        "version": "Alpha 0.1",
+        "url": null,
+        "license": null,
+        "description": "Rail Shooting Games",
+        "details": "Shoot with B. !"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/CobraArcade/icon.png",
+            "type": "icon"
+        }
+    ]
+}

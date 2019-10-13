@@ -1,0 +1,20 @@
+{
+    "package": "bermuda",
+    "info": {
+        "title": "Bermuda Syndrome Wii",
+        "author": "Wiimpathy",
+        "category": null,
+        "version": "0.2",
+        "url": null,
+        "license": null,
+        "description": "Bermuda Syndrome engine port",
+        "details": "You need the original data files in order to play.\nBermuda Syndrome is a PC game developed by Century Interactive and released in 1995\nIt's an action/adventure game and is similar to Flashback.\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/bermuda/icon.png",
+            "type": "icon"
+        }
+    ]
+}

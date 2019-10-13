@@ -1,0 +1,20 @@
+{
+    "package": "HighOctane",
+    "info": {
+        "title": "High Octane",
+        "author": "Paul Overy",
+        "category": null,
+        "version": "v0.01",
+        "url": null,
+        "license": null,
+        "description": "Demo showing proof of concept",
+        "details": "High Octane Demo - nothing more than proof of concept\nVISIT: http://wiibrew.org/wiki/HighOctane\nNEEDED: Any art work or ideas are very welcome\nCONTROLS:(2) Drive Forward  (1) Brake and Backwards\nHold WiiMote horizontal - left/right buttons to turn\n(Home) Back to Homebrew Channel"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/HighOctane/icon.png",
+            "type": "icon"
+        }
+    ]
+}

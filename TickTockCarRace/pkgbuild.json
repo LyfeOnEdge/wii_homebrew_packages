@@ -1,0 +1,20 @@
+{
+    "package": "TickTockCarRace",
+    "info": {
+        "title": "TickTockCarRace",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Car Race",
+        "details": "A time based racing game with destructable walls.\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nthatotherdev.wordpress.com\n\nTarmac background music by et\net-official.com\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/TickTockCarRace/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "OpenJazz",
+    "info": {
+        "title": "OpenJazz",
+        "author": "Alister, tehpola",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Open source Jazz Jackrabbit engine",
+        "details": "\n\tOpenJazz-Wii is a port of OpenJazz by Alister (http://www.alister.eu/jazz/oj/).\n\tSpecial thanks to the developers of SDL-Wii for making this a breeze to port.\n\tControls (hold the Wiimote sideways):\n\t\tArrows: move\n\t\t2: shoot\n\t\t1: jump\n\t\tA: switch weapons\n\t\tHome: Esc\n\t\t+: Pause\n\tNetwork games don't work yet.\n\tEnjoy!\n\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/OpenJazz/icon.png",
+            "type": "icon"
+        }
+    ]
+}

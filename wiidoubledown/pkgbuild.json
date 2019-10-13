@@ -1,0 +1,20 @@
+{
+    "package": "wiidoubledown",
+    "info": {
+        "title": "Wii Double Down",
+        "author": "mdbrim",
+        "category": null,
+        "version": "2.0",
+        "url": null,
+        "license": null,
+        "description": "Black Jack 2.0",
+        "details": "Black Jack game/simulator for the Wii that includes many features including the debut of Miis in homebrew!"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiidoubledown/icon.png",
+            "type": "icon"
+        }
+    ]
+}

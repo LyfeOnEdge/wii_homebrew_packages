@@ -1,0 +1,20 @@
+{
+    "package": "madbomber",
+    "info": {
+        "title": "Mad Bomber",
+        "author": "MiniK",
+        "category": null,
+        "version": "0.2.5",
+        "url": null,
+        "license": null,
+        "description": "Kaboom Clone",
+        "details": "The Mad Bomber is loose in the city and he's dropping bombs everywhere! It's your job to catch them before they hit the ground and explode. Luckily, you have a set of trusty buckets to extinguish them with."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/madbomber/icon.png",
+            "type": "icon"
+        }
+    ]
+}

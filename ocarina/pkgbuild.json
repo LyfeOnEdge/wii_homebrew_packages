@@ -1,0 +1,20 @@
+{
+    "package": "ocarina",
+    "info": {
+        "title": "Ocarina",
+        "author": "Link",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Ocarina Wii Cheating application",
+        "details": "Ocarina is an application allowing you to use cheat codes on your Nintendo Wii.\n\nBundled in the download pack you'll find a PC client (wii Cheat Code Manager) which allows you to select cheat codes and store the cheat lists on your SD card. Ocarina will try to read these files and apply the cheats to the game.\n\nFor instructions on the PC application, please refer to its readme file!\n\nOn a side note: Ocarina should also be able to boot imports! Please note that you'll need an NTSC capable TV screen to play NTSC games on PAL Wiis and vice versa! RGB cables are not properly supported if you play imports!\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/ocarina/icon.png",
+            "type": "icon"
+        }
+    ]
+}

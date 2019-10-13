@@ -1,0 +1,20 @@
+{
+    "package": "mii-installer",
+    "info": {
+        "title": "Mii Installer",
+        "author": "Waninkoko",
+        "category": null,
+        "version": "1.1",
+        "url": null,
+        "license": null,
+        "description": "Installs dumped Miis from your SD card",
+        "details": "Create a directory called \"miis\" in the root of a SD card.\n\nCopy the Miis you want to install in the directory created in the previous step.\n\nRun this application and all your Miis will be copied from the SD card to your Wii."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/mii-installer/icon.png",
+            "type": "icon"
+        }
+    ]
+}

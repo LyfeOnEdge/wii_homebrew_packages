@@ -1,0 +1,20 @@
+{
+    "package": "ASCII-PONG",
+    "info": {
+        "title": "ASCII Pong",
+        "author": "Felix+Georg Potthast",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Pong Game",
+        "details": "A game of Pong using console mode only"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/ASCII-PONG/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "mapBF",
+    "info": {
+        "title": "mapBF Preview",
+        "author": "pedrocrespo",
+        "category": null,
+        "version": "003",
+        "url": null,
+        "license": null,
+        "description": "Maths are Programmer's Best Friend!",
+        "details": "mapbf libraries, which can test how you are working with geometric figures and we have the opportunity to interact with the Wiimote."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/mapBF/icon.png",
+            "type": "icon"
+        }
+    ]
+}

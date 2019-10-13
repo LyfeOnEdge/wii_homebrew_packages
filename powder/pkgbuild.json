@@ -1,0 +1,20 @@
+{
+    "package": "powder",
+    "info": {
+        "title": "POWDER",
+        "author": "Jeff Lait  Port: insin",
+        "category": null,
+        "version": "117-2",
+        "url": null,
+        "license": null,
+        "description": "Roguelike",
+        "details": "Descend into the depths of the dungeon until you reach the foul daemon known as \"He who the author cannot spell consistently\", or, Baezl'bub.\n\nWhen you have slain Baezl'bub in heroic combat, or, if Baezl'bub dies in any way, retrieve his black heart and bring it to the surface world."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/powder/icon.png",
+            "type": "icon"
+        }
+    ]
+}

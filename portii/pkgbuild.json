@@ -1,0 +1,20 @@
+{
+    "package": "portii",
+    "info": {
+        "title": "Portii",
+        "author": "Beardface",
+        "category": null,
+        "version": "1.0.0",
+        "url": null,
+        "license": null,
+        "description": "2D Portal for the wii!",
+        "details": "As a young companion cube, portii was outcast from Aperture Science, due to his non cube-like form.  After gorging himself on cake in a feat of sadness, Portii has decided to make his way back to the core of Aperture Science and reclaim what that which is rightfully his... More Cake!\n\nwww.portii.com\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/portii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

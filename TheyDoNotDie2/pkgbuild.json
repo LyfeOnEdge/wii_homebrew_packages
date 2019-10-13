@@ -1,0 +1,20 @@
+{
+    "package": "TheyDoNotDie2",
+    "info": {
+        "title": "They Do Not Die 2",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "0.9",
+        "url": null,
+        "license": null,
+        "description": "Zombie shooter",
+        "details": "They Do Not Die 2 is a top down 2D zombie shooter with distructable walls and four player co op.\n\nControls:\nNunchuck analog stick = Move\nA button = Run\nB button = Shoot the machine gun\nLeft = Shoot the rocket launcher\nDown = Shoot the machine gun\nRight = Shoot the shot gun\nPlus = Pause\nMinus = Pause\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/TheyDoNotDie2/icon.png",
+            "type": "icon"
+        }
+    ]
+}

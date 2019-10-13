@@ -1,0 +1,20 @@
+{
+    "package": "flying_saucers",
+    "info": {
+        "title": "Flying saucers",
+        "author": "Michelinux",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Shooting game",
+        "details": "Shoot at the saucers before they shoot at you!\n    \nPoint saucers with wiimote, use B to shoot, nunchuk or balance board to move left-right.\n\nSpecial thanks to Crayon, B4rtj4h, Helsionium and all GRRLib developers"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/flying_saucers/icon.png",
+            "type": "icon"
+        }
+    ]
+}

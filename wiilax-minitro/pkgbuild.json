@@ -1,0 +1,20 @@
+{
+    "package": "wiilax-minitro",
+    "info": {
+        "title": "Wiilax MiniTro",
+        "author": "NoNameNo",
+        "category": null,
+        "version": "FINAL",
+        "url": null,
+        "license": null,
+        "description": "A minitro to Wiilax MegaDemo",
+        "details": "Just to promote the soon coming WIILAX megaDemo"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiilax-minitro/icon.png",
+            "type": "icon"
+        }
+    ]
+}

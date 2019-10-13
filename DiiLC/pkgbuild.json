@@ -1,0 +1,20 @@
+{
+    "package": "DiiLC",
+    "info": {
+        "title": "DiiLC",
+        "author": "Conanac",
+        "category": null,
+        "version": "1.2.2",
+        "url": null,
+        "license": null,
+        "description": "Get Your DLC",
+        "details": "This is a simple application for downloading and inserting DLC/HDLC to savegame file for Animal Crossing (Wii version).\n\nUsage: Extract the gamesave file using Waninkoko's Savegame Extractor, then run this application. And if there is no setting file (dlcsetting.xml) or it is of a different version, it will be created automatically, otherwise it will be used for setting the directories/files names as well as the associated choices of delivery mechanism.\n\nControls: \nPush button A for downloading and inserting DLC from four regions; button B for downloading and inserting available HDLC; button Home for exiting without downloading DLC or HDLC.\n\nCredits:\nteknecal for HTTP download example, Yellows8 for wc24decrypt, joedj for ftpii, DsPet for dlc/hdlc PC applications, Magicus for Parse-u8, SonicHyuga for nice icon."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/DiiLC/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "aspirin",
+    "info": {
+        "title": "Aspirin",
+        "author": "Guglo",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Dodge lines and eat dots!",
+        "details": "This game is a port of a game I played for the TI-89 calculator. I wrote this game with libOGC, GRRlib, libfat and PNGU. There is no sound so don't get confused by the menu."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/aspirin/icon.png",
+            "type": "icon"
+        }
+    ]
+}

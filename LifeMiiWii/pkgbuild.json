@@ -1,0 +1,20 @@
+{
+    "package": "LifeMiiWii",
+    "info": {
+        "title": "LIFEMII WII v1.0",
+        "author": "Wilco2009",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Vida 3D para Wii",
+        "details": "Este es un port del famoso juego de la vida de Cownway en 3D para Wii. \n\tDesarrollado seg\u00fan la idea de A.K. Dewndey en su secci\u00f3n de \"Computer Games\"\n\ten la revista \"Scientific American\""
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/LifeMiiWii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

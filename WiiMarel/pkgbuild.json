@@ -1,0 +1,20 @@
+{
+    "package": "WiiMarel",
+    "info": {
+        "title": "WiiMarel!",
+        "author": "Hackotedelaplaque",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "A board Game",
+        "details": "\nWiiMarel is a board game originaly played in the region of Piemont (Italy).\nRules of the Game : \n17 sheeps and 2 wolves challenge on a board (2 players).\n9 sheeps must reach the fold (the square top ).\nWolves need to eat the sheeps! \nPieces are moves turn by turn, following guide lines. \nThe wolf jumps over a sheep to eat. As long as he can eat, the wolf plays again. \nBeware, in case you forgot to eat, the wolf is 'blown'.\n\nCommands :  \nPoint and press wiimote A button to select a piece to play. \nPoint a destination and press A to play your move (you'll hear a buzz if a move is not valid). \nAlso, press Wiimote B button to cancel a selection. \nHome button quits the game. \n  \n  \nThanks to : \n- Lorenzo, our missed friend who teached me this game.\n- MinishLink for his great MLlib and support.\n- TT and devkitpro team for making homebrew reality on wii. \n  \nComing very soon : IA.\n  \n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/WiiMarel/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "DarkCube",
+    "info": {
+        "title": "DarkCube",
+        "author": "NoNameNo",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "DarkCube for Wii",
+        "details": "Another New production to promote GRRLIB (http://GRRLIB.SANTO.FR) and to show that this is not only a simple 2D lib, but also a nice, simple, and powerfull 3D lib with objects rendering, texture, lightsources, etc... and all done by GX.\n\nSpecial thanks to Crayon"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/DarkCube/icon.png",
+            "type": "icon"
+        }
+    ]
+}

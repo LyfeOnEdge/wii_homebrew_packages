@@ -1,0 +1,20 @@
+{
+    "package": "Piixelator",
+    "info": {
+        "title": "Piixelator",
+        "author": "xerpi",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Piixelize yourself",
+        "details": "\n\t\n\tCon Piixelator podr\u00e1s crear tus im\u00e1genes pixel-a-pixel desde una senclla y agradable interfaz, pixelize yourself!\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Piixelator/icon.png",
+            "type": "icon"
+        }
+    ]
+}

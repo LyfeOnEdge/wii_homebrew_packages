@@ -1,0 +1,20 @@
+{
+    "package": "grillieren_wii",
+    "info": {
+        "title": "Beer Belly Bill 3: Grillieren",
+        "author": "Nuance / Metalvotze",
+        "category": null,
+        "version": "1.00",
+        "url": null,
+        "license": null,
+        "description": "BBB3: Grillieren",
+        "details": "Design, Code and Graphics: WiDDY\nSome Graphics: Ragnarok\nSoundtrack: Fieser Wolf\n\nReleased at tUM 2010\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/grillieren_wii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

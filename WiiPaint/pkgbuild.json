@@ -1,0 +1,20 @@
+{
+    "package": "WiiPaint",
+    "info": {
+        "title": "WiiPaint",
+        "author": "Kontakatilu",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Draw on Wii using a custom GRRLIB 2.0",
+        "details": "After starting the application, press 1 + 2 to sync your Wii Remote. \nChoose a color from the toolbox by pointing your cursor at the desired color and pressing A. \nTo draw, hold A and move the Wii Remote."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/WiiPaint/icon.png",
+            "type": "icon"
+        }
+    ]
+}

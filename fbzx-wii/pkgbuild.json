@@ -1,0 +1,20 @@
+{
+    "package": "fbzx-wii",
+    "info": {
+        "title": "FBZX Wii",
+        "author": "Oibaf (Fabio Olimpieri)",
+        "category": null,
+        "version": "10.3",
+        "url": null,
+        "license": null,
+        "description": "ZX Spectrum Emulator",
+        "details": "A ZX Spectrum emulator. \nThe project is based on FBZX originally written by Sergio Costas (http://www.rastersoft.com/fbzx.html). \n\nUSAGE\n------\nPut .z80 and .sna files in /fbzx-wii/snapshots or .tap and .tzx files in /fbzx-wii/tapes on your SD card or usb device.\n\nPress the \"home\" button to access the in-game menu. Press 1 or A to select an item and 2 or B to come back to the previous menu.\n\nPress the \"+\" button to access the virtual keyboard which uses the IR pointer or point the wiimote at the screen.\n\nThe in-game menu allows you to insert tapes, load them and configure the display, joysticks etc.\n\nThe easiest way to play a game is to load a snapshot (.z80 and .sna files).\n\nYou can also insert a tape file (.tap and .tzx) and then load the file in the tape menu (it simulates the command Load \"\").\n \nIf you have problems with a file loading, likely the file has a program which uses a custom routine to load the blocks; in this case, try to disable the \"Instant load\" option.\n \nIf you want to speed up the tape file loading (both for .tzx file and .tap file with \"tap instant load\" disabled), try to enable \"auto turbo mode\" which speeds up the emulator while loading.\n\nIt is possible to set precision emulation required by some demo graphic programs. Turbo mode is disable in this mode.\n\nThe general preferences are saved (joystick type, machine, buttons bindings, etc.) from the main in-game menu and they are loaded on start-up.\n\nYou can also save the game preferences which can be automatically loaded with the tape/snapshot if the related option is set.\n\nIf you save the screen shots they will appear on the screen during the menu navigation.\n\nYou can also load a file from a usb disk, from your PC and from Internet via FTP using a wi-fi connection. For the wi-fi you should set the parameters in fbzx.net file.\n\nIf Rumble is enabled, the wiimote rumbles each time the fire button is pressed. \n\nSee http://wiibrew.org/wiki/FBZX_Wii for more information.\n\n\nCOPYRIGHT\n---------\nThe software is distributed under the terms and conditions of the General Public License Version 3.\n\nAmstrad has kindly given their permission for the redistribution of their copyrighted material (ZX Spectrum ROM files) but retains that copyright.\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/fbzx-wii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

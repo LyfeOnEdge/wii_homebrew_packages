@@ -1,0 +1,20 @@
+{
+    "package": "szigoy",
+    "info": {
+        "title": "szigoy",
+        "author": "dsbomb",
+        "category": null,
+        "version": "V1.0",
+        "url": null,
+        "license": null,
+        "description": "Pong for the insane",
+        "details": "A simple pong-type game for the Nintendo Wii or Gamecube."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/szigoy/icon.png",
+            "type": "icon"
+        }
+    ]
+}

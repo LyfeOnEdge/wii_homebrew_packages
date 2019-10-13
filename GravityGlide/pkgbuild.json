@@ -1,0 +1,20 @@
+{
+    "package": "GravityGlide",
+    "info": {
+        "title": "Gravity Glide",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "1.4",
+        "url": null,
+        "license": null,
+        "description": "Move things",
+        "details": "I'm not sure how to describe this. It is more of a toy then a game. You create areas of momentum to move things with. It supports the use of up to 4 wiimotes at a time.\n\nControls:\nPointer = Aim\nA button = Pull\nB button = Push\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\nmusic (White Cube Art Noise) by essesq\nccmixter.org/people/essesq\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/GravityGlide/icon.png",
+            "type": "icon"
+        }
+    ]
+}

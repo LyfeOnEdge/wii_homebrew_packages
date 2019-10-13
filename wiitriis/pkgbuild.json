@@ -1,0 +1,20 @@
+{
+    "package": "wiitriis",
+    "info": {
+        "title": "WiiTriis 1.01",
+        "author": "Wilco2009",
+        "category": null,
+        "version": "1.01",
+        "url": null,
+        "license": null,
+        "description": "WiiTriis 1.01 (Multilingual)",
+        "details": "WiiTriis es un port del clasico juego del Tetris pero en version multijugador.\n\t\tJuega al Wiitriis y compite con tus amigos.\n\t\tWiitriis is a port of the clasical Tetris game in multiplayer version.\n\t\tPlay Wiitriis with your friends."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiitriis/icon.png",
+            "type": "icon"
+        }
+    ]
+}

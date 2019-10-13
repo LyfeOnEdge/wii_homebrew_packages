@@ -1,0 +1,20 @@
+{
+    "package": "bluemsx-wii",
+    "info": {
+        "title": "BlueMSX-Wii",
+        "author": "Tim Brugman",
+        "category": null,
+        "version": "V1.0.3",
+        "url": null,
+        "license": null,
+        "description": "BlueMSX port for Wii",
+        "details": "\nBlueMSX ported to Wii with game selection GUI.\nOn first start an MSX directory will be created in the root of your SD-Card with all necessary files.\nA basic gamepack can also be installed automatically, for a full gamepack visit our website http://www.wiimsx.com.\nGames can easily be added to the MSX/Games folder by editing .xml files, see guides on our website.\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/bluemsx-wii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

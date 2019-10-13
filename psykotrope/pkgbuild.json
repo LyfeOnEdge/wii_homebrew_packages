@@ -1,0 +1,20 @@
+{
+    "package": "psykotrope",
+    "info": {
+        "title": "Psykotrope",
+        "author": "NoNameNo",
+        "category": null,
+        "version": "1.1 DIY",
+        "url": null,
+        "license": null,
+        "description": "One player block game",
+        "details": "\n    NonameNo Presents \"Psykotrope\" v1.1 DIY\n    \n    A Real Fast compo game : \"4 Hours\" of coding/graphing\n    This little game fits in less than 150 lines of GRRLIB coding ;)\n    \n    Greetings to Crayon and Xane\n    AcaDien_, teknecal, crazygoth, didinx, mk2, mnta, Muzer, Squidman\n    \n    GRRLIB Home : http://grrlib.santo.fr\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/psykotrope/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "gxgeo",
+    "info": {
+        "title": "GxGeo",
+        "author": "blizzo",
+        "category": null,
+        "version": "20101114",
+        "url": null,
+        "license": null,
+        "description": "Neo-Geo Emulator",
+        "details": "A Neo-Geo Emulator based on GnGeo"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/gxgeo/icon.png",
+            "type": "icon"
+        }
+    ]
+}

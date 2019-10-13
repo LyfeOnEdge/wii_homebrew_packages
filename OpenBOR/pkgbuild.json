@@ -1,0 +1,20 @@
+{
+    "package": "OpenBOR",
+    "info": {
+        "title": "OpenBOR",
+        "author": "SX, Plombo",
+        "category": null,
+        "version": "3.0.2818",
+        "url": null,
+        "license": null,
+        "description": "Ultimate 2D Game Engine",
+        "details": "OpenBOR\nwww.LavaLit.com\n\nOpenBOR is a highly advanced continuation of Beats Of Rage.  Visit the official site for all news, events, and releases of the engine and game modules.\n\nBeats of Rage\nwww.SenileTeam.com\n\nAs fans of the 'Streets of Rage' series that originally appeared on the SEGA megadrive/genesis, we always wanted to see Streets of Rage 4. But the waiting proved futile, and streets of rage 4 never came. That's why we tried to correct this mistake and fill the void by making the ultimate tribute to Streets of Rage: Beats of Rage!! "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/OpenBOR/icon.png",
+            "type": "icon"
+        }
+    ]
+}

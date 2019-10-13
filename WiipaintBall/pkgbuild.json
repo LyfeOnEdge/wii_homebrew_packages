@@ -1,0 +1,20 @@
+{
+    "package": "WiipaintBall",
+    "info": {
+        "title": "WiiPaintBall",
+        "author": "miguel28",
+        "category": null,
+        "version": "1.1",
+        "url": null,
+        "license": null,
+        "description": "Participante SceneryBeta 2011",
+        "details": "Es un juego simple, con el unico y sencillo fin es hacer llegar la pelota a la estrella trazando un camino de lineas para que la pelota rebote.\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/WiipaintBall/icon.png",
+            "type": "icon"
+        }
+    ]
+}

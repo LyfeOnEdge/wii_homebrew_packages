@@ -1,0 +1,20 @@
+{
+    "package": "wiisolitaire",
+    "info": {
+        "title": "Wii Solitaire",
+        "author": "Wil",
+        "category": null,
+        "version": "0.4",
+        "url": null,
+        "license": null,
+        "description": "Solitaire for the Wii",
+        "details": "Wii Solitaire is a simple version of Klondike solitaire for the Wii where the objective is to organize and move all cards to the foundation by suite from A to K.\nControls - A to deal cards from stack; B to pick up cards; Home to access menu."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiisolitaire/icon.png",
+            "type": "icon"
+        }
+    ]
+}

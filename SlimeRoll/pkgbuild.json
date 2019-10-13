@@ -1,0 +1,20 @@
+{
+    "package": "SlimeRoll",
+    "info": {
+        "title": "Slime Roll",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "0.4",
+        "url": null,
+        "license": null,
+        "description": "Something",
+        "details": "I guess Slime Roll is a toy...\n\nControls:\nAnalog stick = Move the camera\nLeft = Spin left\nRight = Spin right\nUp = Zoom in\nDown = Zoom out\nA button (in editor) = Place slime\nB button (in editor) = Remove something\nC button (in editor) = Place wall\nZ button (in editor) = Place objectives\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/SlimeRoll/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "wsmplayer",
+    "info": {
+        "title": "mitschwanzenegger",
+        "author": "Dimok and Giantpune",
+        "category": null,
+        "version": "v0.1",
+        "url": null,
+        "license": null,
+        "description": "Wii System Menu Player",
+        "details": "A program that plays the system menu and other wii animations."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wsmplayer/icon.png",
+            "type": "icon"
+        }
+    ]
+}

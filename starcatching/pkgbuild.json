@@ -1,0 +1,20 @@
+{
+    "package": "starcatching",
+    "info": {
+        "title": "Star Catching",
+        "author": "FatQuack",
+        "category": null,
+        "version": "One",
+        "url": null,
+        "license": null,
+        "description": "Collect the stars and avoid the bullets.",
+        "details": "Use the Wiimote's DPAD to move your space ship and collect as many stars as possible.  A star will gain you a point, but hitting a bullet will loose you a five. If you hit a bullet when you have fewer than four points, you are out.  See how long you can last."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/starcatching/icon.png",
+            "type": "icon"
+        }
+    ]
+}

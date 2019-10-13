@@ -1,0 +1,20 @@
+{
+    "package": "PongBreaker",
+    "info": {
+        "title": "Pong Breaker",
+        "author": "Kyah",
+        "category": null,
+        "version": "1.1",
+        "url": null,
+        "license": null,
+        "description": "Melange de Pong et de Block Breaker",
+        "details": "Pong Breaker est une sorte de m\u00e9lange entre l'antique Pong, le classique Block Breaker et m\u00eame le cultissime Space Invaders!\n  De un \u00e0 quatre joueurs, des briques et une balle \u00e0 ne surtout pas laisser passer!"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/PongBreaker/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "MazeGenerator",
+    "info": {
+        "title": "Maze Generator",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "1.6",
+        "url": null,
+        "license": null,
+        "description": "Maze Generator",
+        "details": "Maze Generator is a game that randomly generated mazes. You are tasked with the job of navigating the mazes and moving the red circle to the red square.\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\nmusic (Lose It) by Southbound Cinema\nccmixter.org/people/southboundcinema/\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/MazeGenerator/icon.png",
+            "type": "icon"
+        }
+    ]
+}

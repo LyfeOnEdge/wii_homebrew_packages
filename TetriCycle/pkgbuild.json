@@ -1,0 +1,20 @@
+{
+    "package": "TetriCycle",
+    "info": {
+        "title": "TetriCycle",
+        "author": "calvinss4",
+        "category": null,
+        "version": "1.2",
+        "url": null,
+        "license": null,
+        "description": "Cylindrical Tetris!",
+        "details": "\nSee the official site for full details:\nhttp://www.wiibrew.org/wiki/TetriCycle\n\nchangelog:\n----------\n1.2\n  * 9th Release: 10/20/10\n  * Added a Mirror powerup.\n  * Added a Speed Up powerup.\n  * Added a Junk Piece powerup.\n\n1.1\n  * 8th Release: 10/19/10\n  * Added classical mode (for classic tetris).\n  * The Player Profiles 'rotation' label now has a 'piece' option that allows you to move the piece instead of moving the playfield; this is similar to classical mode, except that the piece is allowed to wrap around in cylindrical mode.\n  * The Player Profiles 'guide' label now has a 'line' option, so when selecting the guide mode, you can choose between a shadow piece, or a guide line.\n\n1.0\n  * 7th Release: 9/30/10\n  * Source code is now available!\n\nv0.6b\n  * 6th Release: 8/19/10\n  * Added sound FX.\n  * Added powerups to multiplayer. Please enjoy!\n  * This game will be open sourced soon, at which point you can add your own powerups.\n\nv0.5b\n  * 5th Release: 7/26/10\n  * Handicap options (for a more competitive multiplayer experience).\n  * Editable playfield (width, scale, position, cylindrical angle).\n\nv0.4b\n  * 4th Release: 7/19/10\n  * Shadow option -- see where the current piece will drop.\n  * Preview option -- see what the next piece will be.\n  * Multiplayer looks better. Each playfield is drawn from the same perspective, but with a shifted viewport.\n\nv0.3b\n  * 3rd Release: 4/5/10\n  * Better menus!\n  * Ability to reverse direction in which Tetris cylinder rotates.\n\nv0.2b\n  * 2nd Release: 12/14/09\n  * Added support for Nunchuck + Wii Remote and Wii Remote Horizontal.\n  * Added support for up to 4 players.\n\ncredits:\n--------\n* Thanks to DesktopMan for sharing his source:\n  http://www.wiibrew.org/wiki/Tetris_Wii\n\n* Thanks to Sonicdude41 for the idea of \"Tetris on a Cylindrical Surface\":\n  http://forum.wiibrew.org/read.php?26,41651\n\n* Thanks to Tantric for his awesome Libwiigui library:\n  http://www.wiibrew.org/wiki/Libwiigui\n\n* Menu music is from \"tetricycle by dj dimz\":\n  http://www.youtube.com/watch?v=JGfJUM6-e10\n\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/TetriCycle/icon.png",
+            "type": "icon"
+        }
+    ]
+}

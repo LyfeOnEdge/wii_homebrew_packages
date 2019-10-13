@@ -1,0 +1,20 @@
+{
+    "package": "pixelmerge",
+    "info": {
+        "title": "PixelMerge",
+        "author": "Pascal Giard",
+        "category": null,
+        "version": "1.0.0",
+        "url": null,
+        "license": null,
+        "description": "Flood-It clone",
+        "details": "PixelMerge is a clone of the simple yet addictive Flood-it game. Fill the whole board with the same color within the maximum number of allowed steps in order to win. The topleft pixel is your starting point, change to another color to merge and form a group with surrounding pixels sharing the same color. Successive color changes will change the group's color. \n\nThanks: Tantric for libwiigui."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/pixelmerge/icon.png",
+            "type": "icon"
+        }
+    ]
+}

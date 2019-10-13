@@ -1,0 +1,20 @@
+{
+    "package": "wiihandysdl",
+    "info": {
+        "title": "WiiHandy",
+        "author": "raz0red",
+        "category": null,
+        "version": "0.4",
+        "url": null,
+        "license": null,
+        "description": "Atari Lynx Emulator",
+        "details": "WiiHandy is a port of the Handy 0.95 Atari Lynx emulator developed by Keith Wilkins. Additional changes by the SDLEmu team.\n\nWii port by raz0red [http://www.twitchasylum.com].\n   "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiihandysdl/icon.png",
+            "type": "icon"
+        }
+    ]
+}

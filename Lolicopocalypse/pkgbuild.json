@@ -1,0 +1,20 @@
+{
+    "package": "Lolicopocalypse",
+    "info": {
+        "title": "Lolicopocalypse\n\t\t",
+        "author": "\n\t\t\tquasist, ported by Rikku2000\n\t\t",
+        "category": null,
+        "version": "\n\t\t\t1.0\n\t\t",
+        "url": null,
+        "license": null,
+        "description": "\n\t\t\tHomebrew\n\t\t",
+        "details": "\n\t\t\tRoguelikish movement. Evolution takes place\n\t\t\tnot only on the level - the screen rots, all\n\t\t\tcolors mutate...\n\t\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Lolicopocalypse/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "TickTockBoatRace",
+    "info": {
+        "title": "TickTockBoatRace",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Boat Race",
+        "details": "A time based racing game.\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nthatotherdev.wordpress.com\n\nPrincess With A Deadly Right Hook music by ApartmentUK\n8bc.org/members/ApartmentUK\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/TickTockBoatRace/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "Topedit",
+    "info": {
+        "title": "TOPEDIT",
+        "author": "Georg Potthast",
+        "category": null,
+        "version": "0.61",
+        "url": null,
+        "license": null,
+        "description": "Text Editor for the WII",
+        "details": "A Text Editor using SDL featuring virtual keyboard and external keyboard support."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Topedit/icon.png",
+            "type": "icon"
+        }
+    ]
+}

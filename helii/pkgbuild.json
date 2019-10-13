@@ -1,0 +1,20 @@
+{
+    "package": "helii",
+    "info": {
+        "title": "Helii",
+        "author": "BHSPitMonkey",
+        "category": null,
+        "version": "0.2",
+        "url": null,
+        "license": null,
+        "description": "Pilot a helicopter!",
+        "details": "\nControls:\n\n(A) Fly (Or start the level)\n(+) Pause (Or setup a new game after crashing)\n(Home) Exit to loader\n\nTodo:\n\n- Scores\n- Sound\n- Menus\n\nChangelog:\n\n0.2 - Obstacles; Unique cave shaping.\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/helii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

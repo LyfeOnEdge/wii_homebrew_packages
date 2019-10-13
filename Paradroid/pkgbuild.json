@@ -1,0 +1,20 @@
+{
+    "package": "Paradroid",
+    "info": {
+        "title": "Paradroid Wii",
+        "author": "Okachobi",
+        "category": null,
+        "version": "0.6",
+        "url": null,
+        "license": null,
+        "description": "Paradroid for the Wii",
+        "details": " A ship in space goes dead.  All attempts to reach it by radio go unanswered. Only droid 999 responds with the brief message, \"Death awaits you\". You prepare to teleport influence device 001 over to retake control- but what awaits you on the ship?\n\nWii Paradroid is a Wii Homebrew port of SDL Paradroid by David Berry- itself a clone of the C=64 version of Paradroid.\n\nCredits\nParadroid: Andrew Braybook\nParadroid SDL: David Berry\nParadroid SDL Wii: Okachobi\nSDL Wii: Tantric, simon.kagstrom, odrevet, scanff, raz0red, Carl.Kenner (and all of those who came before)\n\nVersion 0.6 fixes an SD-Card issue that prevented operation on some Wii consoles.\n\nversion 0.5 uses an updated version of sdl and eliminates a number of crashes related to the older sdl port for wii.\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Paradroid/icon.png",
+            "type": "icon"
+        }
+    ]
+}

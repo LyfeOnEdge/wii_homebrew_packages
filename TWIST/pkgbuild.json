@@ -1,0 +1,20 @@
+{
+    "package": "TWIST",
+    "info": {
+        "title": "TWIST",
+        "author": "darrenm",
+        "category": null,
+        "version": "0.0.01",
+        "url": null,
+        "license": null,
+        "description": "A Space Adventure",
+        "details": "Mission one of your quest is ready. \n\nThis first version is just a preview. I've not created any levels yet so you just have this first test level... but it's still fun, and quite tricky! \n\nTwist your ship around space clearing up all the junk. Match the colours of the blocks to destroy them. You have little time so be quick! \n\nTo clear a block one of them must have been 'activated' by contact with your ship. If you get stuck try shooting away any blocks that have become attached by pressing (1). \n\nControl with the Wiimote on it's side, like in classic games. Turn with the DPad. Boost with (2) button. \n\nYou can also press down if you need to use the reverse thrust - but it's not very powerful on the basic ship you have on this level. You can also tap (A) to make your ship give off gravity and pull blocks towards itself.\n\nIf you manage to clear up the screen you will find a star when the few remaining blocks are attached to you. Push any remaining blocks into the star to finish the level.\n\nDrop me a line at wiiz@wiizbasic.com if you have any ideas for improving this game, or to say hi!"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/TWIST/icon.png",
+            "type": "icon"
+        }
+    ]
+}

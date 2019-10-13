@@ -1,0 +1,20 @@
+{
+    "package": "rezerwar",
+    "info": {
+        "title": "Rezerwar",
+        "author": "Tamentis",
+        "category": null,
+        "version": "0.2",
+        "url": null,
+        "license": null,
+        "description": "Block n Pipes Puzzle Game",
+        "details": "Rezerwar is a puzzle game that could be quickly described as the unlegitimate child of a known block game and the average pipe game."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/rezerwar/icon.png",
+            "type": "icon"
+        }
+    ]
+}

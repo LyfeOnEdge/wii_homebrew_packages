@@ -1,0 +1,20 @@
+{
+    "package": "MiiSX",
+    "info": {
+        "title": "MiiSX",
+        "author": "SLotman",
+        "category": null,
+        "version": "v0.3",
+        "url": null,
+        "license": null,
+        "description": "MSX emulator for Wii",
+        "details": "http://miisx.icongames.com.br\n  This is a port of fMSX 2.7 for the Nintendo Wii. Still needing a LOT of improvements.\n  Thanks to Daniel Caetano for sharing his version fMSX-SDL, for uMSX author UGuru for inspiration, and the guys who made fMSX-SDL - without their port this version wouldn't be possible.\n\n  Visit us at http://msx.icongames.com.br\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/MiiSX/icon.png",
+            "type": "icon"
+        }
+    ]
+}

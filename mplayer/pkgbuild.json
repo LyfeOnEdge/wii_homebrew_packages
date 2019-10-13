@@ -1,0 +1,20 @@
+{
+    "package": "mplayer",
+    "info": {
+        "title": "MPlayer",
+        "author": "Team Twiizers",
+        "category": null,
+        "version": "rev 27458",
+        "url": null,
+        "license": null,
+        "description": "The Movie Player",
+        "details": "MPlayer - dvdlib edition\n(c) 2008 Team Twiizers\n\nPlease consult the bundled README.txt first!\n\nThis port was made possible by the following people:\n\ndvdlib - Erant\nDVDX stub - marcan\nlibdvdcss port - svpe\nmplayer port - dhewg\n12 stage TEV YUV12 GX voodoo - sepp256\nmenu loop animation - drmr\n\nThis port is powered by devkitPPC and libogc (http://www.devkitpro.org/).\nThanks go out to the HBC beta team for testing!"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/mplayer/icon.png",
+            "type": "icon"
+        }
+    ]
+}

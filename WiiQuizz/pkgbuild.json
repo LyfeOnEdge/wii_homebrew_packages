@@ -1,0 +1,20 @@
+{
+    "package": "WiiQuizz",
+    "info": {
+        "title": "Wii Quizz",
+        "author": "CashMan",
+        "category": null,
+        "version": "2.1.5",
+        "url": null,
+        "license": null,
+        "description": "Quiz games delirious !",
+        "details": "Wii Quizz is a quiz/puzzle homebrew application. You can play a mode game of your choice :\n\n- Race to the million :\nIn this mode, you have to get one million dollars answering various questions.\n\n- Free mode :\nIn this mode, your goods and wrongs answers are counted. You must have the most right answers."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/WiiQuizz/icon.png",
+            "type": "icon"
+        }
+    ]
+}

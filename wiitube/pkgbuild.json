@@ -1,0 +1,20 @@
+{
+    "package": "wiitube",
+    "info": {
+        "title": "MPlayer-Wii Youtube",
+        "author": "AlienMind",
+        "category": null,
+        "version": "0.01",
+        "url": null,
+        "license": null,
+        "description": "MPlayer with Youtube support",
+        "details": "MPlayer with Youtube support"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiitube/icon.png",
+            "type": "icon"
+        }
+    ]
+}

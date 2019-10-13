@@ -1,0 +1,20 @@
+{
+    "package": "SRT",
+    "info": {
+        "title": "Shiny Red Tank",
+        "author": "MetaFight",
+        "category": null,
+        "version": "0.11a",
+        "url": null,
+        "license": null,
+        "description": "An old-school platformer",
+        "details": "Shiny Red Tank (working title)\n\nShiny Red Tank is eventually going to become an old-school platformer including elements from my favorite 8-bit and 16-bit games.  It is in very early stages of development and still has quite a few bugs, but you should be able to get a pretty good idea of the game mechanics.\n\nThe game map is currently limited to a test area.  Since I'm horribly slow at making my own graphics, the current graphics are very limited.  Also, I haven't gotten around to implementing sound yet.\n\nSo, in short, this project still has a long way to go.\n\nI hope you enjoy it!\n\n-- MetaFight\n    "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/SRT/icon.png",
+            "type": "icon"
+        }
+    ]
+}

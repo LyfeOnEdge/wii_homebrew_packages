@@ -1,0 +1,20 @@
+{
+    "package": "Briicks",
+    "info": {
+        "title": "Briicks",
+        "author": "Liki",
+        "category": null,
+        "version": "0.1a",
+        "url": null,
+        "license": null,
+        "description": "Briicks",
+        "details": "Briicks is a simple lumines clone made for Wii only\t\t\n\t\t..::This is an early alpha version::..\n\t\t\n\t\tHome button return to HBC at any time\n\t\t\n\t\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Briicks/icon.png",
+            "type": "icon"
+        }
+    ]
+}

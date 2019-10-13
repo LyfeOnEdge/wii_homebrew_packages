@@ -1,0 +1,20 @@
+{
+    "package": "GoodbyeWorld",
+    "info": {
+        "title": "Goodbye World",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "1.4",
+        "url": null,
+        "license": null,
+        "description": "The lonely Earth",
+        "details": "The Earth is lonely.\n\nControls:\nD Pad = Move\nAnalog stick = Move\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/GoodbyeWorld/icon.png",
+            "type": "icon"
+        }
+    ]
+}

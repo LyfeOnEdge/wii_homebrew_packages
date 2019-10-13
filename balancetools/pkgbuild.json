@@ -1,0 +1,20 @@
+{
+    "package": "balancetools",
+    "info": {
+        "title": "Balance Board Tools",
+        "author": "elisherer",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Quick Wii Board Tools",
+        "details": "A quick way to weigh yourself and find your center of gravity."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/balancetools/icon.png",
+            "type": "icon"
+        }
+    ]
+}

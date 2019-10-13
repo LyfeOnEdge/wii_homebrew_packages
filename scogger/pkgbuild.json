@@ -1,0 +1,20 @@
+{
+    "package": "scogger",
+    "info": {
+        "title": "Scogger",
+        "author": "Scognito",
+        "category": null,
+        "version": "v0.2",
+        "url": null,
+        "license": null,
+        "description": "Frog puzzle game",
+        "details": "The goal of the game is to make the frog jump over all the tree trunks.\n\nThe only available direction the frog can move are forward, left and right (no diagonals), with no jump distance limit!\n\nRemember that the frog cannot jump backward!\n\nClean the stage for going to the next level (they are 10 out 100 random)!\n\nWiimote or gamecube pad can be used:\n\nMove the frog with wiimote, wiimote d-pad, or gamecube d-pad.\nRestart level pressing B.\nToggle music with (-) or L trigger.\nSkip level with (+) or R trigger (but you have to do the \"konami trick\" at title screen!).\n \n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/scogger/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "fortunes",
+    "info": {
+        "title": "WiiFortune",
+        "author": "raribeir",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "A fortune version for Wii",
+        "details": "A fortune version for Wii written from scratch.\n\n\tPress (A) for new fortune.\n\tPress (HOME) to return to menu.\n\nCoder:\n        raribeir\n\nHelp for my code's doubts:\n        mattgentl\n\n\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/fortunes/icon.png",
+            "type": "icon"
+        }
+    ]
+}

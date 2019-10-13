@@ -1,0 +1,20 @@
+{
+    "package": "meritous",
+    "info": {
+        "title": "Meritous ",
+        "author": "Lancer-X/ASCEAI",
+        "category": null,
+        "version": "1.2 Wii R2",
+        "url": null,
+        "license": null,
+        "description": "Dungeon crawl game ",
+        "details": "http://www.asceai.net/meritous/\n\nMERITOUS 1.2 Wii R2\nby suloku\n\nMERITOUS v 1.2\nfor Windows 98/2K/XP/other operating systems\nby Lancer-X/ASCEAI\n\n\nControls:\n________\n\nUSB Keyboard:\n\nArrow keys - Move around. To walk through doors, simply walk up to\n             them and push against them.\n\nSpace      - Charge your PSI circuit for attacking.\n\nEscape     - Exit the game.\n\nH          - View the help file.\n\nTab        - View the map (you can then use the arrow keys to scroll\n             around the map, speed up holding space).\n\nEnter      - Activate a trigger tile that you are standing on.\n             Enter is also used for various other things, such as\n             for reading in-game dialogue.\n             \nP          - Pause the game.\n\nWiimote:\n\nArrow keys - Analog Pad\nSpace      - B\nEscape     - Home\nH          - One\nTab        - Minus\nEnter      - A\nP          - Plus\n\nClassic:\n\nArrow keys - Analog Pad\nSpace      - B\nEscape     - Home\nH          - Minus\nTab        - X\nEnter      - A\nP          - Plus\n\nGamecube:\n\nArrow keys - Analog Pad\nSpace      - A\nEscape     - Start\nH          - Z trigger\nTab        - Y\nEnter      - B\nP          - X\n\nCheats:\n______\n\n\"Those who seek power, should have been granted with a great sense of coordination to \"trigger\" a new source of energy\".\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/meritous/icon.png",
+            "type": "icon"
+        }
+    ]
+}

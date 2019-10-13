@@ -1,0 +1,20 @@
+{
+    "package": "DrawingBox",
+    "info": {
+        "title": "Drawing Box",
+        "author": "Bool",
+        "category": null,
+        "version": "1.0b2",
+        "url": null,
+        "license": null,
+        "description": "Boxes and physics.",
+        "details": "Draw boxes and let physics make the rest.\n   Works with: wiimote1\n   Controls:\n   A: Start drawing a box\n   B: Change angle of box (while drawing)\n   +/-: Draw static or dynamic box (static do not fall)\n   1: Clears the screen\n   \n   (Gray cursor means static box)"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/DrawingBox/icon.png",
+            "type": "icon"
+        }
+    ]
+}

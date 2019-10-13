@@ -1,0 +1,20 @@
+{
+    "package": "hereticwii",
+    "info": {
+        "title": "Heretic Wii",
+        "author": "Arikado",
+        "category": null,
+        "version": "0.5",
+        "url": null,
+        "license": null,
+        "description": "Heretic for Wii!",
+        "details": "Heretic is a fun medieval FPS created by Raven Software.\n                                  http://arikadosblog.blogspot.com"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/hereticwii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

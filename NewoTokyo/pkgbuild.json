@@ -1,0 +1,20 @@
+{
+    "package": "NewoTokyo",
+    "info": {
+        "title": "Newo Tokyo",
+        "author": "Owen",
+        "category": null,
+        "version": "1",
+        "url": null,
+        "license": null,
+        "description": "Demo / ScreenSaver / Illustration",
+        "details": "\nA demonstration program.  A random path is generated from 9000 dots and is followed by the camera.\nPress A to randomize the colours.  Press 2 to take a screenshot.  Right Arrow to change line width.\n\nBackground Song: Red in Black (by Kosta T)\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/NewoTokyo/icon.png",
+            "type": "icon"
+        }
+    ]
+}

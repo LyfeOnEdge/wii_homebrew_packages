@@ -1,0 +1,20 @@
+{
+    "package": "NewoDefence",
+    "info": {
+        "title": "Newo Defence",
+        "author": "Owen",
+        "category": null,
+        "version": "1.1",
+        "url": null,
+        "license": null,
+        "description": "Like Missile command in space!",
+        "details": "Almost like missile command but in space and planets.  \nBackground Music: Behemoth by Greg www.scorevgm.com @ScoreVGM\nTitle Graphics And Fonts: www.Kenney.nl @KenneyWings\nCircles And Code: Owen @NewoGame\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/NewoDefence/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "Scape",
+    "info": {
+        "title": "Scape",
+        "author": "Sheeft",
+        "category": null,
+        "version": "1.31",
+        "url": null,
+        "license": null,
+        "description": "Platform / Puzzle",
+        "details": "A game where you must use some objects and platforms to reach the sun.\n\t\n\tPointer : Select\n\tA : Validate / Jump\n\tB : Cut a link\n\tNunchuck's stick : Move left and right\n\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Scape/icon.png",
+            "type": "icon"
+        }
+    ]
+}

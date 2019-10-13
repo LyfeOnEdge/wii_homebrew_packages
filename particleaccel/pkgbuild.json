@@ -1,0 +1,20 @@
+{
+    "package": "particleaccel",
+    "info": {
+        "title": "Particle Accelerator",
+        "author": "bubble-07",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Dodge the Particles!",
+        "details": "This is the very first homebrew app I have completed. It's also the first C game I made...\nTo play, turn the wiimote sideways. Use the up and down keys to move your character."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/particleaccel/icon.png",
+            "type": "icon"
+        }
+    ]
+}

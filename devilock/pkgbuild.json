@@ -1,0 +1,20 @@
+{
+    "package": "devilock",
+    "info": {
+        "title": "DeviLock",
+        "author": "Misfit",
+        "category": null,
+        "version": "V1.0.0",
+        "url": null,
+        "license": null,
+        "description": "Ludum Dare 24 game for Wii",
+        "details": "\n    DeviLock is a ludum dare 24 competition game for Wii. \n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/devilock/icon.png",
+            "type": "icon"
+        }
+    ]
+}

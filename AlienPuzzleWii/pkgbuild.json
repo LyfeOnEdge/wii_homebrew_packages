@@ -1,0 +1,20 @@
+{
+    "package": "AlienPuzzleWii",
+    "info": {
+        "title": "Alien Puzzle Wii",
+        "author": "GEMISIS",
+        "category": null,
+        "version": "0.5",
+        "url": null,
+        "license": null,
+        "description": "An alien puzzle game!",
+        "details": "An alien puzzle game where you must get\nthe highest score possible.  Each gem is\nworth one point.  Get to the end of the\nlevel teleporter to beat the level!"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/AlienPuzzleWii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

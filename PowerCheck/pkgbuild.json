@@ -1,0 +1,20 @@
+{
+    "package": "PowerCheck",
+    "info": {
+        "title": "PowerCheck",
+        "author": "JoostinOnline",
+        "category": null,
+        "version": "v1.7",
+        "url": null,
+        "license": null,
+        "description": "Checks how charged your remotes are",
+        "details": "Run this and it will tell you the what percentage of battery power is left in the connected remotes, including the balance board.  It is not 100% accurate, but it will give you an average."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/PowerCheck/icon.png",
+            "type": "icon"
+        }
+    ]
+}

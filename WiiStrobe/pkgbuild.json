@@ -1,0 +1,20 @@
+{
+    "package": "WiiStrobe",
+    "info": {
+        "title": "WiiStrobe",
+        "author": "Pinecone",
+        "category": null,
+        "version": "0.0.2",
+        "url": null,
+        "license": null,
+        "description": "Turn your TV into a strobe light!",
+        "details": "Hold a disco in your living room! This adjustable strobe-light app will turn your Wii and TV into a seriously cool strobe light!\n\nNow with the latest version, we've tweaked the speed a bit and added a siren mode (red and blue). \"Kids won't stand a chance!\" -- Anon\n\n--Caution--\nSome people have medical conditions (such as epilepsy) which can be triggered by flashing lights. Please please please do not use this if you know yourself to be suffering from such a condition or are unsure. Please also check with anyone else in the room with you. I cannot be held responsible.\n\n--\n\nWhilst I doubt this would cause any screen burn on TV sets prone to such deterioration, I am uneducated upon the subject and would appreciate the input of someone who is better informed than I am."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/WiiStrobe/icon.png",
+            "type": "icon"
+        }
+    ]
+}

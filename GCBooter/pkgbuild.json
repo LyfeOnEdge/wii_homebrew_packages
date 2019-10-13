@@ -1,0 +1,20 @@
+{
+    "package": "GCBooter",
+    "info": {
+        "title": "GCBooter",
+        "author": "emu_kidid",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Boots GC Games",
+        "details": "This is just a simple example to allow users to boot Gamecube games (original discs only kthx) on their Nintendo Wii via the homebrew channel. It is also region free."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/GCBooter/icon.png",
+            "type": "icon"
+        }
+    ]
+}

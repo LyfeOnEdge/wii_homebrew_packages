@@ -1,0 +1,20 @@
+{
+    "package": "JellyCarWii",
+    "info": {
+        "title": "JellyCar Wii",
+        "author": "drakon",
+        "category": null,
+        "version": "1",
+        "url": null,
+        "license": null,
+        "description": "JellyCar for the Wii!",
+        "details": "JellyCar for the Wii!"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/JellyCarWii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

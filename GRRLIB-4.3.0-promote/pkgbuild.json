@@ -1,0 +1,20 @@
+{
+    "package": "GRRLIB-4.3.0-promote",
+    "info": {
+        "title": "GRRLIB 4.3.0 Promote Intro",
+        "author": "NoNameNo",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "GRRLIB 4.3.0 Promote Intro",
+        "details": "GRRLIB 4.3.0 Promote Intro"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/GRRLIB-4.3.0-promote/icon.png",
+            "type": "icon"
+        }
+    ]
+}

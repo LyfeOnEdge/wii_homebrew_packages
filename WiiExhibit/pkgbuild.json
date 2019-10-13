@@ -1,0 +1,20 @@
+{
+    "package": "WiiExhibit",
+    "info": {
+        "title": "Wii Exhibit",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "0.5",
+        "url": null,
+        "license": null,
+        "description": "Online art",
+        "details": "Wii Exhibit is an online image editor where everyone views and edits the same canvas.\n\nControls:\nA button = Draw a line\nUp or down button = Adjust the line thickness\nLeft or right button = Adjust the line color\n1 or 2 button = Refresh the image without drawing on it\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/WiiExhibit/icon.png",
+            "type": "icon"
+        }
+    ]
+}

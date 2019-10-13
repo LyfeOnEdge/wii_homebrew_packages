@@ -1,0 +1,20 @@
+{
+    "package": "chess",
+    "info": {
+        "title": "Chess",
+        "author": "Wiimote by Vader347 Port by hanse",
+        "category": null,
+        "version": "0.0.2 Unofficial",
+        "url": null,
+        "license": null,
+        "description": "Port of Chess game TSCP",
+        "details": "Chess game with Wiimote Support.  Use the D-Pad to move the square. Press A to choose a piece and press B on the spot where you want to move the peice.  Press Home to return to the HBC."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/chess/icon.png",
+            "type": "icon"
+        }
+    ]
+}

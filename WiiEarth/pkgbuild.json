@@ -1,0 +1,20 @@
+{
+    "package": "WiiEarth",
+    "info": {
+        "title": "WiiEarth",
+        "author": "PaulWagener",
+        "category": null,
+        "version": "2.3",
+        "url": null,
+        "license": null,
+        "description": "Browse the world",
+        "details": "Use the Wiimote to browse through satellite imagery\n   \n   Controls:\n   A - Zoom into world\n   B - Grab world\n   plus minus - Zoom\n   D-pad - Move world\n   2 - Change map source\n   Home - Go back to Homebrew Channel"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/WiiEarth/icon.png",
+            "type": "icon"
+        }
+    ]
+}

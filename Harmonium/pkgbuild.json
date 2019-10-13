@@ -1,0 +1,20 @@
+{
+    "package": "Harmonium",
+    "info": {
+        "title": "Harmonium",
+        "author": "MetaFight",
+        "category": null,
+        "version": "v1 beta3",
+        "url": null,
+        "license": null,
+        "description": "A musical doodling tool... with a twist!",
+        "details": "\nAbout This Release:\n===================\nIt finally happened... I got a job.  That means I won't be able to work on homebrew nearly as much as before.  I was hoping to skip a beta3 release and go straight to v1 but considering the little amount of free time I have that would talk a while.  I thought it would be better to release what I have now and simply tell people it's still not done yet ;).\n\nA lot has changed since the original release!\nNoticeably:  Grid shifting, grid history, grid saving/loading, more evolution modes, UI changes, and probably more...\nLess Noticeably:  The playback system now uses only one ASND voice per column (this removes all note drops, yay!), sound playback is now even (yay!).\n\nWhat I didn't get around to doing (yet):\n- Fix the tuning to 440Hz\n- Fix software mixing so loundess is constant\n- Tweak the UI.\n- And probably a few more things I'm too lazy to go find in my notes.\n\nSo, I guess that's it for now.  I hope you enjoy this release.  Version 1 final is probably a long way away.\n\n\nAbout Harmonium:\n================\nHarmonium is, to put it plainly, a musical doodling tool. The user can manipulate notes on a 16x16 grid to create melodies within a pentatonic scale. On top of this already addictive concept, you can bring things to life by enabling Conway's Game of Life!\n\nIt's not the easiest thing to explain, so just try it!\n\nIt is important to mention, as well, that the concept behind Harmonium isn't my own. Andr\u00e9 Michelle has a very similar application on his website which served as Harmonium's inspiration.\n\n-- MetaFight\n\n    "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Harmonium/icon.png",
+            "type": "icon"
+        }
+    ]
+}

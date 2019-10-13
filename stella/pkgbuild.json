@@ -1,0 +1,20 @@
+{
+    "package": "stella",
+    "info": {
+        "title": "Stella Wii",
+        "author": "Nuvalo",
+        "category": null,
+        "version": "2.6.1",
+        "url": null,
+        "license": null,
+        "description": "Stella: Atari 2600 emulator",
+        "details": "Stella for Wii\nThis project is based on the atari 2600 opensource emulator called stella. You can find the original sources on its sourceforge page:\n\nhttp://sourceforge.net/project/showfiles.php?group_id=41847\n\nThis version uses the same sources than the original. It uses wii-linux to run on a wii, cwiid for wiimote interface and the SDL libraries for this system.\n\n\nInstructions:\n-------------\n\nHere is the button relation between the wiimote and the keyboard:\n\n[A]: Enter (select an option or the rom)\n[Home]: Escape (to return to \"roms select\" menu) \n[B]: Tabulator (to navigate through the menu buttons) \n[-]: F1 (Reset)\n[+]: F2 (Select)\n\nFirst player: Wiimote\n[1]: Pad button\n[Digital pad]: Arrows\n\nSecond player: Nunchuck\n[C]: Pad button\n[Analog pad]: Arrows\n\nThanks to\n----------\n\n- The gc-linux team for their effort in porting linux to the wii console\n- The stella team, for their great emulator\n- The CWiid develeoppers, for their great applications to interface the wiimote\n\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/stella/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "TheUnmappedForest",
+    "info": {
+        "title": "The Unmapped Forest",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "0.3",
+        "url": null,
+        "license": null,
+        "description": "Action RPG",
+        "details": "The Unmapped Forest is an action RPG game.\n\nControls:\nAnalog stick = Move\nA button = Attack\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/TheUnmappedForest/icon.png",
+            "type": "icon"
+        }
+    ]
+}

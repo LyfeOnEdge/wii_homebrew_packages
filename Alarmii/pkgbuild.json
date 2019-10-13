@@ -1,0 +1,20 @@
+{
+    "package": "Alarmii",
+    "info": {
+        "title": "Alarmii",
+        "author": "blitter",
+        "category": null,
+        "version": "1.0 (6 March '09)",
+        "url": null,
+        "license": null,
+        "description": "A count down/up timer!",
+        "details": " ...it's only an alarm/timer for the Wii!\n\n\n\n\n www.tribine.pwp.blueyonder.co.uk/blitter/"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Alarmii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

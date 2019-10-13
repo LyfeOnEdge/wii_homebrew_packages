@@ -1,0 +1,20 @@
+{
+    "package": "Snes9xGX",
+    "info": {
+        "title": "Snes9x GX",
+        "author": "Tantric",
+        "category": null,
+        "version": "4.3.2",
+        "url": null,
+        "license": null,
+        "description": "Super Nintendo Emulator",
+        "details": "A port of Snes9x to the Wii."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Snes9xGX/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "24points",
+    "info": {
+        "title": "24 Points",
+        "author": "skyfrog",
+        "category": null,
+        "version": "0.91 - NintendoMax",
+        "url": null,
+        "license": null,
+        "description": "Reflexion",
+        "details": "Use the 4 cards and +,-,x,/ to make 24 points. Controls: One to launch next turn; Two to select/set a value; right,left,up,down to navigate.\n\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/24points/icon.png",
+            "type": "icon"
+        }
+    ]
+}

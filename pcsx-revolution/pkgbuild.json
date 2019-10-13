@@ -1,0 +1,20 @@
+{
+    "package": "pcsx-revolution",
+    "info": {
+        "title": "pcsx-revolution",
+        "author": "Firnis",
+        "category": null,
+        "version": "rev_50",
+        "url": null,
+        "license": null,
+        "description": "Playstaion One Emulator",
+        "details": "Playstaion One emulator for Nintendo Wii. \n\t\tBased on wiiSX and pcsx-reloaded.\n\t\tReally slow and buggy. Work in progress.\n\t\tThanks to:\n\t\tWiiSX: Emu_kidid, Sepp256 and TehPola\n\t\tpcsx-reloaded: Wei Mingzhi\n\t\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/pcsx-revolution/icon.png",
+            "type": "icon"
+        }
+    ]
+}

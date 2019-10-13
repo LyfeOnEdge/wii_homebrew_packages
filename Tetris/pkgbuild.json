@@ -1,0 +1,20 @@
+{
+    "package": "Tetris",
+    "info": {
+        "title": "Tetris",
+        "author": "DesktopMan",
+        "category": null,
+        "version": "v1.2",
+        "url": null,
+        "license": null,
+        "description": "Tetris",
+        "details": "Controls\n\nA: Rotate\nLeft/Right on analogue stick and d-pad: Move piece left/right\nDown on d-pad: Hard drop\n\nWii controls by feesh"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Tetris/icon.png",
+            "type": "icon"
+        }
+    ]
+}

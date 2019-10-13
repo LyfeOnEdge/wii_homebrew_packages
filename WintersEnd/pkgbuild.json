@@ -1,0 +1,20 @@
+{
+    "package": "WintersEnd",
+    "info": {
+        "title": "Winters End",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "1.3",
+        "url": null,
+        "license": null,
+        "description": "Snow People",
+        "details": "You are a snow person and spring has come to rob you of yourself and make you disappear. But you don't need to melt away into a puddle. Gather up what snow still remains on the ground and you can be even bigger then you where before.\n\nControls:\nHold the wiimote sideways like an NES controller and tilt it to move.\nUse the directional pad to control the camera.\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\nmusic (Winter Dreams) by Grace Click\nccmixter.org/people/click\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/WintersEnd/icon.png",
+            "type": "icon"
+        }
+    ]
+}

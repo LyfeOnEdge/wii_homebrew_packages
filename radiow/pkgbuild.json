@@ -1,0 +1,20 @@
+{
+    "package": "radiow",
+    "info": {
+        "title": "WiiRadio",
+        "author": "Scanff",
+        "category": null,
+        "version": "0.7",
+        "url": null,
+        "license": null,
+        "description": "Internet Radio For Wii",
+        "details": "WiiRadio is a SHOUT/ICEcast stream player, ripper and music visualizer for the Wii.\n\nIncludes language packs, skinning capabilities and local music playback.\n\nCoding By: Scanff and Knarrff\nGraphics By: TiMeBoMb\n\n--- Thanks To ---\n.:: ProjectM ::.\n\nprojectM is an awesome music visualizer. \n\nhttp://projectm.sourceforge.net/\n\n.:: Tantric ::.\n\nAllowing me to use the libgui keyboard images.\n\n.:: The Demo Effects Collection ::.\n\nThe main resource for the visual effects.  http://demo-effects.sourceforge.net/\n    "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/radiow/icon.png",
+            "type": "icon"
+        }
+    ]
+}

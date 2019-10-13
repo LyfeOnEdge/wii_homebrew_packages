@@ -1,0 +1,20 @@
+{
+    "package": "YahtzWii",
+    "info": {
+        "title": "YahtzWii",
+        "author": "chris",
+        "category": null,
+        "version": "3.11",
+        "url": null,
+        "license": null,
+        "description": "Yahtzee for the Wii",
+        "details": "Yahtzee for the Wii\n\nVersion 3.11\n\nBugfix release\n\nTOX 009\n\nwww.toxicbreakfast.com"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/YahtzWii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

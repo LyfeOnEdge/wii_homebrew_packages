@@ -1,0 +1,20 @@
+{
+    "package": "wiicasino",
+    "info": {
+        "title": "Wii Casino",
+        "author": "mdbrim",
+        "category": null,
+        "version": "3.1",
+        "url": null,
+        "license": null,
+        "description": "WiiCasino",
+        "details": "Casino game for the Wii that includes many features including the debut of Miis in homebrew!"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiicasino/icon.png",
+            "type": "icon"
+        }
+    ]
+}

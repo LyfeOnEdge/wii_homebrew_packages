@@ -1,0 +1,20 @@
+{
+    "package": "splatter",
+    "info": {
+        "title": "Splatter Castle",
+        "author": "SpiderDave",
+        "category": null,
+        "version": "20100402",
+        "url": null,
+        "license": null,
+        "description": "Platform game",
+        "details": "A platform game set in a strange castle."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/splatter/icon.png",
+            "type": "icon"
+        }
+    ]
+}

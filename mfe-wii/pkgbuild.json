@@ -1,0 +1,20 @@
+{
+    "package": "mfe-wii",
+    "info": {
+        "title": "Wii MFE Port",
+        "author": "nuvalo ",
+        "category": null,
+        "version": "1.1",
+        "url": null,
+        "license": null,
+        "description": "Media player",
+        "details": "MFE-Wii is an MPlayer Front-End for the Wii, using Wii-Linux 8/4/2008. MFE-Wii provides a front-end controlled by a Gamecube control pad and allows you to play media files directly from the SD Card on your Wii.\n\nThis project is based on the MFE opensource media player for gc-linux. You can find the original sources on its sourceforge page:\n\nhttp://sourceforge.net/project/showfiles.php?group_id=98581&package_id=156977\n\nThis version uses the same sources than the original, there are only some changes on the kernel and the filesystem\nto adapt it to wii. It uses wii-linux to run on a wii, and the SDL libraries for this system. It will boot using\nthe ARAM filesystem method.\n\nWhat you need:\n--------------\n\n- A console ready to run homebrew (Twilight hack + SDElfLoader 3.0)\n- SDCard\n- Gamecube Pad\n\n\nInstallation:\n--------------\n\n- Copy the files mfe-wii.elf and the directory \"mfe\" to the root of yout SDCard.\n\n- Copy the \".avi\" files that you want to play on your sdcard\n\n- Put the SDCard on the wii front sdcard reader\n\n- Connect the gamecube pad\n\n- Launch the file \"mfe-wii.elf\", using your favourite method of loading homebrew.\n\nInstructions:\n-------------\n\nHere is the button relation between the gc-pad and the keyboard:\n\n[digital pad]: Navigate through your filesystem, forward and backward\n[A]: Launch a file (play)\n[B]: Stop\n\nMissing\n-------\n\n- DVD\n- Wiimote\n\n\nThanks to\n----------\n\n- The gc-linux team for their effort in porting linux to the wii\n- Isobel, for his great MFE player minidistro.\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/mfe-wii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

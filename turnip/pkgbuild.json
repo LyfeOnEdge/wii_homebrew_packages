@@ -1,0 +1,20 @@
+{
+    "package": "turnip",
+    "info": {
+        "title": "Turnip",
+        "author": "Conanac",
+        "category": null,
+        "version": "0.2",
+        "url": null,
+        "license": null,
+        "description": "Turnip price editor",
+        "details": "This is a simple application for reading and changing turnip prices stored in animal crossing city folk gamesave file and a derived game for transforming turnips to bags of bells.\n\nUsage: Extract the gamesave file using Waninkoko's Savegame Extractor, then run this application. This application produces TURNIP.TXT file, and if there is no setting/input file (turnipsetting.xml), it will be created automatically, otherwise it will be used for setting directories/files and target prices\n\nControls: \nWiimote D-pad: DOWN advances screen one page, UP returns to start of TURNIP.TXT file stored in SD root directory (or other location defined in the setting/input file).\nWiimote 1 or 2: A combination of four pushed buttons to transform turnips at the bottom of the screen to bags of bells.\nWiimote A: Submit the first four pushed buttons (1 or 2 buttons) after the clear or start/restart; Confirm selection after submitting request for updating/changing prices.\nWiimote B: Clear or restart for the new combination.\nWiimote Home: Return or exit to Homebrew Channel; Cancel selection in submitting request for updating/changing prices and then exit to Homebrew Channel.\n\nCredits:\nTxtEd/TxtEd Mod coders (Linus and Freigeist), their application is used as the base of this application."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/turnip/icon.png",
+            "type": "icon"
+        }
+    ]
+}

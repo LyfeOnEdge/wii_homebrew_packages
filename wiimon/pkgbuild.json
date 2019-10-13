@@ -1,0 +1,20 @@
+{
+    "package": "wiimon",
+    "info": {
+        "title": "Wiimon",
+        "author": "Blabla/GameBlabla",
+        "category": null,
+        "version": "1.1",
+        "url": null,
+        "license": null,
+        "description": "Ils arrivent sur la Wii !",
+        "details": "Jouez dans 2 mini-jeux ou vous devez\n faire le meilleur score possible sans perdre !\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiimon/icon.png",
+            "type": "icon"
+        }
+    ]
+}

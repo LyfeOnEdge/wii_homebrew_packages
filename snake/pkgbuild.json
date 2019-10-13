@@ -1,0 +1,20 @@
+{
+    "package": "snake",
+    "info": {
+        "title": "Snake2",
+        "author": "Uschghost",
+        "category": null,
+        "version": "2.1a beta",
+        "url": null,
+        "license": null,
+        "description": "Snake2",
+        "details": "GFX: gabriel_\n\nthx to:\nNoNameNo - for help with the fading effect.\nStonewood - for technical support.\nyossi - for his elf-dol_converter.sh script\n\nControl:\nHold the wiimote horicontal like an\nNES pad.  [ +  - - oo]\n\npress 2 to restart the game after you died.\npress HOME to return to the homebrew channel.\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/snake/icon.png",
+            "type": "icon"
+        }
+    ]
+}

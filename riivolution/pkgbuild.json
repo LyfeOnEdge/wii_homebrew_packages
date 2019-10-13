@@ -1,0 +1,20 @@
+{
+    "package": "riivolution",
+    "info": {
+        "title": "Riivolution",
+        "author": "Aaron tueidj Tempus megazig",
+        "category": null,
+        "version": "v1.06",
+        "url": null,
+        "license": null,
+        "description": "Riivolution Patcher",
+        "details": "Riivolution is an on-the-fly game patcher for use with retail discs. It allows users to place content on their SD or USB devices, which will be read by the game during regular play. Riivolution can be used for custom textures, music, levels, memory patches, game translations, and more.\n\nRiivolution requires valid game content and an XML file to apply changes to games.\n\nhttp://rvlution.net/riivolution"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/riivolution/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "baker",
+    "info": {
+        "title": "RPG Baker",
+        "author": "TheDrev",
+        "category": null,
+        "version": "1",
+        "url": null,
+        "license": null,
+        "description": "RPG baker",
+        "details": "\n    RPG baker runtime\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/baker/icon.png",
+            "type": "icon"
+        }
+    ]
+}

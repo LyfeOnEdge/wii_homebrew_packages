@@ -1,0 +1,20 @@
+{
+    "package": "NuGaSa",
+    "info": {
+        "title": "NuGaSa",
+        "author": "nIxx",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "Backup/Restore GCI Files",
+        "details": "NuGasa 0.1 (Nu Gamecube Saver)\n============================\nNuGaSa is a tool to backup your GC Save Files on Front SD \nor restore your or downloaded GC Save Files from Front SD.\n\nUSAGE\n======\n* Press 1 to backup a savegame \n* Press 2 to restore a savegame \n* Press Home Button to exit \n                              \nThe savegame backups will be stored in /GCSAVES\nto restore or write an new savegame on the MC put the savegame into /GCSAVES"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/NuGaSa/icon.png",
+            "type": "icon"
+        }
+    ]
+}

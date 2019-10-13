@@ -1,0 +1,20 @@
+{
+    "package": "deadly_cobra",
+    "info": {
+        "title": "Deadly Cobra Wii",
+        "author": "Oibaf",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Arcade Game",
+        "details": "Deadly Cobra is an SDL-based game similar in gameplay to the classic Nibbles or snake game.\nBasically the point of the game is to eat as many  pebbles (in our case \"Men\") as possible without eating yourself or hitting a wall.\nFeatures include both single and multiplayer modes, cool 2-D graphics and energizing music for each level.\n\nUSAGE\n-----------\n*Controls:\n- Arrows and WPAD 1 (Wiimote, Nunchuck or Classic Controller) move snake 1\n- WASD and WPAD 2 (Wiimote, Nunchuck or Classic Controller) move snake 2\n- Escape / Home ends the game\n- F12 takes a screen shot\n- \"m\" / Minus toggles the sound\n- \"P\" / Plus pauses the game\n- \"r\" /Plus resumes the game\n\n*Points: \n- Fat Men = 4 \n- Random Confused Men = 3\n- Skinny Men = 2\n- Sentry Targets = 1\n\n*Adventure Mode 1P\n- 50 points needed to advance to the next level.\n- 3 lives per game, +1 for every 3 levels completed (max 9 lives).\n- Difficulty is increased by +1 for every 3 levels completed (max difficulty 9).\n- Difficulty levels affect speed, obstacles, quantity of men and length of snake.\n- Beating Adventure Mode is possible.\n\n*Longest Snake Mode 1P\n- Only sentries appear.\n- 1 life per game.\n- Difficulty levels only affect speed.\n\n*H2H Delayed Respawn 2P\n- 2 player simultaneous mode.\n- When a player dies, he will not respawn until the next level or when the other snake dies.\n- 3 lives per game.\n- Difficulty levels affect speed, obstacles, quantity of men and length of snake.\n\n*H2H Instant Respawn 2P\n- 2 player simultaneous mode.\n- When a player dies, he will respawn immediatly.\n- 3 lives per game.\n- Difficulty levels affect speed, obstacles, quantity of men and length of snake.\n\nAuthors:\n--------\nconcept/code: outbak, DrZaiusX11\ncode submission: Mr Noonan\nartwork: DrZaiusX11\nmusic: Cem Kaan\nWii porting: Oibaf\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/deadly_cobra/icon.png",
+            "type": "icon"
+        }
+    ]
+}

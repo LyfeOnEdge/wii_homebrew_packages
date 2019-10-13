@@ -1,0 +1,20 @@
+{
+    "package": "dosbox",
+    "info": {
+        "title": "DOSBox wii-ports",
+        "author": "michels crew",
+        "category": null,
+        "version": "0.73",
+        "url": null,
+        "license": null,
+        "description": "This is a portage of DOSBox on Wii",
+        "details": "DOSBox is an emulator which emulates an IBM PC compatible computer running MS-DOS.\n\tIt is intended especially for use with old PC games.\n\tReleased under the terms of the GNU General Public License, DOSBox is free software."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/dosbox/icon.png",
+            "type": "icon"
+        }
+    ]
+}

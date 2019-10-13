@@ -1,0 +1,20 @@
+{
+    "package": "eduke32",
+    "info": {
+        "title": "WiiXplorer",
+        "author": "Dimok",
+        "category": null,
+        "version": "r249",
+        "url": null,
+        "license": null,
+        "description": "Wii File Browser",
+        "details": "A multi device file explorer for the Wii by dimok, r-win and dude.\nThe GUI is done with libwiigui as base and graphics by NeoRame.\n\nFeatures:\n * USB2 support with IOS58 or IOS202 installed\n * SMB/USB/SD/DVD recursive copy/move/delete\n   of files/directories with all files in it\n * FAT/NTFS/EXT2/EXT3/EXT4 files systems support\n * GUID Partition Table (GPT) support\n * Rename files/directories\n * Properties of files/directories\n * Browse through SD/USB/SMB/DVD/WiiDisk\n * Addressbar with path\n * Multilanguage with custom font support\n * Boot .dol/.elf files\n * Playback Wii/GC Game Videos\n * Stylish Music Player\n * Open TXT/XML/MP3/OGG/WAV/BNS/AIFF files\n * Supported Image Formats:\n   PNG/JPEG/GIF/BMP/TPL/TGA/TIFF/GD/GD2\n * Imageoperations zoom/slideshow\n * Image converter which converts the\n   supported formats to:\n   PNG/JPEG/GIF/BMP/TIFF/GD/GD2\n * Screenshot support at any point of the app\n   in different formats\n * ZIP/7zip/RAR/BNR/U8Archive/RARC browsing and decompressing\n * Properties of archive files\n * Add files/directories to a ZIP or create new ZIP files\n * Textediting support\n * PDF Viewing support\n * Format SD/USB primary/logical partitions to FAT32\n * Integrated FTP Server and FTP Client\n * MD5 Calculator and Logger\n * Start BootMii\n * Auto-Update feature\n\nCredits:\n  Coding: Dimok, r-win, dude\n  Forwarder: Dimok\n  Channel: Dj Skual\n  Artworks: Neorame\n  Languages: Dj Skual and Translaters\n\n  Libwiigui: Tantric\n  Libogc/Devkit: Shagkur and Wintermute\n  FreeTypeGX: Armin Tamzarian.\n\nLinks:\n  WiiXplorer Project Page:\n\thttp://code.google.com/p/wiixplorer/\n  WiiXplorer Support Site:\n\thttp://code.google.com/p/wiixplorer/\n\tupdates/list\n  Libwiigui Website:\n\thttp://wiibrew.org/wiki/Libwiigui/\n  FreeTypeGX Project Page:\n\thttp://code.google.com/p/freetypegx/\n  Gettext Official Page:\n\thttp://www.gnu.org/software/gettext/\n\tgettext.html\n  Languages Page:\n\thttp://gbatemp.net/\n\tindex.php?showtopic=174053\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/eduke32/icon.png",
+            "type": "icon"
+        }
+    ]
+}

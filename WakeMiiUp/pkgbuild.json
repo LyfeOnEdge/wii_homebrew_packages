@@ -1,0 +1,20 @@
+{
+    "package": "WakeMiiUp",
+    "info": {
+        "title": "WakeMiiUp",
+        "author": "Superyoshi",
+        "category": null,
+        "version": "0.6beta",
+        "url": null,
+        "license": null,
+        "description": "Wakes you using Drive Light",
+        "details": "WakeMiiUp is not your usual Alarm App. It uses methods to wake you which don't need a TV!\n\nDoes your TV make a buzzing noise, so you can't sleep? Switch the TV off and get waked up by light!\nWatching a movie on TV, but you want to be noticed when you gotta go to school? The light will tell you! \n\nCoded by Superyoshi\nFull credits at http://wiibrew.org/wiki/User:Superyoshi/WakeMiiUp"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/WakeMiiUp/icon.png",
+            "type": "icon"
+        }
+    ]
+}

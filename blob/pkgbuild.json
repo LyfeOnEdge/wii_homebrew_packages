@@ -1,0 +1,20 @@
+{
+    "package": "blob",
+    "info": {
+        "title": "Blobwars : Metal Blob Solid",
+        "author": "Wiimpathy",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "2D platform game",
+        "details": "A port of Metal Blob Solid to the Wii."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/blob/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "SettingsEditorGUI",
+    "info": {
+        "title": "Settings Editor GUI",
+        "author": "JoostinOnline, stfour",
+        "category": null,
+        "version": "v1.6",
+        "url": null,
+        "license": null,
+        "description": "Modify your settings via homebrew.",
+        "details": "Settings Editor GUI is a perfect add-on to postLoader, but it can be used on its own as well.  With it, you can change the following:\n-Screen resolution\n-Aspect ratio\n-Sensor bar position\n-Sound mode\n-Wii remote rumble\n-Screen burn-in reduction\n-Shutdown mode\n-Wii remote sensitivity\n-WiiConnect24\n-Internet Settings (boots directly into them)\n\nTheme support is now available thanks to stfour"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/SettingsEditorGUI/icon.png",
+            "type": "icon"
+        }
+    ]
+}

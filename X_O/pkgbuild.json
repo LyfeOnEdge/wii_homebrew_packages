@@ -1,0 +1,20 @@
+{
+    "package": "X_O",
+    "info": {
+        "title": "X and O",
+        "author": "SAL3000",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "A Tic Tac Toe game",
+        "details": "X and O is a Tic-Tac-Toe game for the Nintendo Wii. It was programmed in C++ using devkitPro along with GRRLIB. It's main purpose isn't only for fun, but for letting others learn from the source. Every line is commented to help readers know what's happening. I hope you'll like the game and/or understand and learn from the source code.\n\nThe game can be played with a friend using two Wii Remote controller.\n\nTo win the game, you have to place three marks (O or X) in a horizontal, vertical or diagonal row. If the grid is filled completely and no one has won, well, it's a tie game. Start over and try to beat your friend."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/X_O/icon.png",
+            "type": "icon"
+        }
+    ]
+}

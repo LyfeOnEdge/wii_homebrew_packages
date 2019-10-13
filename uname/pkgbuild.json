@@ -1,0 +1,20 @@
+{
+    "package": "uname",
+    "info": {
+        "title": "uname",
+        "author": "benjamin",
+        "category": null,
+        "version": "0.3",
+        "url": null,
+        "license": null,
+        "description": "print system information",
+        "details": "\n\tPrint system information:\n\t- System Menu version\n\t- Device ID\n\t- boot2 version\n\t- IOS version\n\t- Number of titles installed\n\t- CPU and GPU information\n\t- Flash and main memory information\n\t- Region\n\t- IP address\n\t- Netmask\n\t- Gateway\n\t- MAC address\n    "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/uname/icon.png",
+            "type": "icon"
+        }
+    ]
+}

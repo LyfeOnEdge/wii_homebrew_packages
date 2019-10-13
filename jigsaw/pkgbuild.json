@@ -1,0 +1,20 @@
+{
+    "package": "jigsaw",
+    "info": {
+        "title": "Arcade Jigsaw",
+        "author": "mdm2k",
+        "category": null,
+        "version": "0.3b",
+        "url": null,
+        "license": null,
+        "description": "First Person Jigsaw",
+        "details": "Not just another computer jigsaw puzzle! Put the pieces exactly where they go or they head to the back of the queue. You only get to see a few at a time!"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/jigsaw/icon.png",
+            "type": "icon"
+        }
+    ]
+}

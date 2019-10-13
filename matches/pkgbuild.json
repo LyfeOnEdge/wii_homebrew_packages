@@ -1,0 +1,20 @@
+{
+    "package": "matches",
+    "info": {
+        "title": "MATCHES",
+        "author": "Felix+Georg Potthast",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Matches Game for the WII",
+        "details": "A game of drawing matches using console mode only."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/matches/icon.png",
+            "type": "icon"
+        }
+    ]
+}

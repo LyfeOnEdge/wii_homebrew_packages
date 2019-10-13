@@ -1,0 +1,20 @@
+{
+    "package": "boot-it",
+    "info": {
+        "title": "Boot it!",
+        "author": "Nuvalo",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "General wiilinux filesystem loader",
+        "details": "Boot it!: General wiilinux filesystem loader\n\n\tBoot it! is a wii-linux kernel with a small ramdisk that will let you boot any filesystem prepared to run on wii, installed on any device. This means that you can boot a filesystem installed on a usb device, on a SD-Card, or a filesystem image in a SD-Card or USB device. Right now has some limitations, read the \"README\" file that comes with it.\n  \n  Thanks to all the wii-linux developpers:\n- The gc-linux team and Isobel, who did this possible\n- All the #wii-linux contributors: Muzer, Bertjan, T7g... the list is very long\n- Special thanks to t7g and berjan for \"bliight\" and \"xwhiite\"\n- Of course, thanks to the Team Twiizers, for their Homebrew channel and Twilight hack\n\nAny problems, ask them on #wii-linux at efnet.\n\n "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/boot-it/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "ShowTest",
+    "info": {
+        "title": "Show Test",
+        "author": "_Dark_Cloud_",
+        "category": null,
+        "version": "v1.0",
+        "url": null,
+        "license": null,
+        "description": "Quiz para Wii",
+        "details": "\n\tCon este juego evaluaras tu conocimiento acerca de las series The Big Bang Theory y Como Conoci a Vuestra Madre.\n\tEspero que disfruteis :D."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/ShowTest/icon.png",
+            "type": "icon"
+        }
+    ]
+}

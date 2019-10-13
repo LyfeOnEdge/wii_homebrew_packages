@@ -1,0 +1,20 @@
+{
+    "package": "BitStreamer",
+    "info": {
+        "title": "Bit Streamer",
+        "author": "BlueWave Team",
+        "category": null,
+        "version": "0.9",
+        "url": null,
+        "license": null,
+        "description": "Avoid the viruses!",
+        "details": "A game that is in between Bit Rider and SFCave. Stream through the Btstream while avoiding all of the viruses that bar your way."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/BitStreamer/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "libmii-example",
+    "info": {
+        "title": "Libmii Example",
+        "author": "mjbauer95",
+        "category": null,
+        "version": "0.1alpha",
+        "url": null,
+        "license": null,
+        "description": "Example of libmii ",
+        "details": "An example of libmii. It shows each Mii entry as a name."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/libmii-example/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "winterman",
+    "info": {
+        "title": "WINTERMAN",
+        "author": "Splyysh",
+        "category": null,
+        "version": "?",
+        "url": null,
+        "license": null,
+        "description": "Bomberman clone for wii",
+        "details": "Winter themed bomberman kind of game for wii, featuring multiplayer for 8 players"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/winterman/icon.png",
+            "type": "icon"
+        }
+    ]
+}

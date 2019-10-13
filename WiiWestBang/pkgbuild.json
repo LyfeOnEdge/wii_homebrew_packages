@@ -1,0 +1,20 @@
+{
+    "package": "WiiWestBang",
+    "info": {
+        "title": "WiiWestBang",
+        "author": "Cid2mizard",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "FPS Western",
+        "details": "Guard a city bank from bandits as a sheriff in wild west. A remake of a great 8bit game.\n\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/WiiWestBang/icon.png",
+            "type": "icon"
+        }
+    ]
+}

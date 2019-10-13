@@ -1,0 +1,20 @@
+{
+    "package": "wmlflash",
+    "info": {
+        "title": "Wiimote LED Flasher",
+        "author": "mdm2k",
+        "category": null,
+        "version": "0.1b",
+        "url": null,
+        "license": null,
+        "description": "Flashes LEDs in sequence",
+        "details": "This is just a little novelty program that flashes the wiimote LEDs in a sequence reminiscent of a certain famous car from the 1980s. Supports up to 4 wiimotes."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wmlflash/icon.png",
+            "type": "icon"
+        }
+    ]
+}

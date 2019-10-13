@@ -1,0 +1,20 @@
+{
+    "package": "opentyrian-Wii",
+    "info": {
+        "title": "OpenTyrianWii",
+        "author": "Molokai",
+        "category": null,
+        "version": "1.7",
+        "url": null,
+        "license": null,
+        "description": "OpenTyrian rail shooter game on Wii",
+        "details": "This is a port of the OpenTyrian project to the Wii.  OpenTyrian is a recode of the popular vertical shooter Tyrian for the DOS system.\n1.7 - 25 February 2010\n\t* Impossible, Suicide, and Lord of Game difficulties now available by default in difficulty select menu.\n\t* Change in onscreen keyboard startup and shutdown routine.  Result is an increase in speed when loading the save/highscore name entry screens.\n\t* Rich mode (a.k.a. loot) now accessible through \"OpenTyrian\" menu option.\n\t* Latest changelog now included in meta.xml (for the benefit of the HBB users).\n\t* Special Games/Modes menu added.  Access by simultaneously pressing left and right sidekick assigned joystick buttons (or F15 on a keyboard, if you have one that far up).  Includes choices for both Arcade ships (i.e. UNKNOWN, WEIRD, NORTSHIP, etc), as well as the two difficulty settings for ENGAGE (suicide and LOG).  Will eventually include Destruct mode (2D tanks game), but since it's not rigged to work with joysticks at the moment, it's useless on the Wii.\n1.6 - 19 February 2010\n    * USB support added for loading and saving OpenTyrian data files (make sure all files in /popkey and /tyrian subdirectories are in place; tyrian.sav, tyrian.cfg and joystick.conf are optional).\n    * Several background code optimizations not yet reflecting in game performance.\n    * OSK bugfix: \"9\" now works on both name input screens.\n    * Bugfix for \"Low\" detail text display in Pause menu.\n    * Default detail level set to \"Pentium\"\n    * Wild detail mode enabled in Pause menu detail selection.\n    * Fix for default HAT assignments (used to assign all directions to HAT-left).\n    * Joystick configuration menu completely reworked (details in Joystick Config):\n          o Now displays name of joystick at top instead of number.\n          o Also displays button names instead of numbers now.\n          o Finally, DPAD directions dynamically displayed based on whether Classic is plugged in or not."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/opentyrian-Wii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

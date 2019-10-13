@@ -1,0 +1,20 @@
+{
+    "package": "3dmaze",
+    "info": {
+        "title": "3D Maze",
+        "author": "Michelinux",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Get out of the 3D Maze!",
+        "details": "Imagine having a 3D labyrinth in your hands... you can rotate it in any direction to get a red ball out of it.\n\nMotion Plus is not mandatory but recommended.\n\nIf you get lost press 2.\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/3dmaze/icon.png",
+            "type": "icon"
+        }
+    ]
+}

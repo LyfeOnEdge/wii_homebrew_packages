@@ -1,0 +1,20 @@
+{
+    "package": "PWiictogrid",
+    "info": {
+        "title": "PWiictogrid",
+        "author": "xerpi",
+        "category": null,
+        "version": "0.3",
+        "url": null,
+        "license": null,
+        "description": "PWiictogrid",
+        "details": "\n\nAutor: xerpi\n\nEl objetivo del juego es mediante las flechas, mover los bloques grises y azules(no todos los niveles tienen bloques azules) hasta conseguir una imagen id\u00e9ntica a la de la figura que sale arriba a la izquierda de la pantalla.\n\nEspeciales agradecimientos a LD4W (LuaDEV para Wii).\n\nPara m\u00e1s informaci\u00f3n visita wii.scenebeta.com"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/PWiictogrid/icon.png",
+            "type": "icon"
+        }
+    ]
+}

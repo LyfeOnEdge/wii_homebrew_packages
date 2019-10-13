@@ -1,0 +1,20 @@
+{
+    "package": "senet",
+    "info": {
+        "title": "Senet",
+        "author": "pedrocrespo",
+        "category": null,
+        "version": "0.05b",
+        "url": null,
+        "license": null,
+        "description": "Egyptian Ancient Board Game",
+        "details": "Senet is a board game from ancient Egypt, is the oldest board game whose ancient existence has been confirmed, dating to circa 3500 BC. Play it and you'll understand why Tutankhamen has two senet gameboards inside his tomb! "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/senet/icon.png",
+            "type": "icon"
+        }
+    ]
+}

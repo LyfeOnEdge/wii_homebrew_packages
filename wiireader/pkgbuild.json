@@ -1,0 +1,20 @@
+{
+    "package": "wiireader",
+    "info": {
+        "title": "Wiireader",
+        "author": "Hermes",
+        "category": null,
+        "version": "1.1",
+        "url": null,
+        "license": null,
+        "description": "jpg/txt/ogg/mp3 Reader",
+        "details": "Application to read comics (.jpg), books (.txt/ zipped .txt) and play music (.mp3/.ogg)\n\t\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiireader/icon.png",
+            "type": "icon"
+        }
+    ]
+}

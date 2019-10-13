@@ -1,0 +1,20 @@
+{
+    "package": "Wii-Tac-Toe",
+    "info": {
+        "title": "Wii-Tac-Toe",
+        "author": "Crayon",
+        "category": null,
+        "version": "0.8",
+        "url": null,
+        "license": null,
+        "description": "Tic-Tac-Toe game",
+        "details": "Wii-Tac-Toe is a Tic-Tac-Toe game for the Nintendo Wii. It was programmed in C++ using devkitPro along with GRRLIB.\n\nProgrammer: Crayon\nGraphics: Mr_Nick666"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Wii-Tac-Toe/icon.png",
+            "type": "icon"
+        }
+    ]
+}

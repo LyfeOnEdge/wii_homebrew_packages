@@ -1,0 +1,20 @@
+{
+    "package": "quake",
+    "info": {
+        "title": "Quake",
+        "author": "Eluan",
+        "category": null,
+        "version": "GX 0.05",
+        "url": null,
+        "license": null,
+        "description": "Quake port for Wii",
+        "details": "This is a port of Quake to the Wii based on the GameCube Quake port by Peter Mackay. "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/quake/icon.png",
+            "type": "icon"
+        }
+    ]
+}

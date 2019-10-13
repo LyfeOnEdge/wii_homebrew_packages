@@ -1,0 +1,20 @@
+{
+    "package": "wiiqix",
+    "info": {
+        "title": "WiiQix",
+        "author": "Godrik",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "WiiQix",
+        "details": "The title screen is used to adjust the number of bullets on the screen by clicking the ball down the left. Press start to start\nIt creates walls draw a line one wall to another wall. A wall is a few seconds to solidify. If a ball hits a wall in court appearance, all the walls disappear uncured.\nYou must point and keep press A. Be careful to end the movement on a wall and not outside the screen.\nOn Wii you can leave the game anytime by pressing the Home"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiiqix/icon.png",
+            "type": "icon"
+        }
+    ]
+}

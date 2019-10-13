@@ -1,0 +1,20 @@
+{
+    "package": "ziip",
+    "info": {
+        "title": "Ziip",
+        "author": "page",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "A simple Zoop clone",
+        "details": "Ziip is a simple clone of the Zoop puzzle game."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/ziip/icon.png",
+            "type": "icon"
+        }
+    ]
+}

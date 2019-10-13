@@ -1,0 +1,20 @@
+{
+    "package": "wiimpc",
+    "info": {
+        "title": "WiiMPC",
+        "author": "sshock",
+        "category": null,
+        "version": "0.1b",
+        "url": null,
+        "license": null,
+        "description": "MPD Client for the Wii",
+        "details": "WiiMPC is a program that connects to your MPD music server so you can remote control your music with your WiiMote!  Just set MPD_HOST=whatever in a file called wiimpc.conf."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiimpc/icon.png",
+            "type": "icon"
+        }
+    ]
+}

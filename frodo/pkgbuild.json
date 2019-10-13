@@ -1,0 +1,20 @@
+{
+    "package": "frodo",
+    "info": {
+        "title": "C64-network.org (Frodo)",
+        "author": "Simon Kagstrom, Oibaf",
+        "category": null,
+        "version": "2.4.1",
+        "url": null,
+        "license": null,
+        "description": "Commodore 64 emulator",
+        "details": "C64-network.org is a networked C64 emulator based on Frodo written by Christian Bauer. It supports C64 disk and tape images in the .d64, .t64 and .prg formats. The port to Wii was done by Simon Kagstrom.\n\nUSAGE\n------\nPut .t64, .d64, prg or p00 files in /frodo/images on your SD card or in any directory on an usb fat disk.\n \nThe in-game menu allows you to insert disks/tapes, load them and configure the display, joystick ports etc. \n\nSaves will be stored on the SD card. You can save and load game state.\n\nWhen you save the game state also some preferences are saved in the state (joystick buttons, screen format, joystick port, 1541 emulation, rumble).\n\nThe whole set of preferences is saved from the main in-game menu and it is loaded on Frodo start-up. \n\nWiimote 1 is by default the joystick in port 1 and wiimote 2 the joystick in port 2, but you can swap this.\n\nIf rumble is enabled, the wiimote rumbles each time the fire button is pressed. \n\nYou can also load games from your computer through SMB protocol. You should configure and activate the connection in the network menu.\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/frodo/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "HKPractice",
+    "info": {
+        "title": "HK Practice",
+        "author": "Mangaman3000",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "Hiragana and Katakana Practice",
+        "details": "\nPractice your basic japanese with this Hiragana/Katakana learning tool.\n\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/HKPractice/icon.png",
+            "type": "icon"
+        }
+    ]
+}

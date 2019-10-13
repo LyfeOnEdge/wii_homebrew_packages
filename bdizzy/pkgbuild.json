@@ -1,0 +1,20 @@
+{
+    "package": "bdizzy",
+    "info": {
+        "title": "Bubble Dizzy",
+        "author": "Foxy",
+        "category": null,
+        "version": "0.94 Beta",
+        "url": null,
+        "license": null,
+        "description": "Blip blop blup",
+        "details": "You must help Dizzy get to the surface by riding on the bubbles.\nYou only have a limited amount of oxygen (although more can be collected) and if it runs out then you lose a life.\nYou must also collect the pearls from the sea bed and ledges so that Dizzy can give Daisy a pearl necklace at last.\n\nThis version was converted from Atari ST.\n\nThanks to: - Gouky from the Magic Team for his valuable help on Wii's functions.\n- WinterMute and all the team behind devkitPro.\n- Bushing, Marcan & all involved in the Homebrew Channel et TP Hack.\n- Hermes for the soundlib\n- All the teams of PlayerAdvance.org & Dev-fr.org.\n- Kojote from PDRoms.de.\n- And all of you for supporting homebrews.\n\nLook for some others release at www.foxysofts.com"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/bdizzy/icon.png",
+            "type": "icon"
+        }
+    ]
+}

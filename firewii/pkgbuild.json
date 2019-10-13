@@ -1,0 +1,20 @@
+{
+    "package": "firewii",
+    "info": {
+        "title": "FireWii",
+        "author": "Jespa",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Fire animation demo for Wii",
+        "details": "\nIt is always nice to sit by the warm fire in the living room, so I wrote this to my loved wife.\n\n  Programmed by Jespa in 2009, based on Asphyxia VGA tutorial #19.\n\t\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/firewii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "HeroCity",
+    "info": {
+        "title": "Hero City",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "0.7",
+        "url": null,
+        "license": null,
+        "description": "Superhero game",
+        "details": "Hero City is a game about a super hero who fights monsters in a city.\n\nControls:\nPointer = Turn\nAnalog stick = Move\nA button = Jump\nZ button = Run / Fly\nC button = Left attack\nZ button = Right attack\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\nmusic (La busqueda de Ianna) by Epic Soul Factory\njamendo.com/en/album/85641\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/HeroCity/icon.png",
+            "type": "icon"
+        }
+    ]
+}

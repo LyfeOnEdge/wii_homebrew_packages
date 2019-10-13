@@ -1,0 +1,20 @@
+{
+    "package": "syasokoban",
+    "info": {
+        "title": "SYASokoban Wii",
+        "author": "Shin-NiL",
+        "category": null,
+        "version": "0.2",
+        "url": null,
+        "license": null,
+        "description": "Port of SYASokoban",
+        "details": "Copyright (c) David Joffe - http://grayskygames.com\n\nWii port by Shin-NiL - http://www.shinnil.co.cc\n\nSokoban was invented in Japan and the original program was written by Hiroyuki Imabayashi. It is copyright (c) 1982 Thinking Rabbit Inc. Japan.\n\n\"Sokoban\" means \"warehouse keeper\" in japanese; the goal of the game is push all the crates into the designated crate position without getting stuck. Crates can only be pushed foward.\n\nThe levels provided are assembled from various third-party sources. The font used in the header title is \"Conventional Wisdom\" created by Tom Murphy 7; he has created many free fonts wich are available at http://fonts.tom7.com\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/syasokoban/icon.png",
+            "type": "icon"
+        }
+    ]
+}

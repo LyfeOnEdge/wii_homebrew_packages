@@ -1,0 +1,20 @@
+{
+    "package": "rssmii",
+    "info": {
+        "title": "RSSMii",
+        "author": "main()",
+        "category": null,
+        "version": "1.2",
+        "url": null,
+        "license": null,
+        "description": "Subscribe to RSS-Feeds!",
+        "details": "English:\nWith rssmii you can subscribe to RSS-Feeds right on your Wii! And you will receive Updates as messages at the Wii-Messageboard!\nThe Homebrew reads a \"feeds.xml\" from the root of your SD-Card and subscribes to all the Feeds listed there while all previous subscriptions will be removed.\nSo you can actually just update the feeds.xml if you want to change your subscriptions and rssmii will write the changes to the NAND of your Wii!\n\nDeutsch:\nMit rssmii kannst du RSS-Feeds auf deiner Wii abonnieren! Und \u00fcber Updates wirst du am Wii-Messageboard benachrichtigt!\nDas Homebrew liest eine \"feeds.xml\" von der SD-Karte und abonniert alle Feeds, die dort eingetragen sind w\u00e4hrend s\u00e4mtliche eventuelle vorherige Abonnements gel\u00f6scht werden.\nAlles was du also tun musst ist, die feeds.xml zu \u00e4ndern und rssmii wird die \u00c4nderungen in den NAND deiner Wii \u00fcbernehmen!"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/rssmii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

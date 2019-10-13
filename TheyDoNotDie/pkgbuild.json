@@ -1,0 +1,20 @@
+{
+    "package": "TheyDoNotDie",
+    "info": {
+        "title": "They Do Not Die",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "0.4",
+        "url": null,
+        "license": null,
+        "description": "Zombie shooter",
+        "details": "They Do Not Die is a zombie shooter.\n\nControls:\nNunchuck analog stick = Move\nA button = Run\nB button = Shoot\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nthatotherdev.wordpress.com\n\nSurrounded background music by RekcahDam\nwww.rekcahdam.com\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/TheyDoNotDie/icon.png",
+            "type": "icon"
+        }
+    ]
+}

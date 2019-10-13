@@ -1,0 +1,20 @@
+{
+    "package": "TelesketchFWii",
+    "info": {
+        "title": "TelesketchFWii",
+        "author": "the_marioga",
+        "category": null,
+        "version": "Ver. 2.0",
+        "url": null,
+        "license": null,
+        "description": "Telesketch para Wii",
+        "details": "\nEste homebrew te alcanza el divertido telesketch a wii.\nUsando simplemente el pad digital del mando, el nunchuck o el IR se pueden dibujar las lineas para hacer los dibujos que tu quieras.\n\nUso:\nEjecuta la aplicacion con Homebrew Channel y disfruta.\n\nAgradecimientos:\n- Team Twiizers y devkitPRO -> libogc\n- frontier -> libpng y pngu\n- demonhades -> por animarme a seguir este proyecto y todos los que he hecho despues\n\nVisita www.demonhades.org\nVisita www.r-3volution.com\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/TelesketchFWii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

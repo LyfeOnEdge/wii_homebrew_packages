@@ -1,0 +1,20 @@
+{
+    "package": "shooter",
+    "info": {
+        "title": "Shooter",
+        "author": "EroXXX",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "A little, funny game :D",
+        "details": "Tux needs your help to kill Windows. Just point your Wiimote on the Screen to control the crosshair and press B to shoot."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/shooter/icon.png",
+            "type": "icon"
+        }
+    ]
+}

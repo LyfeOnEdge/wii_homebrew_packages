@@ -1,0 +1,20 @@
+{
+    "package": "SnakeLS",
+    "info": {
+        "title": "Snake",
+        "author": "LS",
+        "category": null,
+        "version": "1",
+        "url": null,
+        "license": null,
+        "description": "You are a snake, you eat the mice.",
+        "details": "Use the wiimote to control the Snake and eat the dots. Don't eat yourself. Small black dots make you bigger. Green dots make you even bigger. Red dots make you even bigger, but they will move. Press the home button to pause."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/SnakeLS/icon.png",
+            "type": "icon"
+        }
+    ]
+}

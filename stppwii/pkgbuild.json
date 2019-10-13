@@ -1,0 +1,20 @@
+{
+    "package": "stppwii",
+    "info": {
+        "title": "stppwii",
+        "author": "ledow, madmanguruman",
+        "category": null,
+        "version": "0.3",
+        "url": null,
+        "license": null,
+        "description": "Simon Tatham's Portable Puzzle collection",
+        "details": "This is a port of STPPC2X, which is an SDL port of Simon Tatham's Portable Puzzle collection for the GP2X by Ledow."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/stppwii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

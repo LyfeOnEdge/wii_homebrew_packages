@@ -1,0 +1,20 @@
+{
+    "package": "tetwiis",
+    "info": {
+        "title": "Tetwiis",
+        "author": "Pembo",
+        "category": null,
+        "version": "1.1",
+        "url": null,
+        "license": null,
+        "description": "Wii Tetris",
+        "details": "\nTetWiis - A Nintendo WII Tetris Clone, shamelessly based on the Nintendo DS version of Tetris.\n\nEvery ten lines you clear increases the level, which increases the speed at which the blocks drop.\nYou'll score more points by clearing 2,3 or 4 lines at a time, or even going for the dangerous back2back clearance of 4 lines (clearing 8 in successive drops!)\n\nWiimote Controls\n-----------------------------\nUse the pointer and 'A' in the menu screens to change the options and start/exit the game.\nIn game, you'll need to use the wiimote in a horizontal position with the d-pad on the left.  \n\nThe controls are then as follows:\n\nleft  - move block left one square\nright - move block right one square\ndown  - move block down quickly\nup    - Immediately Drop the block into place\n1     - Rotate the block anticlockwise\n2     - Rotate the block clockwise\nA     - Hold a piece/swap with one already held\nHome  - Pause the game\n\nClassic Controller Controls\n-----------------------------\nPress START to start the game in the menu, SELECT for options, HOME to exit.\nIn the options screen, use a/b and x/y to alter the volumes and HOME to return to the menu\n\nIn game The controls are:\n\nleft  - move block left one square\nright - move block right one square\ndown  - move block down quickly\nup    - Immediately Drop the block into place\na     - Rotate the block clockwise\nb     - Rotate the block anticlockwise\nR     - Hold a piece/swap with one already held\nHome  - Pause the game\n\n-----------------------------\n\nFor development information about TetWiis, and to provide feedback or report issues, please see: \n\nhttp://www.pembo.co.uk\n\n-----------------------------\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/tetwiis/icon.png",
+            "type": "icon"
+        }
+    ]
+}

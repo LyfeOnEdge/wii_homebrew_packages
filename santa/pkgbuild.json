@@ -1,0 +1,20 @@
+{
+    "package": "santa",
+    "info": {
+        "title": "NOWELL",
+        "author": "Emvivre and Vash",
+        "category": null,
+        "version": "1.02",
+        "url": null,
+        "license": null,
+        "description": "\"Sandwiches can't ...\"",
+        "details": "- \"This night will be the last for the gramps.\nNo matter how I'll show to all of them how a true Santa must be !\n\nBlack Santa.\"\n\nYou have found this piece of paper in your sandwich two days before Christmas...\nAnd you don't really know why but you want to think about this disgusting paper with more serious than the greatest idiot of Earth.\nTake your Flying_Snow_Board and your Cannon to defeat the imposter and save Christmas ! -\n\nHave fun in Nowell, a Shoot them up ;)\n\n\"Sandwiches can't always save Christmas !\"\n\nControls:\nNunchuck Stick to steer your Snowboard.\nTap A Button to fire short bursts.\nHold down A Button to activate rapidfire mode. This\nwill cause you to move slower until you release A!\n\n\ncoded by Emvivre\ngraphics and some musics by Vash\nspecial thanks to Necro\n\nThanks to people on #wiidev channel for their help.\n\nGabor Bors and Balazs Rajcsanyi - Wasted Time (2nd song) : Intro\nLettrix - Bytec (1990) : Level\nSlaughty Pom Pom - Vash : Boss 1\nUltimate Black Santa part 1 - Vash : between Boss 1 and Boss 2\nUltimate Black Santa part 2 - Vash : Boss 2\nSteve Rowlands - Creatures ( 16th song ) : End credits\nTutorial - Vash : Tutorial\n\n\nUnofficial Christmas 2010 repackaged version 1.02 by Mr. Reaper"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/santa/icon.png",
+            "type": "icon"
+        }
+    ]
+}

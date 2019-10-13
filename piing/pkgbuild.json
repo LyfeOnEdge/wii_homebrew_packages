@@ -1,0 +1,20 @@
+{
+    "package": "piing",
+    "info": {
+        "title": "Piing",
+        "author": "BHSPitMonkey",
+        "category": null,
+        "version": "0.2",
+        "url": null,
+        "license": null,
+        "description": "Simple pong-like game.",
+        "details": "\nFirst player to 15 points wins!\n\nControls:\nHold remote upright to play.\nD-pad moves the player.\nRemote #2 can use + to toggle A.I. off and on.\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/piing/icon.png",
+            "type": "icon"
+        }
+    ]
+}

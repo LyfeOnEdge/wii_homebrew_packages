@@ -1,0 +1,20 @@
+{
+    "package": "horrorvacui",
+    "info": {
+        "title": "Horror Vacui",
+        "author": "Shaun Inman",
+        "category": null,
+        "version": "0.04",
+        "url": null,
+        "license": null,
+        "description": "An 8-bit board game",
+        "details": "Horror Vacui is a two player, card-based abstract strategy board game based on the antiquated notion that \"Nature abhors a vacuum.\""
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/horrorvacui/icon.png",
+            "type": "icon"
+        }
+    ]
+}

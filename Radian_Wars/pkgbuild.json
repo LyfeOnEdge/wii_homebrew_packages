@@ -1,0 +1,20 @@
+{
+    "package": "Radian_Wars",
+    "info": {
+        "title": "Radian Wars",
+        "author": "Couchy",
+        "category": null,
+        "version": "1",
+        "url": null,
+        "license": null,
+        "description": "A Two player Tanks game",
+        "details": "Radian Wars is a two player game similar to Tanks, but much faster paced, with free movement and aiming."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Radian_Wars/icon.png",
+            "type": "icon"
+        }
+    ]
+}

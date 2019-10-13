@@ -1,0 +1,20 @@
+{
+    "package": "Trinary",
+    "info": {
+        "title": "Trinary",
+        "author": "Nores",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "A Logic Gates' Games",
+        "details": " Based on Paradroid, now you have to pass 30 levels to save the world from a alien enemy"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Trinary/icon.png",
+            "type": "icon"
+        }
+    ]
+}

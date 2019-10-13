@@ -1,0 +1,20 @@
+{
+    "package": "Box2DBalls",
+    "info": {
+        "title": "Box2D Balls",
+        "author": "0xtob",
+        "category": null,
+        "version": "1.1",
+        "url": null,
+        "license": null,
+        "description": "Physics for the Wii!",
+        "details": "Box2D + Wiimote = Fun!\n\nPress A to create Balls\nHold B and tilt the Wiimote to adjust gravity\nPress 1 to clear the screen\n\nThanks to Erin Catto for Box2D!\nAlso thanks to the authors of libwiisprite, wiiuse and libogc!\nAnd of course thanks to team twiizers who made Wii homebrew possible!"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Box2DBalls/icon.png",
+            "type": "icon"
+        }
+    ]
+}

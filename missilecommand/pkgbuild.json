@@ -1,0 +1,20 @@
+{
+    "package": "missilecommand",
+    "info": {
+        "title": "Missile Command",
+        "author": "ulti",
+        "category": null,
+        "version": "0.5a",
+        "url": null,
+        "license": null,
+        "description": "Protect the homeland!",
+        "details": "Remake of the classic 80s arcade game with Wiimote controls."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/missilecommand/icon.png",
+            "type": "icon"
+        }
+    ]
+}

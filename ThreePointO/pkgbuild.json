@@ -1,0 +1,20 @@
+{
+    "package": "ThreePointO",
+    "info": {
+        "title": "Three Point O",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "1.4",
+        "url": null,
+        "license": null,
+        "description": "3D tech demo",
+        "details": "A simple 3D ray casting tech demo.\n\nControls:\nPointer = Aim\nA button = Stop turning\nB button = Move\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/ThreePointO/icon.png",
+            "type": "icon"
+        }
+    ]
+}

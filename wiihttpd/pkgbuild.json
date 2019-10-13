@@ -1,0 +1,20 @@
+{
+    "package": "wiihttpd",
+    "info": {
+        "title": "Wiihttpd",
+        "author": "teknecal",
+        "category": null,
+        "version": "0.0.2",
+        "url": null,
+        "license": null,
+        "description": "HTTP Server",
+        "details": "A simple multi-threaded HTTP Webserver for the Wii. Wiihttpd is built on the ftpii source code.\n\nCreate a /www directory on the root of your SD card and place any files you would \nlike to be served in there.\n\nCredits:\nJoe Jordan (joe.ftpii@psychlaw.com.au) - Used ftpii source to code from\nCboomf + Felix123 - used your Wii Webserver source for mime types list/struct/for loop"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiihttpd/icon.png",
+            "type": "icon"
+        }
+    ]
+}

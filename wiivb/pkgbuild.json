@@ -1,0 +1,20 @@
+{
+    "package": "wiivb",
+    "info": {
+        "title": "WiirtualBoy",
+        "author": "raz0red and Arikado",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "Virtual Boy Emulator",
+        "details": "WiirtualBoy is a port of the Mednafen Virtual Boy Emulator.\n\nWii port by raz0red and Arikado.\n   "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiivb/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "DeathStar",
+    "info": {
+        "title": "Death Star Run",
+        "author": "Ondrej Blazek",
+        "category": null,
+        "version": "Alpha 1",
+        "url": null,
+        "license": null,
+        "description": null,
+        "details": "Run the Death Star trench in your x-wing fighting laser gun turrets and tie fighters in order to reach the Death Star reactor,"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/DeathStar/icon.png",
+            "type": "icon"
+        }
+    ]
+}

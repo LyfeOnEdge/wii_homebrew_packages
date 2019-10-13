@@ -1,0 +1,20 @@
+{
+    "package": "PlanetHively",
+    "info": {
+        "title": "Planet Hively",
+        "author": "IRIS & Up Rough",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "HVL Musicdisk",
+        "details": "Planet Hively is a musicdisk containing all the songs entered into the first hivelytracker.com competition. It has been ported to over 40 platforms. The Wii version is special. All the other versions of Planet Hively are plain SDL recompiles, and software rendered. The Wii version is written specifically for the Wii, and uses GX for accelerated graphics and alpha blending. Enjoy!"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/PlanetHively/icon.png",
+            "type": "icon"
+        }
+    ]
+}

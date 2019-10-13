@@ -1,0 +1,20 @@
+{
+    "package": "Wii_Bash",
+    "info": {
+        "title": "Wii Bash!",
+        "author": "Mellon!/Gc Linux Team",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Nice Full Screen Bash Shell!",
+        "details": "Just What It Says! :-) Note: Please Read Powertips And Software Info Text Files Before Useing!!"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Wii_Bash/icon.png",
+            "type": "icon"
+        }
+    ]
+}

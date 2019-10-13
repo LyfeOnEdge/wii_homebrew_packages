@@ -1,0 +1,20 @@
+{
+    "package": "wufe",
+    "info": {
+        "title": "WUFE",
+        "author": "Nuke",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "WUFE",
+        "details": "Wii Update File Extractor.\n  \nExtracts all the update files from any Wii DVD Game to SD Card. See Readme. \n\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wufe/icon.png",
+            "type": "icon"
+        }
+    ]
+}

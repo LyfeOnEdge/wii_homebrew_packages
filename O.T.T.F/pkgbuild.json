@@ -1,0 +1,20 @@
+{
+    "package": "O.T.T.F",
+    "info": {
+        "title": "O.T.T.F.",
+        "author": "xerpi",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Think Game",
+        "details": "\n\t\n\tEl objetivo del juego es sencillo, pero no f\u00e1cil. Al principio del juego se nos muestran dos tableros,\n\tuno grande y otro mas peque\u00f1o, el objetivo del juego es convertir el tablero grande como el peque\u00f1o haciendo clic en cada casilla,\n\tcada vez que hagamos clic en un casilla sumara 1 a la casilla seleccionada y si alrededor hay otra casilla con alg\u00fan numero,\n\ttambi\u00e9n le sumara uno a esa casilla, y si ese numero llega a cuatro y vuelves a hacer clic volver\u00e1 a su valor de uno, dif\u00edcil \u00bfverdad?\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/O.T.T.F/icon.png",
+            "type": "icon"
+        }
+    ]
+}

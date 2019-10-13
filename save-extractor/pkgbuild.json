@@ -1,0 +1,20 @@
+{
+    "package": "save-extractor",
+    "info": {
+        "title": "Savegame Extractor",
+        "author": "Waninkoko",
+        "category": null,
+        "version": "2",
+        "url": null,
+        "license": null,
+        "description": "Dumps saves from your Wiis NAND to an SD card",
+        "details": "Run this application.\n\nInsert the game DVD and press RESET or A button (Wiimote not supported)."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/save-extractor/icon.png",
+            "type": "icon"
+        }
+    ]
+}

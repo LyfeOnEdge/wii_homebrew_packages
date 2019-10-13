@@ -1,0 +1,20 @@
+{
+    "package": "mp3g",
+    "info": {
+        "title": "MP3+G Player",
+        "author": "kriogeN",
+        "category": null,
+        "version": "0.95",
+        "url": null,
+        "license": null,
+        "description": "Reproductor de MP3+G",
+        "details": "Reproductor de MP3+G"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/mp3g/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "NewoShooter",
+    "info": {
+        "title": "Newo Shooter",
+        "author": "Owen",
+        "category": null,
+        "version": "2.2",
+        "url": null,
+        "license": null,
+        "description": "On rails 3d Shoot-'em-up",
+        "details": "Controllers: Wiimote, Pointer, Classic, or Gamecube\nDevTeam: Julian Mathonet, Des Walker. Music By: @benanderson89 Title by: www.Kenney.nl\nVisit: http://wiibrew.org\n\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/NewoShooter/icon.png",
+            "type": "icon"
+        }
+    ]
+}

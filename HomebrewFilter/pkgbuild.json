@@ -1,0 +1,20 @@
+{
+    "package": "HomebrewFilter",
+    "info": {
+        "title": " Homebrew Filter",
+        "author": "hamachi-mp",
+        "category": null,
+        "version": "r31 Beta",
+        "url": null,
+        "license": null,
+        "description": "Homebrew Filter / Sorter",
+        "details": "Dieses HB-App dient zur Sortierung und Kategorisierung Ihrer Homebrews"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/HomebrewFilter/icon.png",
+            "type": "icon"
+        }
+    ]
+}

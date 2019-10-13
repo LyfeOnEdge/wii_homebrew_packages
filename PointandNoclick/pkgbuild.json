@@ -1,0 +1,20 @@
+{
+    "package": "PointandNoclick",
+    "info": {
+        "title": "Point and No click",
+        "author": "BeReDeZeBe",
+        "category": null,
+        "version": "0.41 Final",
+        "url": null,
+        "license": null,
+        "description": "Point'n'point game.",
+        "details": "The final version of a Wii arcade/maze game.\n\nYou are the greeen square. The red square follows you. You have to guide the red square to the orange square. The red square mustn't to touch the walls.\nThere are 11 levels.\n\nControls :\nA : Begin the game\nIR : Move the green square\nHome : Return to Homebrew Channel\n\nCredits :\n- BeReDeZeBe (Programming)\n- The Mod Archive (Music)\n\nSee also :\n- \"Marcos Lopez: Part II\"\n- \"YHAA!\"\n\n\nChangelog :\n\nv0.1 - March 01, 2010 :\n- Initial version\n\nv0.2 - March 19, 2010 :\n- 4 new levels\n- New interface\n- Music\n\nv0.3 - April 16, 2010 :\n- 3 new levels\n\nv0.4 - June 09, 2010 :\n- New graphics\n- New interface\n\nv0.41 Final - September 05, 2013 :\n- New HBC icon\n- Different meta.xml\n- Optimizations\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/PointandNoclick/icon.png",
+            "type": "icon"
+        }
+    ]
+}

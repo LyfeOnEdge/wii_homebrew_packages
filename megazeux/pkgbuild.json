@@ -1,0 +1,20 @@
+{
+    "package": "megazeux",
+    "info": {
+        "title": "MegaZeux",
+        "author": "Alistair John Strachan <alistair@devzero.co.uk>",
+        "category": null,
+        "version": "2.82b",
+        "url": null,
+        "license": null,
+        "description": "A simple game creation system (GCS)",
+        "details": "MegaZeux is a Game Creation System (GCS), inspired by\n\tEpic MegaGames' ZZT, first released by Gregory Janson in 1994. It was\n\trecently ported from 16bit MSDOS C/ASM to portable C/C++, improving its\n\tplatform support and hardware compatibility.\n\tMany features have been added since the original DOS version, and with\n\tthe help of an intuitive editor and a simple but powerful\n\tobject-oriented programming language, MegaZeux allows you to create your\n\town ANSI-esque games regardless of genre. It is actively maintained by a\n\tthriving community.\n\tSee http://digitalmzx.net/ for more information."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/megazeux/icon.png",
+            "type": "icon"
+        }
+    ]
+}

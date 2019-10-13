@@ -1,0 +1,20 @@
+{
+    "package": "WiiSX",
+    "info": {
+        "title": "WiiSX",
+        "author": "Wii64 Team",
+        "category": null,
+        "version": "Beta 2.1",
+        "url": null,
+        "license": null,
+        "description": "PSX Emulator for Wii",
+        "details": "\n\nWii64 Team is:\nGeneral Coder - emu_kidid\nGraphics & Menu Coder - sepp256  \nAudio & Core Coder - tehpola  \n\nThe Wii64Team proudly presents WiiSX Beta 2.1\nWiiSX is a port of PCSX to the Wii\n\nSpecial Thanks to:\ndrmr - Graphics\nshagkur/WinterMute - libogc/devkitPPC\nTeam Twiizers for Wii homebrew\n\nWiiSX and the WiiSX logo are trademarks of the Wii64 Team and should not be used in unofficial builds.\n   "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/WiiSX/icon.png",
+            "type": "icon"
+        }
+    ]
+}

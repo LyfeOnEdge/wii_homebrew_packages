@@ -1,0 +1,20 @@
+{
+    "package": "StillAliveWii",
+    "info": {
+        "title": "StillAliveWii 1.1",
+        "author": "t4ils",
+        "category": null,
+        "version": "1.1",
+        "url": null,
+        "license": null,
+        "description": "2D Portal on your wii",
+        "details": "\n\tChangelog below ...\n\t\n\tStillAliveWii is a 2D remake of Valve's Portal game created using GRRLIB. It was first made for Nintendo DS under the name StillAliveDS.\n\t\n\tYou can visit the forum at :\n\thttp://stillaliveds.free.fr/forum/\n\t\n\t1.1 ChangeLog : \n\tAdded :\n\t- 2 player coop mode. Each player can shoot one portal and the 2nd player can join the game at any moment by pressing the home button\n\t- You can download new maps directly onto the Wii (Thx Morukutsu)\n\t- You can upload your created maps so that other people can play them.\n\t- When watching a replay, pressing the (1) button allows you to take control of it\n\t- Particles effect when exiting a portal\n\n\tCorrected :\n\t- Smoother infra red cursor. No more problems in the top left corner of the screen\n\t- 60Hz users : The screen is no longer cut, you can see all of the game (Thx Morukutsu)\n\t- Turrets : they stop aiming at you when they're dead (red line)\n\t\n\t1.0 : \n\tInitial release\n\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/StillAliveWii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "BoltThrower",
+    "info": {
+        "title": "Bolt Thrower",
+        "author": "Paul Overy",
+        "category": null,
+        "version": "v0.71",
+        "url": null,
+        "license": null,
+        "description": "Bolt Thrower Game",
+        "details": "Bolt Thrower space shoot em up\n(Dpad-Up) Recall Probe Mines (again to turn off)\n(A) Fire missle\n(B) Thrust forward\n(Dpad-Down) Drop Probe Mine\n(+) Pause Game\n(home) Back to Homebrew Channel"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/BoltThrower/icon.png",
+            "type": "icon"
+        }
+    ]
+}

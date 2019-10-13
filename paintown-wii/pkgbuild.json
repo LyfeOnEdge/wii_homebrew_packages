@@ -1,0 +1,20 @@
+{
+    "package": "paintown-wii",
+    "info": {
+        "title": "PainTown",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "0.2",
+        "url": null,
+        "license": null,
+        "description": "fighting game",
+        "details": "Sketch Fight is a two player fighting game with hand drawn graphics.\n\nControls:\nDirectional pad = Move / jump / crouch\n1 button = Punch\n2 button = Kick\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/paintown-wii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

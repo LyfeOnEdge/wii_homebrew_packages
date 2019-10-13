@@ -1,0 +1,20 @@
+{
+    "package": "CosmoRaketti",
+    "info": {
+        "title": "CosmoRaketti",
+        "author": "Tassu",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "A 3D space shooter",
+        "details": "Guide your spaceship inside futuristic 3D tunnels and shoot everything that comes in your way.\n\nCONTROLS:\n\nHold the Wiimote like a toy airplane. Turn the wiimote left, right, up or down to move.\nHold A or B to shoot.\nHome button exits the game.\n\nCREDITS:\n\nMusic by HtheB (http://www.HtheB.com)\n\nSome modelling by Tommi Parvinen\n\nEverything else was done by Tapio Pyrhonen\n(http://tapsa.bitmagick.com/nds)\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/CosmoRaketti/icon.png",
+            "type": "icon"
+        }
+    ]
+}

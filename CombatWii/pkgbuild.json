@@ -1,0 +1,20 @@
+{
+    "package": "CombatWii",
+    "info": {
+        "title": "CombatWii",
+        "author": "spiffen",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "Multiplayer tank shooter.",
+        "details": "CombatWii is a remake of the classic game Combat that was available on the Atari 2600 system. The game is developed with devkitPro tools and is using GRRLib for rendering, sndlib for music and sound, and wiiuse for wiimote support."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/CombatWii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

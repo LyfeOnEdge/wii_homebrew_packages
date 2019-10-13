@@ -1,0 +1,20 @@
+{
+    "package": "sdl_sopwith",
+    "info": {
+        "title": "SDL Sopwith",
+        "author": "insin",
+        "category": null,
+        "version": "1.7.1-preview2",
+        "url": null,
+        "license": null,
+        "description": "Classic Shooter",
+        "details": "A port of the classic computer game \"Sopwith\" to run on modern computers, operating systems and indeed game consoles."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/sdl_sopwith/icon.png",
+            "type": "icon"
+        }
+    ]
+}

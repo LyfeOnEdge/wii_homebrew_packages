@@ -1,0 +1,20 @@
+{
+    "package": "nwancat",
+    "info": {
+        "title": "nwancat",
+        "author": "rom#1",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "!!M - nwancat tinytro",
+        "details": "\n\tA tous les soi-disant sceners qui s'amusent \u00e0 thumb down\n\tjuste \"pour le fun\" ou pour faire chier alors qu'ils ne sortent jamais rien :\n\n\t** Codez au lieu de brasser du vent, bande de cons! **\n\n\tSpeciale dedicace \u00e0 ma defunte chatte MAYA: Miaou, Tu me manque old bitch!! MiaOOUUU !! :(\n   "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/nwancat/icon.png",
+            "type": "icon"
+        }
+    ]
+}

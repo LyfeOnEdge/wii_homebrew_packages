@@ -1,0 +1,20 @@
+{
+    "package": "sssw",
+    "info": {
+        "title": "Super Star Shooter Wii",
+        "author": "Ichiroh Satoh",
+        "category": null,
+        "version": "1.1.0 Wii edition",
+        "url": null,
+        "license": null,
+        "description": "Caravan shmups.",
+        "details": "\nI need your playing report!\nmail to and@big.or.jp\nhttp://www10.big.or.jp/~and/\n(C)The DOTMAP BROTHERS,MAGiC TOUCH.\nLet's Enjoy!\n\nversion 1.1.0\n  GCPad,ClassicPad,Nunchuk support.\n  sdhc card save ready.\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/sssw/icon.png",
+            "type": "icon"
+        }
+    ]
+}

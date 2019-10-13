@@ -1,0 +1,20 @@
+{
+    "package": "onscripter",
+    "info": {
+        "title": "ONScripter WII",
+        "author": "Brian",
+        "category": null,
+        "version": "v07.2009a",
+        "url": null,
+        "license": null,
+        "description": "Visual Novel Engine",
+        "details": "\nONscripter is an open source clone of the japanese visual novel engine NScripter\n\nOrginal Code: Ogapee\nOnscripter-En: Haeleth\n\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/onscripter/icon.png",
+            "type": "icon"
+        }
+    ]
+}

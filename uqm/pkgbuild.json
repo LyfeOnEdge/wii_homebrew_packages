@@ -1,0 +1,20 @@
+{
+    "package": "uqm",
+    "info": {
+        "title": "The Ur-Quan Masters",
+        "author": "Unknown",
+        "category": null,
+        "version": "r3185+wii",
+        "url": null,
+        "license": null,
+        "description": "Save the Galaxy!",
+        "details": "The Ur-Quan Masters is an SDL port of the original Star Control 2!"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/uqm/icon.png",
+            "type": "icon"
+        }
+    ]
+}

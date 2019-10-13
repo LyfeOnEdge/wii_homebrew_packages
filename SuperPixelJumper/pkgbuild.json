@@ -1,0 +1,20 @@
+{
+    "package": "SuperPixelJumper",
+    "info": {
+        "title": "Super Pixel Jumper",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "1.3",
+        "url": null,
+        "license": null,
+        "description": "Platformer",
+        "details": "Super Pixel Jumper is a score based platformer with constant forward motion. As long as you avoid contact with the brighter coloured blocks your score will continue to increase as will the speed of the game. Your high score is automatically saved.\n\nThis game has an online leaderboard.\n\nControls:\nD Pad = Move\n2 Button = Jump\n+ Button = Restart the music\n- Button = Restart the music\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\nBackground music (fight for your life loop) by Xythe.\nSound effects (alienyell, lasergun and ufo landing) by mlestn1.\nAll audio was provided by freesound.org\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/SuperPixelJumper/icon.png",
+            "type": "icon"
+        }
+    ]
+}

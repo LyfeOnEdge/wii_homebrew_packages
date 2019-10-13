@@ -1,0 +1,20 @@
+{
+    "package": "RockPaperScissors_v02",
+    "info": {
+        "title": "Rock Paper Scissors",
+        "author": "Forgotten Linkz",
+        "category": null,
+        "version": "0.3",
+        "url": null,
+        "license": null,
+        "description": "Play Rock Paper Scissors!",
+        "details": "For controls press the 1 button anytime in game, home button will quit the game"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/RockPaperScissors_v02/icon.png",
+            "type": "icon"
+        }
+    ]
+}

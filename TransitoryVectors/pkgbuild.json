@@ -1,0 +1,20 @@
+{
+    "package": "TransitoryVectors",
+    "info": {
+        "title": "TransitoryVectors",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "1.1",
+        "url": null,
+        "license": null,
+        "description": "platformer",
+        "details": "Transitory Vectors is a short platformer.\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\nmusic (Ethereal Winds) by particlerain\n8bc.org/music/particlerain/Ethereal+Winds/\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/TransitoryVectors/icon.png",
+            "type": "icon"
+        }
+    ]
+}

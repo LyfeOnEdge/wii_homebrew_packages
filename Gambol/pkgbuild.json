@@ -1,0 +1,20 @@
+{
+    "package": "Gambol",
+    "info": {
+        "title": "Gambol",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "0.2",
+        "url": null,
+        "license": null,
+        "description": "Platformer",
+        "details": "Gambol is a side view 3D platformer.\n\nControls:\nD Pad = Move\n2 Button = Jump\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Gambol/icon.png",
+            "type": "icon"
+        }
+    ]
+}

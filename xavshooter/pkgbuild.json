@@ -1,0 +1,20 @@
+{
+    "package": "xavshooter",
+    "info": {
+        "title": "Xav Shooter",
+        "author": "ketufe",
+        "category": null,
+        "version": "0.4 beta",
+        "url": null,
+        "license": null,
+        "description": "A shooter in 2D in which you play as a penguin",
+        "details": "A shooter in 2D in which you play as a penguin http://xav91wii.free.fr"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/xavshooter/icon.png",
+            "type": "icon"
+        }
+    ]
+}

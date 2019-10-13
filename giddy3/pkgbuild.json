@@ -1,0 +1,20 @@
+{
+    "package": "giddy3",
+    "info": {
+        "title": "Giddy 3",
+        "author": "Peter Gordon",
+        "category": null,
+        "version": "1.4",
+        "url": null,
+        "license": null,
+        "description": "Platform/puzzle game",
+        "details": "Simply a great homebrew puzzle game for the Wii! If you enjoy it, you are encouraged to send a PayPal donation to donations@giddy3.co.uk - Design/Graphics/Sounds by Phil Ruston, Programming by Peter Gordon."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/giddy3/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "updatifier",
+    "info": {
+        "title": "Brawl+ Updatifier",
+        "author": "giantpune",
+        "category": null,
+        "version": "1.2 r12",
+        "url": null,
+        "license": null,
+        "description": "Update/Install/Play Brawl+",
+        "details": "The Brawl+ Updater/Installer for Homebrew allows you to check if you're up to date on the latest Brawl+ NTSC set, and if you aren't, it will attempt to download and write it to your SD card. If you have all of the latest stuff, this application will skip the download process. \"Update\" starts the process, \"Play\" loads Gecko OS. Home/Start = Exit. Visit the official page at http://www.smashmods.com/\n\nAn SD card with enough free space (256MB SD card recommended) and WiFi (LAN Adapter will probably cause a crash) are required.\n\nOfficial Updatifier site: http://code.google.com/p/brawlplusupdatifier/"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/updatifier/icon.png",
+            "type": "icon"
+        }
+    ]
+}

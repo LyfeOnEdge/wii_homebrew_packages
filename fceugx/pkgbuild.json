@@ -1,0 +1,20 @@
+{
+    "package": "fceugx",
+    "info": {
+        "title": "FCE Ultra GX",
+        "author": "Tantric",
+        "category": null,
+        "version": "3.3.4",
+        "url": null,
+        "license": null,
+        "description": "Nintendo Emulator",
+        "details": "A port of FCE Ultra to the Wii."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/fceugx/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "sudoku",
+    "info": {
+        "title": "Sudoku",
+        "author": "DLKJ",
+        "category": null,
+        "version": "0.1b",
+        "url": null,
+        "license": null,
+        "description": "Sudoku for Wii",
+        "details": "\n\t  - supports wiimote\n\t  - auto checking for validity\n\t  - single save game feature\n\t  - possible to mark 'uncertain' cells\n\t  \n\t  -----------\n\t  How to play\n\t  -----------\n\t  \n\t  hold the wiimote sideways\n\t  [+ : 00]\n\t  digital pad : move cursor\n\t  1: decrement\n\t  2: increment\n\t  A: mark uncertain\n\t  +: screenshot (if enabled)\n\t  -: save game to SD card\n\t  home : menu\n\t  \n\t  red tint on incorrect tiles.\n\t  gray tint on uncertain tiles.\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/sudoku/icon.png",
+            "type": "icon"
+        }
+    ]
+}

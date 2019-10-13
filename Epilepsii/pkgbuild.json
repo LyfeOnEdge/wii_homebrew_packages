@@ -1,0 +1,20 @@
+{
+    "package": "Epilepsii",
+    "info": {
+        "title": "Epilepsii",
+        "author": "Albatross",
+        "category": null,
+        "version": "r1",
+        "url": null,
+        "license": null,
+        "description": "Strobe for Wii",
+        "details": "\nEpilepsii:\nA reasonably good* strobe for the Wii - Support for colors!\nIn future versions (if they exist!) a GUI for color choosing is planned.\nDIRECTIONS:\nUse the D-Pad, A, and B buttons to select color.\nUse + and - to choose strobe frequency. Max. is 60 Hz.\nSet at Maximum frequency by default.\nPress Home at any time to exit.\n\nDespite the name, do not under _any_ circumstances use this homebrew\napplication if you are epileptic or have seizures when exposed to\npatterns of flashing lights.\n\nFor best results, use in a dark room, set to white, lower frequency slightly,\nand dance like an octopus.\n\nYou have been warned.\n\nAuthor not responsible for what you do with Epilepsii.\n\n*by reasonably good, I mean mediocre.\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Epilepsii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "simon",
+    "info": {
+        "title": "Simon",
+        "author": "teknecal",
+        "category": null,
+        "version": "0.3",
+        "url": null,
+        "license": null,
+        "description": "Simon",
+        "details": "Everyones favourite memory game makes it to the Nintendo Wii.\n\t\t\nUse the Wiimote as below and rotate 45 degrees clockwise (you'll get the hang of it).\n[ + - - oo]\n\nUp Button = Red\nRight Button = Green\nLeft Button = Blue\nDown Button = Yellow\n\nIn the main screen, use up and down to increase / decrease the animation speed."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/simon/icon.png",
+            "type": "icon"
+        }
+    ]
+}

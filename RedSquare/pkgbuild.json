@@ -1,0 +1,20 @@
+{
+    "package": "RedSquare",
+    "info": {
+        "title": "RedSquare",
+        "author": "wplaat",
+        "category": null,
+        "version": "1.00",
+        "url": null,
+        "license": null,
+        "description": "RedSquare for Wii",
+        "details": "RedSquare is an classic 2D action game.  Click and hold the red square. Now, move so that you neither touch the walls nor get hit by any of the blue blocks. If you make it to 31 seconds, you are doing brilliantly!\n\nSpecial thanks to my family for there support during the development"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/RedSquare/icon.png",
+            "type": "icon"
+        }
+    ]
+}

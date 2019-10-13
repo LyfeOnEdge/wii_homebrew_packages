@@ -1,0 +1,20 @@
+{
+    "package": "dungeons",
+    "info": {
+        "title": "Dungeons",
+        "author": "Iron Hand",
+        "category": null,
+        "version": "v0.85",
+        "url": null,
+        "license": null,
+        "description": "Dungeons for Wii",
+        "details": "Dungeons is an Mini RPG with some WiiMote support.\n The aim is to find all red Orbs and battle the last boss.\n Read the wiki for help.\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/dungeons/icon.png",
+            "type": "icon"
+        }
+    ]
+}

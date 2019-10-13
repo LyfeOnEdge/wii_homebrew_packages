@@ -1,0 +1,20 @@
+{
+    "package": "Wire3DGame",
+    "info": {
+        "title": "Wire3D: Game",
+        "author": "antibyte",
+        "category": null,
+        "version": "1.2",
+        "url": null,
+        "license": null,
+        "description": "Game Demo",
+        "details": "This is a game demo (rather than an actual game), showcasing content exported from Unity3D to Wire3D. For further details visit:\n  \n  wire3d.googlecode.com"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Wire3DGame/icon.png",
+            "type": "icon"
+        }
+    ]
+}

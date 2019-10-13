@@ -1,0 +1,20 @@
+{
+    "package": "wii2600",
+    "info": {
+        "title": "Wii2600",
+        "author": "raz0red",
+        "category": null,
+        "version": "0.2",
+        "url": null,
+        "license": null,
+        "description": "Atari 2600 Emulator",
+        "details": "Wii port of Stella 2.7.2.\n\nStella is a multi-platform Atari 2600 VCS emulator released under the GNU General Public License (GPL). Stella was originally developed for Linux by Bradford W. Mott, however, since its original release several people have joined the development team to port Stella to other operating systems such as AcornOS, AmigaOS, DOS, FreeBSD, IRIX, Linux, OS/2, MacOS, Unix, and Windows. [http://stella.sourceforge.net]\n\nWii port by raz0red [http://www.twitchasylum.com]."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wii2600/icon.png",
+            "type": "icon"
+        }
+    ]
+}

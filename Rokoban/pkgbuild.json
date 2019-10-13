@@ -1,0 +1,20 @@
+{
+    "package": "Rokoban",
+    "info": {
+        "title": "Rokoban",
+        "author": "Zalo",
+        "category": null,
+        "version": "0.9",
+        "url": null,
+        "license": null,
+        "description": "Sokoban for the Wii",
+        "details": "This is a port of the classic game Sokoban in 3D. This new version allows you to save the levels you have already finished, it has a new set of graphics and also sound. Enjoy!"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Rokoban/icon.png",
+            "type": "icon"
+        }
+    ]
+}

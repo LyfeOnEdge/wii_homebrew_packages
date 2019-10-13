@@ -1,0 +1,20 @@
+{
+    "package": "wiiconnect",
+    "info": {
+        "title": "WiiConnect",
+        "author": "JSMaster",
+        "category": null,
+        "version": "Demo Release 4",
+        "url": null,
+        "license": null,
+        "description": "Connect to other Wiis.",
+        "details": "\nWiiConnect is a tool to connect Wii users to eachother, without the hassle of Nintendo's \"safe\" crap. It will eventually be able to do many things (hopefully). This release is just a demo. It may not work for everyone. Please post evaluations at www.wiibrew.org/wiki/User_talk:Jsmaster/wiiconnect\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiiconnect/icon.png",
+            "type": "icon"
+        }
+    ]
+}

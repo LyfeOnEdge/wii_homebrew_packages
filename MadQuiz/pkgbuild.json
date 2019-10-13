@@ -1,0 +1,20 @@
+{
+    "package": "MadQuiz",
+    "info": {
+        "title": "Mad Quiz",
+        "author": "Nores",
+        "category": null,
+        "version": "0.03",
+        "url": null,
+        "license": null,
+        "description": "Quiz game",
+        "details": "You can play alone or with a friend, and chose between diferent game modes: Normal, Survival, TimeAttack and Practice.\nThis game show a question from the 5000 included and show the possible answers."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/MadQuiz/icon.png",
+            "type": "icon"
+        }
+    ]
+}

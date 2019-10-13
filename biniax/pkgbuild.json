@@ -1,0 +1,20 @@
+{
+    "package": "biniax",
+    "info": {
+        "title": "Biniax-2",
+        "author": "Wiimpathy",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "puzzle game",
+        "details": "A port of Biniax-2 to the Wii."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/biniax/icon.png",
+            "type": "icon"
+        }
+    ]
+}

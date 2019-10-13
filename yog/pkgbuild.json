@@ -1,0 +1,20 @@
+{
+    "package": "yog",
+    "info": {
+        "title": "YOG",
+        "author": "PaceMaker",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "YOG - Golf the way a three year old might imagine it.",
+        "details": "\nName:\n\tYOG - Golf the way a three year old might imagine it.\nVersion:\n\t0.1\nObjective:\n\tKnock the ball in the hole with Pushers (A) and Bursts (-).\n\tIf all else fails use the Magnet (B).\n\tScore is incremented at the end of the level for each Pusher and Burst left.\n\tScore is decremented when the Magnet is used.\n\tThere is a Score bonus for quickly knocking the ball in into the target.\nControls:\n\tA - Launch a Pusher.\n\t- - Drop a Burst.\n\tB - Use the magnet (costs points).\n\tHome Button - Main Menu\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/yog/icon.png",
+            "type": "icon"
+        }
+    ]
+}

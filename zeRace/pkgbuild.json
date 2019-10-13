@@ -1,0 +1,20 @@
+{
+    "package": "zeRace",
+    "info": {
+        "title": "zeRace",
+        "author": "Royale",
+        "category": null,
+        "version": "0.7",
+        "url": null,
+        "license": null,
+        "description": "Funny retro racing game",
+        "details": "The purpose of this little car game is very simple: do the best time on each track."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/zeRace/icon.png",
+            "type": "icon"
+        }
+    ]
+}

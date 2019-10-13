@@ -1,0 +1,20 @@
+{
+    "package": "sdexplorer",
+    "info": {
+        "title": "SDExplorer",
+        "author": "miom",
+        "category": null,
+        "version": "1.0b",
+        "url": null,
+        "license": null,
+        "description": "SD Explorer",
+        "details": "You can do some file operations on your sdcard:\n  -create directories\n  -delete directories recursively\n  -create empty files\n  -delete files\n  -move and rename dirs and files\n  -copy files\n  \n  Use this software at your own risk!\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/sdexplorer/icon.png",
+            "type": "icon"
+        }
+    ]
+}

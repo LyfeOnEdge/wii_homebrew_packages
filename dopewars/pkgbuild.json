@@ -1,0 +1,20 @@
+{
+    "package": "dopewars",
+    "info": {
+        "title": "DopeWars Wii",
+        "author": "Eikon",
+        "category": null,
+        "version": "1.1",
+        "url": null,
+        "license": null,
+        "description": "ported by Eiksoft",
+        "details": "www.Eiksoft.com\n\n\t- Instructions -\n\tWiimote - Menu Navigation\n\tA Button - Select Menu\n\tD-Pad Left - Least Value\n\tD-Pad Right - Max Value\n\tD-Pad Up - Increase Value\n\tD-Pad Down - Decrease Value\n\tHome - Return to Loader\n\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/dopewars/icon.png",
+            "type": "icon"
+        }
+    ]
+}

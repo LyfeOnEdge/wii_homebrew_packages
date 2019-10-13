@@ -1,0 +1,20 @@
+{
+    "package": "TheUntitledProject",
+    "info": {
+        "title": "TheUntitledProject",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "0.3",
+        "url": null,
+        "license": null,
+        "description": "Superhero game",
+        "details": "The Untitled Project is an open world first person cyberpunk action RPG set in a procedurally generated city. It is still in the very early stages of development.\n\nControls:\nAnalog stick = Move\nIR pointer = turn\nA button = jump\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/TheUntitledProject/icon.png",
+            "type": "icon"
+        }
+    ]
+}

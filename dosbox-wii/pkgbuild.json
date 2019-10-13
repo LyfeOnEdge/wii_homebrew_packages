@@ -1,0 +1,20 @@
+{
+    "package": "dosbox-wii",
+    "info": {
+        "title": "DOSBox Wii",
+        "author": "Tantric",
+        "category": null,
+        "version": "1.7",
+        "url": null,
+        "license": null,
+        "description": "DOS Emulator",
+        "details": "Port of DOSBox to the Wii"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/dosbox-wii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

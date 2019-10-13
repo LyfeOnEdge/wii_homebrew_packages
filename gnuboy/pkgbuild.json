@@ -1,0 +1,20 @@
+{
+    "package": "gnuboy",
+    "info": {
+        "title": "Gnuboy GX",
+        "author": "Eke-Eke",
+        "category": null,
+        "version": "081214",
+        "url": null,
+        "license": null,
+        "description": "Gameboy Color Emulator",
+        "details": "This is a port of Gnuboy, a Gameboy and Gameboy Color emulator, originally coded by Laguna and Gilgamesh. Please read gnuboy-gx.txt first and check http://www.tehskeen.com/forums/ for any questions and updates.\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/gnuboy/icon.png",
+            "type": "icon"
+        }
+    ]
+}

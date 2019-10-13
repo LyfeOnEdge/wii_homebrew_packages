@@ -1,0 +1,20 @@
+{
+    "package": "homebrew_sorter",
+    "info": {
+        "title": " Homebrew Sorter",
+        "author": "teknecal",
+        "category": null,
+        "version": "0.3",
+        "url": null,
+        "license": null,
+        "description": "Sort homebrew apps",
+        "details": "Homebrew Sorter allows you to sort your homebrew applications into categories all through your Wii. It's like categorii but easier to manage and is simple to use.\n\nHow to use:\nAfter booting, go to settings and assign homebrew applications to the different categories by pressing the Plus button on the Wiimote and remove them by pressing the Minus button.\nYou can change categories by selecting them on the left menu. You can have the same applications in different categories.\nOnce you have finished, you can go back to the main menu and from there select a category to show in the HBC.\n\nYou can choose whether to load from SD or USB, you need to restart homebrew sorter if you change between them.\n\nAuthor:\nteknecal (teknecal@gmail.com) - www.codemii.com\n\nHistory:\n26 December 2009 (v0.2)\n- Fixed loading issue that occured with some folders\n- Compiled with DevKitPPC r19, libogc 1.8.1 and libfat 1.0.6\n\n13 December 2009 (v0.1)\n- Initial release"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/homebrew_sorter/icon.png",
+            "type": "icon"
+        }
+    ]
+}

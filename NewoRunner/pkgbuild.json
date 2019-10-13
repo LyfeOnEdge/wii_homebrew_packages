@@ -1,0 +1,20 @@
+{
+    "package": "NewoRunner",
+    "info": {
+        "title": "Newo Runner",
+        "author": "Owen",
+        "category": null,
+        "version": "1.2",
+        "url": null,
+        "license": null,
+        "description": "An Endless runner game",
+        "details": "Title Art: Jammy. Music By: Eric"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/NewoRunner/icon.png",
+            "type": "icon"
+        }
+    ]
+}

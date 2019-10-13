@@ -1,0 +1,20 @@
+{
+    "package": "duck_hunt",
+    "info": {
+        "title": "DuckHunt",
+        "author": "Knight0fDragon",
+        "category": null,
+        "version": "1.81",
+        "url": null,
+        "license": null,
+        "description": "Duck Hunt for the Nintendo Wii",
+        "details": "Change Log:\n  \n  v1.81\n  Features added\n     - Intro sound\n     - Fixed 4 shots per round\n     - Fixed Various little  bugs  \n  Known Issues\n     - Dog walks a little funny\n     - Not enough sound\n     - No actual levels, just counting\n  \n  Planned Features\n     - K0D special\n     - source code\n     \n  v1.8\n  Features added\n     - Round counting\n     - Ducks start at a random location underneath grass with fixed size \n     - Only 3 bullets per round\n     - Perfect screen is working\n  \n  Known Issues\n     - Dog walks a little funny\n     - No sound\n     - No actual levels, just counting\n  \n  Planned Features\n     - K0D special\n     - source code\n \n v1.7\n  Features added\n    - Working Title Screen\n    - Ability to choose one duck or two\n    - Wiimote and GC pad Support\n    - Different kinds of ducks\n    - Dog intro\n    - Dog laughing/catching of the duck\n    - Simulation of the light gun from back in the NES days\n    - many other features from duckhunt.\n  \n  Known Issues\n    - Ducks start at a random location with random size \n    - Dog walks a little funny\n    - No sound\n    - No round counting\n  \n  Planned features\n    - K0D special\n    - source code\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/duck_hunt/icon.png",
+            "type": "icon"
+        }
+    ]
+}

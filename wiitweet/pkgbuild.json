@@ -1,0 +1,20 @@
+{
+    "package": "wiitweet",
+    "info": {
+        "title": "WiiTweet",
+        "author": "Pedro Aguiar",
+        "category": null,
+        "version": "0.3.2",
+        "url": null,
+        "license": null,
+        "description": "Twitter client",
+        "details": "Twitter client for the Nintendo Wii."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiitweet/icon.png",
+            "type": "icon"
+        }
+    ]
+}

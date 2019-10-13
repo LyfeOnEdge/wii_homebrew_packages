@@ -1,0 +1,20 @@
+{
+    "package": "wiiengine",
+    "info": {
+        "title": "Wiiengine",
+        "author": "Hermes",
+        "category": null,
+        "version": "1.5b",
+        "url": null,
+        "license": null,
+        "description": "PCengine Emulator",
+        "details": "PCengine Emulator with CDROM support based in gp2xengine and others\n\t\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiiengine/icon.png",
+            "type": "icon"
+        }
+    ]
+}

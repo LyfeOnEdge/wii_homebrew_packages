@@ -1,0 +1,20 @@
+{
+    "package": "HypnoBlast",
+    "info": {
+        "title": "Hypno Blast",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "0.3",
+        "url": null,
+        "license": null,
+        "description": "Hypnotic shooter",
+        "details": "Hypno Blast is a pseudo 3d psychedelic on rails shooter.\n\nThis game has an online leaderboard.\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\nmusic (Inside The Shell) by KatazTrophee\nccmixter.org/people/KatazTrophee\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/HypnoBlast/icon.png",
+            "type": "icon"
+        }
+    ]
+}

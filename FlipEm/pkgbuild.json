@@ -1,0 +1,20 @@
+{
+    "package": "FlipEm",
+    "info": {
+        "title": "FlipEm",
+        "author": "Yossi",
+        "category": null,
+        "version": "0.1-TR",
+        "url": null,
+        "license": null,
+        "description": "A brain puzzle.",
+        "details": "FlipEm is a game where the object is to get every square on the board to have an X in it using the least amount of moves.\nThere are some rules, but it is much easier to figure them out while playing, than it is to explain them here.\n\n-- Controls --\nPoint with the WiiMote\nA    - Flip spot   \nB    - Reset board \n+/-  - Increase/decrease size\nHome - Return to loader \n        "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/FlipEm/icon.png",
+            "type": "icon"
+        }
+    ]
+}

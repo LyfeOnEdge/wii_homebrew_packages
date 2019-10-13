@@ -1,0 +1,20 @@
+{
+    "package": "starfield",
+    "info": {
+        "title": "Starfield Demo",
+        "author": "Owen",
+        "category": null,
+        "version": "1.1",
+        "url": null,
+        "license": null,
+        "description": "A demo of a starfield effect",
+        "details": "This is a interactive demo.  Visit: http://wiibrew.org for real games. Also check out NewoShooter"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/starfield/icon.png",
+            "type": "icon"
+        }
+    ]
+}

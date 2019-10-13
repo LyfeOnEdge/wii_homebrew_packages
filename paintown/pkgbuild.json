@@ -1,0 +1,20 @@
+{
+    "package": "paintown",
+    "info": {
+        "title": "PainTown",
+        "author": "PainTown Team",
+        "category": null,
+        "version": "3.5.1",
+        "url": null,
+        "license": null,
+        "description": "2D fighting game",
+        "details": "If you are looking for a side-scrolling, action packed game like you used to play or if you are looking for an extensible engine to write your own game, look no further. Paintown supports user created content through a mod system and user defined functionality through scripting.\n\nPaintown also supports an implementation of M.U.G.E.N. Our goal is to be 100% compatible with M.U.G.E.N 2002.04.14 beta as well as supporting any new updates in the 1.0 version.\n\nPaintown is completely open-source and we would love any contributions in the form of code, art, or donations. Give Paintown a try!\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/paintown/icon.png",
+            "type": "icon"
+        }
+    ]
+}

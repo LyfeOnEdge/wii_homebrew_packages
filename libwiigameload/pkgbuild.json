@@ -1,0 +1,20 @@
+{
+    "package": "libwiigameload",
+    "info": {
+        "title": "LIBWiiGameLoad",
+        "author": "CashMan",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "Launching your Wii Game",
+        "details": "Launching your Wii Game as Disc Channel !"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/libwiigameload/icon.png",
+            "type": "icon"
+        }
+    ]
+}

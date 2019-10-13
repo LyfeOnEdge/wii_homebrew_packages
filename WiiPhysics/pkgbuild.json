@@ -1,0 +1,20 @@
+{
+    "package": "WiiPhysics",
+    "info": {
+        "title": "WiiPhysics",
+        "author": "Beardface",
+        "category": null,
+        "version": "2.2.0b",
+        "url": null,
+        "license": null,
+        "description": "Physics for the Wii!",
+        "details": "WiiPhysics is a physics playground for the wii. It was build Using Box2D and libwiisprite.\n\nGo to wiiphysics.googlecode.com for more info.\n\nThanks to:\n   _0xtob : Concave Decomp\n   kiwifish : audio\n   Chaosteil (feesh) : wiisprite\n   Usual Suspects (libogc, devkitppc)\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/WiiPhysics/icon.png",
+            "type": "icon"
+        }
+    ]
+}

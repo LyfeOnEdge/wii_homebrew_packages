@@ -1,0 +1,20 @@
+{
+    "package": "digger",
+    "info": {
+        "title": "Digger Remastered",
+        "author": "Sektor",
+        "category": null,
+        "version": "0.2",
+        "url": null,
+        "license": null,
+        "description": "gtamp.com/digger",
+        "details": "Eat all the emeralds or kill all the monsters to pass each level.\n\n[+  --] d-pad to move, button 1 or 2 to shoot, home to quit.\nClassic: d-pad to move, A or B to shoot, home to quit.\nGC: d-pad to move A or B to shoot, start to quit."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/digger/icon.png",
+            "type": "icon"
+        }
+    ]
+}

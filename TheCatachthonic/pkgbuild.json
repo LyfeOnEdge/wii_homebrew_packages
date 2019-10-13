@@ -1,0 +1,20 @@
+{
+    "package": "TheCatachthonic",
+    "info": {
+        "title": "The Catachthonic",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "FPS/TPS game/toy",
+        "details": "Cool but not done yet.\n\nControls:\nPointer = Aim\nAnalog stick = Move\nA button = Change view\nB button = Do something\nLeft/Right = Do something else\nC button = Jump\n1 button = Reset world\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/TheCatachthonic/icon.png",
+            "type": "icon"
+        }
+    ]
+}

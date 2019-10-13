@@ -1,0 +1,20 @@
+{
+    "package": "wiiwebserver",
+    "info": {
+        "title": "Wii Web Server",
+        "author": "Cboomf + Felix123",
+        "category": null,
+        "version": "alpha v1.1",
+        "url": null,
+        "license": null,
+        "description": "Serves web-pages",
+        "details": "Boot using normal methods *cough* HBC *cough*. Once running, will run itself. \n\nPlace your html files in /data/web/ on the root of your sd card, must be inserted before the app is loaded. Use data.zip for demo files.\n\nThere is no directory listing and your homepage must be called \"index.html\" "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiiwebserver/icon.png",
+            "type": "icon"
+        }
+    ]
+}

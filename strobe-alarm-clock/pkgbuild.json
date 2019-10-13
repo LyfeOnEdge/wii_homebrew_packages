@@ -1,0 +1,20 @@
+{
+    "package": "strobe-alarm-clock",
+    "info": {
+        "title": "strobe alarm clock",
+        "author": "Mouse",
+        "category": null,
+        "version": "0.0.6",
+        "url": null,
+        "license": null,
+        "description": "strobe alarm clock",
+        "details": "alarm clock that will flash your screen and rumble your wiimote. it use grrlib 4.0 for fonts and colors"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/strobe-alarm-clock/icon.png",
+            "type": "icon"
+        }
+    ]
+}

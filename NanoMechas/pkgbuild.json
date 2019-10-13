@@ -1,0 +1,20 @@
+{
+    "package": "NanoMechas",
+    "info": {
+        "title": "NanoMechas",
+        "author": "EvilTroopa",
+        "category": null,
+        "version": "0.8",
+        "url": null,
+        "license": null,
+        "description": "Mecha Shooter",
+        "details": "PLEASE READ THE INSTRUCTIONS !\n\tControls :\n\tPointer : Aim and Turn your mecha (important to slash your sword on the right direction)\n\tA : Slash your sword\n\tB : Fire your lasergun\n\tNunchuk Stick : Move\n\t\n\tGameplay :\n\tYour goal is to access the end of the level. Once you reach the boss level, it will end by killing it (duh).\n\tAlong the way, you will be blocked by colored celldoors : you will need to take a hormone of the same color to disolve it.\n\tCAUTION ! In the second level, there will be one single volatile hormone. You will have limited time to go to the celldoor before it goes off.\n\tIf you weren't able to take it to the celldoor, you'll have to go back to take it again.\n\t\n\tBackground :\n\tIn year 20XX, aliens came to Earth to invade us humans.\n\tInstead of showing massive artillery, they sent viruses to infect and kill all populations.\n\tA few people could hide themselves in caves to prepare for counterstrike. Scientists created NanoMechas to fight infections from within the contamined people.\n\tOne there NanoArmy will be ready, they'll kill the alien people from the inside.\n\t\n\tTips :\n\t- Keep the B button pressed as long as you see ennemies on the screen and shoot them.\n\t- If ennemies come close enough to be hurt by your sword, then use it !\n\t- Your best weapon is the sword, it can hurt multiple ennemies and also block bullets.\n\t- If you're attacked by a bunch of crazy aliens, just slash their face off.\n\t- The infections make aliens pop regularly, destroy them to avoid being overwhelmed by ennemies.\n\t- The boss is strong, beware of his dash, it will hurt you... a lot !\n\t- The boss will taker a lot of damage when its weak spot is unprotected.\n\t\n\tChangelog :\n\t==v0.8==\n\t- New menu\n\t- New colors for ponters, mechas, and interface (the red player didn't make sense in mainly red backgrounds)\n\t- Added Lifebar for bosses\n\t- Corrected bug in multiplayer when player dies, has negative lives and came back in next level with hundred of lives (yeaaah... too bad)\n\t- modified hormones emmiters so they don't glitch anymore (confirm ?)\n\t- lowered mecha life a little, too easy after putting invincibility in v0.7\n\t- reduced timer in lvl2, 30sec was way too easy\n\t==v0.6 and 0.7==\n\t- removed lifebars on infections\n\t- corrected bug : with several players, all the pointers were the same colour\n\t- corrected view centering when player dies\n\t- dying animation added on infections\n\t- updated dying animations on ennemies and mechas\n\t- player can move on respawn and is invincible for a short period\n\t- added longer invincibility when hurt\n\t- ennemies no longer see through walls\n\t- added timed hormones\n\t- refactoring : no longer crashes for random reasons\n\t- bosses nerfed a little\n\t- recentered user interface\n\t- lifebars on the right go the right way now\n\t- new more visible hormones icons (and visible timer added)\n\t\n\tMade by EvilTroopa and Olyfno\n\thttp://www.eviltroopa.com\n\thttp://www.olyfno.com\n\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/NanoMechas/icon.png",
+            "type": "icon"
+        }
+    ]
+}

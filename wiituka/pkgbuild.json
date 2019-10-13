@@ -1,0 +1,20 @@
+{
+    "package": "wiituka",
+    "info": {
+        "title": "Wiituka",
+        "author": "D_Skywalk",
+        "category": null,
+        "version": "0.98.8",
+        "url": null,
+        "license": null,
+        "description": "Amstrad CPC Emulator",
+        "details": "WiituKa is an Amstrad CPC6128 emulator for the Wii system based on my last work Pituka for GamePark32."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiituka/icon.png",
+            "type": "icon"
+        }
+    ]
+}

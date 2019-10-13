@@ -1,0 +1,20 @@
+{
+    "package": "WarHeads",
+    "info": {
+        "title": "Warheads",
+        "author": "DaVinz",
+        "category": null,
+        "version": "1.0c",
+        "url": null,
+        "license": null,
+        "description": "Scorched Earth",
+        "details": "\"WarHeads : Scorched Earth\" is a turn-based battle in two-dimensional random terrain, with each player adjusting the angle and power of their tank turret before each shot. Number of weapons and power-up give a tactical dimension to the game. The weather also impact the trajectory of missiles and create infinite situations."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/WarHeads/icon.png",
+            "type": "icon"
+        }
+    ]
+}

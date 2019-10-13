@@ -1,0 +1,20 @@
+{
+    "package": "oslm",
+    "info": {
+        "title": "Open Sram Lang Modifier",
+        "author": "Suloku",
+        "category": null,
+        "version": "4",
+        "url": null,
+        "license": null,
+        "description": "Modify Sram Language",
+        "details": "\nWith this you can play PAL GC games on a NTSC system with your desired language and also modify the Mono/Stereo setting for gamecube games.\n\nThis is a clone of emu_kidid's sram language modifier 1.1 and it has the same features.\n\nI made this in the hope of it working on the wii, using yagd and libogc functions.\n\nhttp://hitmen.c02.at/files/yagcd/yagcd/chap10.html#sec10.5\n\nThe \"open\" is just to differ it from emu_kidid's, as he lost the source and I couldn't find a better name, sorry for that.\n\n\nsuloku 2009\n\n\nWarning!\n\nThere are some reports that using the disc channel to run the gamecube game will change the sram values to those of the system menu. Therefore, use an alternative loading method, such as Gecko Os or GCBooter. \n\nChangelog:\n\nv4 10 August 2009\n\n- Added warning message for wii's disk channel launching.\n- Fixed some issues when printing the language names on screen.\n\nv3 28 July 2009\n\n- Added SRAM Hex view.\n- Added power and reset button callbacks.\n\nv2 27 July 2009\n\n- Forgot to initialize the gamecube pad, leading to a code dump on GC mode and in wii mode when a GC pad was connected.\n- Added homebrew channel package.\n\nv1 22 July 2009\n\n- Initial release\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/oslm/icon.png",
+            "type": "icon"
+        }
+    ]
+}

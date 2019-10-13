@@ -1,0 +1,20 @@
+{
+    "package": "wiimc-channel-installer",
+    "info": {
+        "title": "WiiMC Channel Installer",
+        "author": "Tantric",
+        "category": null,
+        "version": "1.9",
+        "url": null,
+        "license": null,
+        "description": "WiiMC Channel Installer",
+        "details": "WiiMC Channel Installer"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiimc-channel-installer/icon.png",
+            "type": "icon"
+        }
+    ]
+}

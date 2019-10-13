@@ -1,0 +1,20 @@
+{
+    "package": "TickTockZombieShooter",
+    "info": {
+        "title": "TickTockZombieShooter",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Zombie Shooter",
+        "details": "A time based shooting game.\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nthatotherdev.wordpress.com\n\nCities In The Stars music by Lapse\n8bc.org/members/Lapse\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/TickTockZombieShooter/icon.png",
+            "type": "icon"
+        }
+    ]
+}

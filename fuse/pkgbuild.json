@@ -1,0 +1,20 @@
+{
+    "package": "fuse",
+    "info": {
+        "title": "FUSE",
+        "author": "P. Kendall, B. Giesler",
+        "category": null,
+        "version": "Snapshot3",
+        "url": null,
+        "license": null,
+        "description": "FUSE for the Wii",
+        "details": "FUSE is the Free Unix Spectrum Emulator. It emulates a classic home computer,\nthe Sinclair ZX Spectrum. For more information and lots of games, go to\nhttp://www.worldofspectrum.org.\n\nFUSE was written by Philip Kendall and ported to the Wii by me, Bjoern Giesler\n(bjoern@giesler.de). Please direct all bug reports to me.\nFuse's homepage is at http://fuse-emulator.sourceforge.net.\nMy homepage, where you can find this Wii port, is at\nhttp://giesler.biz.\n\nThe port is based on FUSE 0.9.0, not the newest SVN version, so some\nimprovements haven't found their way into the Wii port.\n\nHow to use\n----------\n\nMost Spectrum software assumes you have a keyboard attached (since the\noriginal Spectrum is an all-in-one home computer). FUSE for the Wii\nsupports USB keyboards. You will probably need one.\n\nWhen you run FUSE, you get the Spectrum 48K boot screen. You can now\nattach a USB keyboard and write BASIC programs!\n\nYou can also push the HOME button on your Wiimote. This brings up a\nmenu that you can use to load Spectrum games from SD card. The A\nbutton selects a menu entry, the B button brings you up one menu. You\nshould also tell FUSE to use your Wiimote as a Sinclair Joystick:\nOptions-%3EJoysticks-%3EJoystick 1-%3ESinclair Joystick\n\nNow, when you start a game, tell the game to use the Sinclair\ninterface. Hold the Wiimote sideways so the 1&2 buttons are on the\nright. The directional pad is your joystick, 2 is Fire button 1, 1 is\nFire button 2.\n\nTo quit FUSE, bring up the menu and select File-%3EExit, press A on the\nquestion whether you really want to quit.\n\nWhat makes this a preview?\n--------------------------\n\nThis is a preview release. Some things are still a bit buggy or\nincomplete. Here's a list of them.\n\n- Sound is kind of clicky in some games\n- This version of FUSE loads tape images in real-time! So best use\n  .Z80 or .SNA snapshots\n- No Wiimote pointing functionality\n- Only one joystick configuration (Wiimote sideways)\n- Kempston doesn't work\n\nHave fun!"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/fuse/icon.png",
+            "type": "icon"
+        }
+    ]
+}

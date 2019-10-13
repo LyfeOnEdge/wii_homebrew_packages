@@ -1,0 +1,20 @@
+{
+    "package": "Headings",
+    "info": {
+        "title": "Headings",
+        "author": "Romaap",
+        "category": null,
+        "version": "0.2",
+        "url": null,
+        "license": null,
+        "description": "Hold up the ball as many times as possible",
+        "details": "Try to get the highest score by holding up the ball. Head with the A button and move by pointing at the screen.\nReset the ball with B.\nIf you catch the slowmotion powerup, the ball will be slowed down.\nThe slowmotion will wear off after 10 seconds or when you lose the ball"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Headings/icon.png",
+            "type": "icon"
+        }
+    ]
+}

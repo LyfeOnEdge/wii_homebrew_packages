@@ -1,0 +1,20 @@
+{
+    "package": "WeAreNowhere",
+    "info": {
+        "title": "We Are Nowhere",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "0.5",
+        "url": null,
+        "license": null,
+        "description": "Dialogue",
+        "details": "We Are Nowhere is a brief nonsense conversation with the deranged and disembodied.\n\nControls:\nPointer = Select what to say\nA button = Select what to say\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/WeAreNowhere/icon.png",
+            "type": "icon"
+        }
+    ]
+}

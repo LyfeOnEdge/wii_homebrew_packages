@@ -1,0 +1,20 @@
+{
+    "package": "wiimednafen",
+    "info": {
+        "title": "WiiMednafen",
+        "author": "raz0red",
+        "category": null,
+        "version": "0.1.1",
+        "url": null,
+        "license": null,
+        "description": "Mednafen Emulator",
+        "details": "WiiMednafen is a port of the Mednafen Emulator.\n\nWii port by raz0red.\n   "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiimednafen/icon.png",
+            "type": "icon"
+        }
+    ]
+}

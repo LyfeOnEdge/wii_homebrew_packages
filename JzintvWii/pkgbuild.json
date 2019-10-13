@@ -1,0 +1,20 @@
+{
+    "package": "JzintvWii",
+    "info": {
+        "title": "jzintvWii",
+        "author": "jenergy",
+        "category": null,
+        "version": "1.0.1",
+        "url": null,
+        "license": null,
+        "description": "Intellivision Emulator",
+        "details": "jzintvWii 1.0.1\n\nThis is a Wii port of jzintv Emulator, the multi-platform intellivision emulator created by Joe Zbiciak.\n\nPlease visit:\n    http://spatula-city.org/~im14u2c/intv/\n\n\nPlease do NOT contact Joe Zbiciak for questions about jzintvWii, post them on the wiibrew page instead:\n    http://wiibrew.org/wiki/Talk:JzintvWii "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/JzintvWii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

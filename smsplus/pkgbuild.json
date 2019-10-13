@@ -1,0 +1,20 @@
+{
+    "package": "smsplus",
+    "info": {
+        "title": "SMS Plus GX",
+        "author": "Eke-Eke",
+        "category": null,
+        "version": "081214",
+        "url": null,
+        "license": null,
+        "description": "Sega MS/GG Emulator",
+        "details": "This is a port of SMS Plus, a Sega Master System and Game Gear emulator originally coded by Charles Mc Donald. The code has been slightly modified to improve game compatibility as well as adding extra emulation features such as LightGun or Paddle emulation. Please read the user manual first and check http://www.tehskeen.com/forums/ for any questions and updates.  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/smsplus/icon.png",
+            "type": "icon"
+        }
+    ]
+}

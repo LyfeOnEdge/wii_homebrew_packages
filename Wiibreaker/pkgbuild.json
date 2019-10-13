@@ -1,0 +1,20 @@
+{
+    "package": "Wiibreaker",
+    "info": {
+        "title": "WiiBreaker",
+        "author": "Arikado",
+        "category": null,
+        "version": "0.5",
+        "url": null,
+        "license": null,
+        "description": "Brickbreaker",
+        "details": "Break Bricks forever using a ton of different control options! Now you can make your own levels too!"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Wiibreaker/icon.png",
+            "type": "icon"
+        }
+    ]
+}

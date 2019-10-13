@@ -1,0 +1,20 @@
+{
+    "package": "dcvg5k",
+    "info": {
+        "title": "DCVG5K Wii",
+        "author": "Danel Coulom",
+        "category": null,
+        "version": "r1",
+        "url": null,
+        "license": null,
+        "description": "DCVG5K on Wii",
+        "details": "A port of the VG5000 emulator DCVG5K to the Nintendo Wii.\n\nWritten By: Daniel Coulom. Ported By: David Adam"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/dcvg5k/icon.png",
+            "type": "icon"
+        }
+    ]
+}

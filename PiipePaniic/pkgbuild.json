@@ -1,0 +1,20 @@
+{
+    "package": "PiipePaniic",
+    "info": {
+        "title": "Piipe Paniic",
+        "author": "miguel28",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "NeoCompo 2012 Participant",
+        "details": "It is a game where you have to build the pipeline with random pieces without spilling water.\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/PiipePaniic/icon.png",
+            "type": "icon"
+        }
+    ]
+}

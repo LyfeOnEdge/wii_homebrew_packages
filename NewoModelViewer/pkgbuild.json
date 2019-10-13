@@ -1,0 +1,20 @@
+{
+    "package": "NewoModelViewer",
+    "info": {
+        "title": "Newo Model Viewer",
+        "author": "Owen",
+        "category": null,
+        "version": "1.4",
+        "url": null,
+        "license": null,
+        "description": "A simple OBJ file viewer",
+        "details": "Controllers: Wiimote Horizontal\nA simple OBJ file viewer for made specifically for NewoShooter models and other OBJ files.  Does not support all obj files.  Only files trianglated, with normals and a single group.\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/NewoModelViewer/icon.png",
+            "type": "icon"
+        }
+    ]
+}

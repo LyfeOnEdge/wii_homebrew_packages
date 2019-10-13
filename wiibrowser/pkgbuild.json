@@ -1,0 +1,20 @@
+{
+    "package": "wiibrowser",
+    "info": {
+        "title": "WiiBrowser",
+        "author": "gave92",
+        "category": null,
+        "version": "rev112",
+        "url": null,
+        "license": null,
+        "description": "A Web browser for the Wii",
+        "details": "WiiBrowser is a wii web browser by gave92 started from WiiXplore sources and using a customized libwiigui as base for the GUI.\n\n    Features:\n    * Display custom web sites\n    * Support for HTML and HTTPS connections\n    * Support for links and web forms\n    * Capable of downloading files to SD/SDHC card\n    * Address bar with on-screen keyboard\n    * Favorites menu\n    * Back and Forward navigation\n    * Supported Image Formats: PNG/JPEG/GIF/BMP\n    * Image operations: zoom/move\n    * Autoupdate feature\n\n    Wishlist:\n    * Better CSS support\n    * Flash videos!\n    * Multiple tabs\n\n    Controls (Wii Remote only):\n    * Aim the remote - Move pointer\n    * Button A - Click buttons\n    * Button B (Hold) - Free scroll\n    * DPad - Navigate\n    * Plus Button - Open app bar\n    * Minus Button - Close app bar\n    * Button 1 - Restore default view\n    * Home Button - Exit app\n    * Power Button - Turn off Wii\n\n    Shortcuts:\n    * B + Directional pad up: Refresh current page\n    * B + Directional pad down: Save page\n    * B + Directional pad left: Browse homepage\n    * B + Directional pad right: Enter new URL\n    * B + (-) key: Go back a page\n    * B + (+) Key: Go forward one page\n\n    Credits:\n    Main Coder: gave92\n    Wii Xplore: SteelSlasher\n    FreeTypeGX: Armin Tamzarian\n    Libwiigui: Tantric\n    Libogc/DevkitPro: Shagkur and Wintermute\n    Meta.xml: DniMretsaM\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiibrowser/icon.png",
+            "type": "icon"
+        }
+    ]
+}

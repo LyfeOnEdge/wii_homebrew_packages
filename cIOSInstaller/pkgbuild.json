@@ -1,0 +1,20 @@
+{
+    "package": "cIOSInstaller",
+    "info": {
+        "title": "cIOS_Installer",
+        "author": "rodries",
+        "category": null,
+        "version": "v1",
+        "url": null,
+        "license": null,
+        "description": "cIOS Installer for USB2 (Homebrew)",
+        "details": "USB 2.0 in MPlayerCE, The installer is for Homebrew USB2 only, \n  this will install IOS202 using base IOS60 and IOS36 automatically. \n  You can select the IOS to use to do the installation, so you can select a IOS with the fake sign bug.\nIOS60 and IOS36 is downloaded to SD via the Nintendo's Update Server.\nWe are using IOS60 as a base as there has been improvements in wifi.\nThose that install this cIOS do not require a DVDx installation.\nIf you plan on updating make sure to install the cIOS and DVDx before updating.\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/cIOSInstaller/icon.png",
+            "type": "icon"
+        }
+    ]
+}

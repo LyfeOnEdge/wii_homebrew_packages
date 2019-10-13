@@ -1,0 +1,20 @@
+{
+    "package": "Achtung_Wii_Kurve",
+    "info": {
+        "title": "Achtung Wii Kurve",
+        "author": "Profetylen",
+        "category": null,
+        "version": "1.3",
+        "url": null,
+        "license": null,
+        "description": "Watch out for the curve",
+        "details": "Achtung Wii Kurve is a clone of the computer game Achtung Die Kurve. It differs in that it has alot of customization- and control options and actually includes music and sounds. The game supports up to 12 players.\nThe objective of the game is to survive as long as you can by making sure your curve doesn't hit a wall or another curve. As you move you leave a trace behind you which noone can pass through except at tiny holes that regularly appears in the curve.\n\nAuthor:\nProfetylen\n\nCredits:\nCoding: Profetylen\nMusic:  Benny Hill Theme\nSpecial Thanks to:\n - The authors of the game: Achtung Die Kurve\n - The authors of the Homebrew Channel\n - The authors of GRRLIB\n - All the helpful people at Wiibrew Forums\n - The testers: _sony and WaxyPumpkin7"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Achtung_Wii_Kurve/icon.png",
+            "type": "icon"
+        }
+    ]
+}

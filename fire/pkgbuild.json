@@ -1,0 +1,20 @@
+{
+    "package": "fire",
+    "info": {
+        "title": "Fire",
+        "author": "David Ashley",
+        "category": null,
+        "version": "1.01",
+        "url": null,
+        "license": null,
+        "description": "Fire simulation",
+        "details": "Just a simple SDL demo, simulates fireworks, sort of."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/fire/icon.png",
+            "type": "icon"
+        }
+    ]
+}

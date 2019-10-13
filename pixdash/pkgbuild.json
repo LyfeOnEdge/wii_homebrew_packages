@@ -1,0 +1,20 @@
+{
+    "package": "pixdash",
+    "info": {
+        "title": "PiX Dash",
+        "author": "PiXeL",
+        "category": null,
+        "version": "2",
+        "url": null,
+        "license": null,
+        "description": "Sample platform game",
+        "details": "\nSample platform game for Nintendo Wii, using BennuGD."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/pixdash/icon.png",
+            "type": "icon"
+        }
+    ]
+}

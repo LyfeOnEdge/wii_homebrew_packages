@@ -1,0 +1,20 @@
+{
+    "package": "GeaVsCodos",
+    "info": {
+        "title": "Gea VS CoDOS",
+        "author": "Zalo",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Gea VS CoDOS",
+        "details": "Help Gea to recover the trapped photons in the atmosphere. This is a one button game developed for the Campus Party 2007. You only need to press Up to make Gea fly and release it to leave she go down. For more info visit http://zalods.blogspot.com"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/GeaVsCodos/icon.png",
+            "type": "icon"
+        }
+    ]
+}

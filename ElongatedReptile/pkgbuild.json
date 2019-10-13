@@ -1,0 +1,20 @@
+{
+    "package": "ElongatedReptile",
+    "info": {
+        "title": "Elongated Reptile",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "0.3",
+        "url": null,
+        "license": null,
+        "description": "Snake clone",
+        "details": "A remake of the classic game snake.\n\nControls:\nAnalog stick = Move\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/ElongatedReptile/icon.png",
+            "type": "icon"
+        }
+    ]
+}

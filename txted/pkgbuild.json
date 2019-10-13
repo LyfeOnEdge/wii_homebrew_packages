@@ -1,0 +1,20 @@
+{
+    "package": "txted",
+    "info": {
+        "title": "txtEd",
+        "author": "linus",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Text Editor",
+        "details": "Controls: point and click to select file or use keyboard. dpad: RIGHT moves cursor foward fast, LEFT moves cursor back one space, DOWN advances screen one page, UP returns to start of file."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/txted/icon.png",
+            "type": "icon"
+        }
+    ]
+}

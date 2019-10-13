@@ -1,0 +1,20 @@
+{
+    "package": "Steadyhand",
+    "info": {
+        "title": "SteadyHand",
+        "author": "Durdadan",
+        "category": null,
+        "version": "1.0.0",
+        "url": null,
+        "license": null,
+        "description": "Keep a Steady Hand",
+        "details": "Keep a steady hand and try not to hit the wall. \nMy Very first C++ program. please give me feedback and some programming tips. go easy on me.\n\n\nhttp://wiibrew.org/wiki/User:Durda_dan\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Steadyhand/icon.png",
+            "type": "icon"
+        }
+    ]
+}

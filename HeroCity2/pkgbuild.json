@@ -1,0 +1,20 @@
+{
+    "package": "HeroCity2",
+    "info": {
+        "title": "Hero City 2",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "1.5",
+        "url": null,
+        "license": null,
+        "description": "Open world hero game",
+        "details": "Hero City 2 is an open world game about a super hero.\n\nThis game has an online leaderboard.\n\nControls:\nAnalog stick = Move\nDirectional pad = Turn the camera\nShake wiimote = Right fisted punch\nShake nunchuck = Left fisted punch\nA button = Jump (hold to charge up for a higher jump)\nZ button = Turn the camera in the same direction as the player\n1 button = Save\n2 button = Return to the title screen\n+ or - button (at the title screen) = Change the language\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nThatOtherDev.com\n\nmusic (TITAN) by Epic Soul Factory\njamendo.com/en/artist/366832/epic-soul-factory\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/HeroCity2/icon.png",
+            "type": "icon"
+        }
+    ]
+}

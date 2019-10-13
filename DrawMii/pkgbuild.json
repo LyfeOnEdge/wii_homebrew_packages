@@ -1,0 +1,20 @@
+{
+    "package": "DrawMii",
+    "info": {
+        "title": "DrawMii",
+        "author": "miguel28",
+        "category": null,
+        "version": "1.1",
+        "url": null,
+        "license": null,
+        "description": "Participante SceneryBeta 2011",
+        "details": "Es una Sencilla Aplicacion para crear dibujo, para aquellos que tengan una buena imaginacion, tengan algo te tiempo libre y un wii XD. \n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/DrawMii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

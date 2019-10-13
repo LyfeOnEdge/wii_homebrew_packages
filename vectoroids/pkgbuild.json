@@ -1,0 +1,20 @@
+{
+    "package": "vectoroids",
+    "info": {
+        "title": "Vectoroids",
+        "author": "MiniK",
+        "category": null,
+        "version": "1.1.0",
+        "url": null,
+        "license": null,
+        "description": "Asteroids Clone",
+        "details": "\"Vectoroids\" is a clone of the classic arcade game \"Asteroids\" by Atari. Your objective is to maneuver a space ship within a field of asteroids, and shoot them into smaller and smaller pieces, eventually destroying them completely."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/vectoroids/icon.png",
+            "type": "icon"
+        }
+    ]
+}

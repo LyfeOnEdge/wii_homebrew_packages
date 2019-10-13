@@ -1,0 +1,20 @@
+{
+    "package": "liightsout",
+    "info": {
+        "title": "liights Out!",
+        "author": "BHSPitMonkey",
+        "category": null,
+        "version": "1.0 beta 5",
+        "url": null,
+        "license": null,
+        "description": "\"Lights Out\" game for the Wii.",
+        "details": "\nTry to turn out all the lights.\n  D-Pad or IR to move\n  A to select\n  +/- to switch levels\n  More instructions available in-game\n  \nChangelog:\n\nv1.0 beta 5\n  Fixed some lag while using menu buttons\n    caused by unnecessary logging\n  Fixed broken animation on the main menu's\n    background\n  Added the background animation to all\n    screens in the game\n\nv1.0 beta 4\n  Added some (rough) instruction pages\n  Improved menu navigation\n  Puzzles are now loaded from\n   /apps/liightsout/data/puzzles.txt (you\n   can create your own puzzles by editing\n   this file!)\n  Added \"Free Mode\", allows you to freely\n   toggle single lights. Useful for designing\n   your own levels. No \"save\" function yet.\n   Enable by pressing the Two (or X) button.\n  Probably some other changes I can't think\n   of at the moment. :)\n\nv1.0 beta 3\n  Internal release\n\nv1.0 beta 2\n  First public beta\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/liightsout/icon.png",
+            "type": "icon"
+        }
+    ]
+}

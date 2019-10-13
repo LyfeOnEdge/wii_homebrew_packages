@@ -1,0 +1,20 @@
+{
+    "package": "DanceClone",
+    "info": {
+        "title": "Dance Clone",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "0.5",
+        "url": null,
+        "license": null,
+        "description": "A DDR style dance game",
+        "details": "A DDR style dance game.\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nthatotherdev.wordpress.com\n\nDance, NOW! music by RekcahDam\nwww.rekcahdam.com\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/DanceClone/icon.png",
+            "type": "icon"
+        }
+    ]
+}

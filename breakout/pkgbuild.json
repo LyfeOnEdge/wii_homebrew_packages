@@ -1,0 +1,20 @@
+{
+    "package": "breakout",
+    "info": {
+        "title": "Wii Breakout",
+        "author": "JS Lemming",
+        "category": null,
+        "version": "0.01",
+        "url": null,
+        "license": null,
+        "description": "Breakout style game",
+        "details": "Old sports will enjoy this classic gameplay. This is not a full game, just something I threw together to see how wii homebrew works. Point at the screen to control the paddle. Left/Right alters paddle size. Home returns."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/breakout/icon.png",
+            "type": "icon"
+        }
+    ]
+}

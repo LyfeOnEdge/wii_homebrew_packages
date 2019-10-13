@@ -1,0 +1,20 @@
+{
+    "package": "hexenwii",
+    "info": {
+        "title": "Hexen Wii",
+        "author": "Arikado",
+        "category": null,
+        "version": "0.5",
+        "url": null,
+        "license": null,
+        "description": "Port of Hexen to Wii!",
+        "details": "Now you can play Raven Software's classic FPS Hexen on your Wii!\n\nhttp://arikadosblog.blogpsot.com"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/hexenwii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "AtaWii",
+    "info": {
+        "title": "AtaWii",
+        "author": "NoNameNo",
+        "category": null,
+        "version": "1b",
+        "url": null,
+        "license": null,
+        "description": "Atari ST Emulator",
+        "details": "NoNameNo proudly presents AtaWII Beta 1.0\n\nQ: What is AtaWii ??\nA: An atari st emulator for WII (port of the so LAME emulator castaway)\n\nQ: Can i use my msa/st disk image ?\nA: No, i was too lazy to code a sdgecko/DVD menu selector, so i hardcoded a disk image (BUGGY.C)\n\nQ: What is this disk image ?\nA: The disk image i hardcoded i ST-MENU 5, an intro compilation disk from the famous OVERLANDERS.\n\nQ: How can i use it ?\nA: Like you understand already i am a very lazy guy, so i didn't even code a keyboard facilitie but \n   i hardcoded some key you can use with your paddle :\n\n                        up arrow : UP\n                      down arrow : DOWN\n                              F1 : B\n                              F2 : A\n                              F3 : Y\n                              F4 : X\n                        SpaceBar : L Trigger  (use it at the woody wood pecker screen)\n\n   Bonus:\n                 Reset the ATARI : R Trigger\n           Return to Geckoloader : START\n\n\n\n\nQ: Why can't i listen marvellous soundchip ?\nA: Because this Castaway dont have sound emulation :(\n\nQ: Why are so much intro in the compilation are not working ?\nA: in fact the basis of the emulator i ported is very lame, and all this intros are not working on the pc version of the emulator.\n\nQ: When is planned the Final Verison\nA: I don't think i will continue to work on it, so, if someone want to, the sources are included. \n\n\n-----------------------------------------------------------------------------------------\n\nThanks and Greetings to :\n - Team Twizzer for all the great wii stuff\n - CastAway coder\n - Nuke for the GREAT usb gecko !! \n - Dhewg for this marvelous Geckoloader ( i have done this port in 5-6 hours with no more \"SD djing\")\n - And all others ....."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/AtaWii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

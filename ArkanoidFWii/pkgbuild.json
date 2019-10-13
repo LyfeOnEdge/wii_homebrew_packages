@@ -1,0 +1,20 @@
+{
+    "package": "ArkanoidFWii",
+    "info": {
+        "title": "ArkanoidFWii",
+        "author": "the_marioga",
+        "category": null,
+        "version": "Ver. 1.5",
+        "url": null,
+        "license": null,
+        "description": "Arkanoid para Wii",
+        "details": "\nOs gusta el arkanoid?, pues ahora podeis disfrutarlo en la wii con arkanoidFWii\n\nUso:\nEjecuta la aplicacion con Homebrew Channel y disfruta.\n\nAgradecimientos:\n- Team Twiizers y devkitPRO -> libogc\n- frontier -> libpng y pngu\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/ArkanoidFWii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

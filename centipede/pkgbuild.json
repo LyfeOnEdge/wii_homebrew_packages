@@ -1,0 +1,20 @@
+{
+    "package": "centipede",
+    "info": {
+        "title": "Centipede",
+        "author": "Iron Hand",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Arcarde Shooter",
+        "details": "This is a clone of the popular arcarde shooter from 1980."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/centipede/icon.png",
+            "type": "icon"
+        }
+    ]
+}

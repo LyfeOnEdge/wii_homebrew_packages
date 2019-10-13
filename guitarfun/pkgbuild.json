@@ -1,0 +1,20 @@
+{
+    "package": "guitarfun",
+    "info": {
+        "title": "Guitarfun",
+        "author": "Hermes",
+        "category": null,
+        "version": "3.5",
+        "url": null,
+        "license": null,
+        "description": "Port of the game Guitarfun",
+        "details": "Copy the 'guitarfun' folder in the root of the SD memory\n\nAdd the folders with 'Frets on fire' songs in the 'songs' directory\n\nAdd the background and necks bitmaps in the 'bitmaps' directory (see the PDF document)"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/guitarfun/icon.png",
+            "type": "icon"
+        }
+    ]
+}

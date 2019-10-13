@@ -1,0 +1,20 @@
+{
+    "package": "SwingBall",
+    "info": {
+        "title": "Swing Ball",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "1.1",
+        "url": null,
+        "license": null,
+        "description": "you are a ball that swings",
+        "details": "Swing Ball is a time based platformer with the ability to swing from almost anything.\n\nControls:\nNunchuck analog stick = move\nA button = Jump (hold to jump higher)\nB button = swing\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nthatotherdev.wordpress.com\n\nTunnel Rush background music by ara\nccmixter.org/people/ara\n\nhit_on_wood sound effects by Anton\nfreesound.org/usersViewSingle.php?id=58\n\nswosh-06 sound effect by qubodup\nfreesound.org/usersViewSingle.php?id=71257\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/SwingBall/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "ioscheck",
+    "info": {
+        "title": "IOSCheck",
+        "author": "Svpe",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Check IOS for vulnerabilities",
+        "details": "Just a small utility that checks any installed IOS versions that can actually be launched for known vulnerabilities (currently the fakesigning bug and ES_Identify). Might be useful for someone wanting to know if he can still install fakesigned stuff or if applications such as AnyRegionChanger (which require ES_Identify) will still work.\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/ioscheck/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "giibii",
+    "info": {
+        "title": "GiiBii",
+        "author": "AntonioND",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "GB/GBC/SGB emulator.",
+        "details": "Game Boy, Game Boy Color and Super Game Boy emulator for Wii."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/giibii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

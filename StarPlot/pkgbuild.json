@@ -1,0 +1,20 @@
+{
+    "package": "StarPlot",
+    "info": {
+        "title": "StarPlot",
+        "author": "Morukutsu",
+        "category": null,
+        "version": "1.0.0-NMax",
+        "url": null,
+        "license": null,
+        "description": "Adventure in Galaxy",
+        "details": "A puzzle game which give you headaches ! You control a character who moves around diffrent planets. With the level editor, you are able to make your own levels."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/StarPlot/icon.png",
+            "type": "icon"
+        }
+    ]
+}

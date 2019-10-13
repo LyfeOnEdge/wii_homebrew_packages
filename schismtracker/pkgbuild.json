@@ -1,0 +1,20 @@
+{
+    "package": "schismtracker",
+    "info": {
+        "title": "Schism Tracker",
+        "author": "Storlek",
+        "category": null,
+        "version": "20110101",
+        "url": null,
+        "license": null,
+        "description": "Tracked music editor",
+        "details": "Schism Tracker is an editor and player for tracked music (IT, XM, S3M, MOD, etc.), heavily based on the look and feel of the DOS program Impulse Tracker.\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/schismtracker/icon.png",
+            "type": "icon"
+        }
+    ]
+}

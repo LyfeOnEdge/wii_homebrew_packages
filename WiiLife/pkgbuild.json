@@ -1,0 +1,20 @@
+{
+    "package": "WiiLife",
+    "info": {
+        "title": "WiiLife",
+        "author": "drei000",
+        "category": null,
+        "version": "2008.07.25",
+        "url": null,
+        "license": null,
+        "description": "Conway's Game of Life for Wii",
+        "details": "The Game of Life is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It is the best-known example of a cellular automaton. The game is actually a zero-player game, meaning that its evolution is determined by its initial state, needing no input from human players. One interacts with the Game of Life by creating an initial configuration and observing how it evolves. (from Wikipedia)"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/WiiLife/icon.png",
+            "type": "icon"
+        }
+    ]
+}

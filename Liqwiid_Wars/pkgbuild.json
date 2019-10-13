@@ -1,0 +1,20 @@
+{
+    "package": "Liqwiid_Wars",
+    "info": {
+        "title": "Liqwiid Wars",
+        "author": "steaky and silus",
+        "category": null,
+        "version": "0.2.6",
+        "url": null,
+        "license": null,
+        "description": "Liquid Wars for the Wii",
+        "details": "A complete rewrite of Liquid Wars - using the game and conversations with Christian Mauduit as sources.\n  Use the wiimote to control the 4 armies. "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Liqwiid_Wars/icon.png",
+            "type": "icon"
+        }
+    ]
+}

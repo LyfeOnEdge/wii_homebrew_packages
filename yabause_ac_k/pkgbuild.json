@@ -1,0 +1,20 @@
+{
+    "package": "yabause_ac_k",
+    "info": {
+        "title": "Yabause - Ac_K",
+        "author": "Team Yabause",
+        "category": null,
+        "version": "Alpha1",
+        "url": null,
+        "license": null,
+        "description": "Sega Saturn Emulator",
+        "details": "Original Source code by Team yabause - www.yabause.org - Place the bios in the same folder as the boot.elf name the bios \u201cbios.bin\u201d  works best with European bios. Place your roms into the ROMS folder, ISO, CUE and BIN support. Read the ReadeMii.txt for many explications !"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/yabause_ac_k/icon.png",
+            "type": "icon"
+        }
+    ]
+}

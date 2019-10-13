@@ -1,0 +1,20 @@
+{
+    "package": "PieChart",
+    "info": {
+        "title": "PieChart",
+        "author": "Joshua Corvinus",
+        "category": null,
+        "version": "0.8",
+        "url": null,
+        "license": null,
+        "description": "A shameless rip-off",
+        "details": "\nThe latest 'playable' version of my shameless Pac-Man clone. The controls are fairly simple, hold the wiimote sideways. Button 1 is for debug info, button 2 is the pac booster, plus is pause, and press A to take a screenshot. No infringment on any NAMCO property is intended. Besides, the original is better and everyone should be playing that instead anyways =P\n\nUpgrades from previous version:\n- 2 player mode! Now you can play with a friend to conquer the mazes!\n- A full soundtrack supplied by the industral band DYM (http://www.enterdym.comn).\n- Fixed some ghosts not playing the death sound when they eat the player.\n- Fixed infinite ghost points bug.\n- The sound engine has been re-written to allow for co-existing SFX and music.\n- There are now surprises in the mazes, including more powerful ghosts and level tweaks.\n\nPlanned updates:\n- AI upgrades\n- more levels\n\nSpecial thanks to mdbrim and Crayon for their help, and everyone involved with GRRLIB for such a user-friendly library.\nAlso, if anyone wants to help me improve the AI, the help would be greatly appreciated. Thanks for playing!\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/PieChart/icon.png",
+            "type": "icon"
+        }
+    ]
+}

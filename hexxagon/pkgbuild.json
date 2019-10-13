@@ -1,0 +1,20 @@
+{
+    "package": "hexxagon",
+    "info": {
+        "title": "Hexxagon",
+        "author": "Tantric",
+        "category": null,
+        "version": "1.1",
+        "url": null,
+        "license": null,
+        "description": "Classic Board Game",
+        "details": "HEXXAGON is an animated game of strategy, loaded with options,\nin which it is your task to take over as much of the vorld, ah,\nboard as your opponent will allow, whether your opponent is another\nmere human or our resident noid of unflinching logic, the dauntless\nCRANIAC.\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/hexxagon/icon.png",
+            "type": "icon"
+        }
+    ]
+}

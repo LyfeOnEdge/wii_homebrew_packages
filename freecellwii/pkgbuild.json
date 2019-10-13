@@ -1,0 +1,20 @@
+{
+    "package": "freecellwii",
+    "info": {
+        "title": "Freecell.Wii",
+        "author": "WhoDares",
+        "category": null,
+        "version": "0.2",
+        "url": null,
+        "license": null,
+        "description": "Freecell for the Wii",
+        "details": "Freecell brought to the Wii!\nUse A or B to pickup and drag cards\nUse Up/Down on the pad to space the cards more (to make the cards underneath more visible)\nHold down Plus when hovering over a card will bring it to the front (to make it visible)\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/freecellwii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "pissed",
+    "info": {
+        "title": "PISSED",
+        "author": "Nuance and Genesis Project",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "A game by Team Iron.",
+        "details": "Long story short, try to hit the bowl, no matter how drunk you are!\n\nCredits\nDesign, code and graphics: Widdy\nAdditional design: Nitro and Erkan\nSoundtrack: Fieser Wolf"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/pissed/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "ChatNoirWii",
+    "info": {
+        "title": "Chat Noir Wii",
+        "author": "TippiX",
+        "category": null,
+        "version": "0.3",
+        "url": null,
+        "license": null,
+        "description": "Circle The Cat",
+        "details": "Chat Noir Wii - A simple board game for the Wii. Don't let the cat escape! \n\nIt is a clone of Chat Noir by Gamedesign.jp, found here: http://www.gamedesign.jp/flash/chatnoir/chatnoir.html\n\nBig Thx to Gamer-D for the graphics!\n\nUsed libraries:\n- GRRLIB\n- Freetype\n\nChat Noir Wii is released under the GNU General Public License v2.\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/ChatNoirWii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

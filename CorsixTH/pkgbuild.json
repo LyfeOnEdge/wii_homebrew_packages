@@ -1,0 +1,20 @@
+{
+    "package": "CorsixTH",
+    "info": {
+        "title": "Corsix-TH",
+        "author": "tueidj",
+        "category": null,
+        "version": "Beta",
+        "url": null,
+        "license": null,
+        "description": "Corsix-TH",
+        "details": "Wii port of Corsix-TH"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/CorsixTH/icon.png",
+            "type": "icon"
+        }
+    ]
+}

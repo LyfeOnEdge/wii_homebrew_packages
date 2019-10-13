@@ -1,0 +1,20 @@
+{
+    "package": "Wire3DDemo",
+    "info": {
+        "title": "Wire3D: Demo",
+        "author": "antibyte",
+        "category": null,
+        "version": "1.2",
+        "url": null,
+        "license": null,
+        "description": "Fly-through of a 3d scene",
+        "details": "Wire3D is an object oriented, multiplatform 3D engine written in C++ supporting Wii and Windows (DirectX). For further details visit:\n  \n  wire3d.googlecode.com"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Wire3DDemo/icon.png",
+            "type": "icon"
+        }
+    ]
+}

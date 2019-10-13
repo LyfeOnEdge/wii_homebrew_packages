@@ -1,0 +1,20 @@
+{
+    "package": "mplayer_ce",
+    "info": {
+        "title": "MPlayer CE",
+        "author": "MPlayer CE Team",
+        "category": null,
+        "version": "0.80 r658",
+        "url": null,
+        "license": null,
+        "description": "Wii Media Player",
+        "details": "Homebrew media player for the Nintendo Wii.\t\n\nMPlayer CE Team\n Scip, rodries, AgentX, DJDynamite123, \n Tantric, Extrems.\n\nhttp://mplayer-ce.googlecode.com/\n\nMPlayer Wii port \u00a9 Team Twiizers,\nused code \u00a9 MPlayerWii[rOn], GeeXboX,\ntipolosko, Ludovic Orban, hax, Shareese,\nDennisLKJ, denper, Dimok, Joedj.\nBackground video \u00a9 Blue_K"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/mplayer_ce/icon.png",
+            "type": "icon"
+        }
+    ]
+}

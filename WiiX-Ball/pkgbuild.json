@@ -1,0 +1,20 @@
+{
+    "package": "WiiX-Ball",
+    "info": {
+        "title": "WiiX-Ball",
+        "author": "KMS",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Breakout for the Wii",
+        "details": "This game is based on and dedicated to the fans of the well-known breakout game DX-Ball for the PC.\nPoint the Wii remote on the screen to move the paddle and press A or B to fire the ball. Up to 4 players can control the game at the same time. \n\nProgrammed by Kirill M.\n\nGraphics and effects:\nKirill M.\nMichael P. Welch\nSeumas McNally\n\nMusic:\nSpace Debris by captain\nTeam Haze Chiptune by dubmood\nCandy Coast by Wiklund & Nyhlin\n\nPlease visit www.KMSZone.com"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/WiiX-Ball/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "ConsoleShooter",
+    "info": {
+        "title": "Console Shooter",
+        "author": "BigBoss",
+        "category": null,
+        "version": "Beta 2",
+        "url": null,
+        "license": null,
+        "description": "Console Shooter",
+        "details": "Console Shooter"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/ConsoleShooter/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "BlisterBall",
+    "info": {
+        "title": "BlisterBall",
+        "author": "Jon Conrad",
+        "category": null,
+        "version": "1",
+        "url": null,
+        "license": null,
+        "description": "Remake of Apple][ Blisterball",
+        "details": "This is a remake of the much loved BlisterBall for the Apple ][ computer."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/BlisterBall/icon.png",
+            "type": "icon"
+        }
+    ]
+}

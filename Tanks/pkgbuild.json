@@ -1,0 +1,20 @@
+{
+    "package": "Tanks",
+    "info": {
+        "title": "Tanks",
+        "author": "Grillo",
+        "category": null,
+        "version": "0.1b",
+        "url": null,
+        "license": null,
+        "description": "Tanks for Wii",
+        "details": "Tank Battle game similar to the one that comes with WiiPlay\nThis version is a beta, use it under your own risk, I'm not responsible if there is something wrong with your wii after using this"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Tanks/icon.png",
+            "type": "icon"
+        }
+    ]
+}

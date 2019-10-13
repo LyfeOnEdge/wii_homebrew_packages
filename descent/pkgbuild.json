@@ -1,0 +1,20 @@
+{
+    "package": "descent",
+    "info": {
+        "title": "Descent",
+        "author": "tueidj",
+        "category": null,
+        "version": "v1.10",
+        "url": null,
+        "license": null,
+        "description": "Descent for Wii",
+        "details": "Descent is a highly advanced first person shooter boasting six degrees of freedom. One of the few games in its class to allow the player full freedom in moving up and down, left and right, backwards and forwards. Players control a ship as they move through levels in both single player and multiplayer modes, using a wide variety of both energy cannons and missiles to defeat opponents."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/descent/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "Wolfenstein_3D_Wii",
+    "info": {
+        "title": "Spear of Destiny",
+        "author": "MrPeanut",
+        "category": null,
+        "version": "1.31",
+        "url": null,
+        "license": null,
+        "description": "Spear of Destiny for the Wii",
+        "details": "Spear of Destiny ported to the Wii from the original releases for SNES, PC and Gameboy Advance."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Wolfenstein_3D_Wii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

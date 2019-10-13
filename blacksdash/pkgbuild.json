@@ -1,0 +1,20 @@
+{
+    "package": "blacksdash",
+    "info": {
+        "title": "Black's Dash (WII)",
+        "author": "BlackWhiteEagle (Matz3)",
+        "category": null,
+        "version": "1.86",
+        "url": null,
+        "license": null,
+        "description": "Black's Dash (WII)",
+        "details": "\n\tBlack's Dash v1.86 - A Boulder Dash Clone WITH A MAPEDITOR/CONVERTER!!!\n\t\n\tUp to 4 Players can play this game.\n\tGamemodes are SINGLEPLAYER/VS,COOP,SPEEDRUN and RACE\n\t\n\tRewritten, extremly enhanced and ported to the WII by BlackWhiteEagle (Matz3)\n\t\n\tThis release includes the blackdash.exe for win32 systems and the needed SDL/DLL librarys\n\tand the blacksdash for linux systems(SDL must be installed take a look at readme.txt!)\n\t\n\tThanks to everyone, who made this programming possible\n\tmarcan, bushing, devkitpro, sdl,sdl-port for the wii, an a big thanks goes to Michal B. with a source code inspiration.\n\tAnd a really big thanks goes to my big beta tester BlackCat!\n\t\n\tCHANGELOG:\nBlacksDash by Blackwhiteeagle\n\n\n1.81-1.86\nhighscorefile for each gamemode\nbomberdash: ITEM: invulnerable (for some seconds)\nplayer looses points if he dies...\nbetatests, bugfixes, small changes and release...\n\n1.80\nbomerman items/levelups(maxbombs at the same time, bombrange)\nput bombs with one pressed key immediately while walking\nteleporting bombs\nitemgraphics\nsome bombermanmaps\n\n1.79\nNEW GAMEMODE: BOMBERDASH\nbomberdash own bombexplosion score system for each player\nbomberdash item levelup\n\n1.78\nbomb explosion with range detectionsystem (explosion blocked by wall, stopped by an item, etc.)\n\n1.77\nrewritten debug, devoptions, etc.\n\n1.76\nplayer loose one point if dead\nactive bombs cannot be collected - bombermanstyle =)\n\n1.75\nhighscore for map and whole mappackage (coop/versus only)\n\n1.74\ndiamonds with random color/playercolor\n\n1.73\nadded bombs\nadded itemlist(pickup/put bombs, diamonds)\nextended mapconverter/tileset with bombs\n\n1.72 mapconverter.py: added gzip compatibility for linux\n\n1.71 ...so many changes...\n\ncodecleanup\nbetter logic and graphics\nnew textures, transparency, music, sound/music volume\nadded stonegenerator, diamondgenerator, teleporters(from a to b), mower(blocker)\nteleporters teleport only if destination is free\nteleporters automatically teleporting objects back after 5 seconds\nadded levelfileparam (leveldesigner)\nmapinfo\nsave/load configfile\nplayernames\nbetter scoreboard\ngame is resizable under win/linux (windowed and fullscreen!) (wii has fixed resolution 640x448)\ntextboxes with border\nextended mapconverterscript\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/blacksdash/icon.png",
+            "type": "icon"
+        }
+    ]
+}

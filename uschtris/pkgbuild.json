@@ -1,0 +1,20 @@
+{
+    "package": "uschtris",
+    "info": {
+        "title": "uschtris",
+        "author": "uschghost",
+        "category": null,
+        "version": "v1.0",
+        "url": null,
+        "license": null,
+        "description": "Tetris clone with some little twists",
+        "details": "Hi all.\n\nThis is my entry to the \"teh skeen Wii coding competition\".\nIt\u00b4s a simple tetris clone but with some twists.\n\ncontrol:\nHold the wiimote horizontale [+ -- oo]\n\nPress start on the titlescreen to start the game.\n\nPress A to switch the curent block with the next one.\nHold B to increase the horizontal moving speed of the current block.\n1 and 2 rotates the block.\nyou can return to the loader at any time by pressing the \"Home\" button.\n\nthx to everyone involved in the Wii scene.\n\nEnjoy =)"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/uschtris/icon.png",
+            "type": "icon"
+        }
+    ]
+}

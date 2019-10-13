@@ -1,0 +1,20 @@
+{
+    "package": "InspectMii",
+    "info": {
+        "title": "InspectMii",
+        "author": "JoostinOnline",
+        "category": null,
+        "version": "v1.1",
+        "url": null,
+        "license": null,
+        "description": "Shows dozens of your Wii settings",
+        "details": "Intended as a companion app to SysCheck, InspectMii shows and logs every single significant setting on your Wii. It is especially useful if you are looking for any conflicting or potentially problematic settings.  Info is grabbed from SYSCONF, dhcp.dat, and setting.txt.  It is compatible with the vWii.\n\nCredit goes to Coto for the app title."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/InspectMii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

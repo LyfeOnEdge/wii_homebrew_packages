@@ -1,0 +1,20 @@
+{
+    "package": "tailtale",
+    "info": {
+        "title": "TailTale\n\t\t",
+        "author": "\n\t\t\trerofumi, ported by Rikku2000\n\t\t",
+        "category": null,
+        "version": "\n\t\t\t1.0\n\t\t",
+        "url": null,
+        "license": null,
+        "description": "\n\t\t\tDoujin puzzle game\n\t\t",
+        "details": "\n\t\t\tA fun game where you move blocks around.\n\t\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/tailtale/icon.png",
+            "type": "icon"
+        }
+    ]
+}

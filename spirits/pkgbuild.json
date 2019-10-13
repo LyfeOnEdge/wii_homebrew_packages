@@ -1,0 +1,20 @@
+{
+    "package": "spirits",
+    "info": {
+        "title": "Spirits",
+        "author": "M.A Software",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Spirits",
+        "details": "\nAYUDA AL MAGO A VENCER A AQUEL QUE NO\nDEBE NOMBRARSE Y LIBERAR AL CABALLERO\nLA PRINCESA, ASI COMO A LOS POBRES\nHECHIZADOS DEL BRUJO...\n\nHola a todos..\nOs presento el Remake de este genial juego\nde los a\u00f1os 80 para Wii.\n\nEspero que disfruteis con este juego..\n\nEl juego es totalmente gratuito y los fuentes \nest\u00e1n disponibles desde la web: \nhttp://www.masoftware.es\n\nNo me hago responsable de nada, je, je, esto lo \nhe hecho por divertirme y sin ning\u00fan \u00e1nimo de \nlucro.\n\nSi detectais fallos, por favor avisadme.\n\nSaludos a todos y mucha suerte con el juego.\n\n-------------------------------------------\nMiguel Angel Jimenez Santana (M.A Software)\nE-mail: masoftware@terra.es\nWeb: http://www.masoftware.es\n-------------------------------------------\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/spirits/icon.png",
+            "type": "icon"
+        }
+    ]
+}

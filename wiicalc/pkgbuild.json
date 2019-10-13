@@ -1,0 +1,20 @@
+{
+    "package": "wiicalc",
+    "info": {
+        "title": "WiiCalc",
+        "author": "PaceMaker",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "WiiCalc - the first Wii Calculator.",
+        "details": "\nName:\n\tWiiCalc.\nVersion:\n\t0.1\nObjective:\n\tCalculate.\n\tPoint at the buttons with the Wii Remote and use (A) to select the button.\n\tCan you find the two easter eggs?\nControls:\n\tA - Push the buttons.\n\tHome Button - Return to Loader\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiicalc/icon.png",
+            "type": "icon"
+        }
+    ]
+}

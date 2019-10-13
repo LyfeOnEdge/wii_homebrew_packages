@@ -1,0 +1,20 @@
+{
+    "package": "dmp",
+    "info": {
+        "title": "DragonMedia Player",
+        "author": "DragonMinded",
+        "category": null,
+        "version": "0.25 Alpha",
+        "url": null,
+        "license": null,
+        "description": "Media player for your Wii.",
+        "details": "A media player for the Wii which allows for audio playback from SD, USB or Samba shares."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/dmp/icon.png",
+            "type": "icon"
+        }
+    ]
+}

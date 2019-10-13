@@ -1,0 +1,20 @@
+{
+    "package": "PONG",
+    "info": {
+        "title": "PONG",
+        "author": "PaRaDoX",
+        "category": null,
+        "version": "1.1",
+        "url": null,
+        "license": null,
+        "description": "PONG for Wii",
+        "details": "This is a VERY simple game of PONG for Wii. Created from zero, it's not a port of any kind. Move the left bar with Wiimote 1, and the right one with Wiimote 2. Press PLUS to open pause the game."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/PONG/icon.png",
+            "type": "icon"
+        }
+    ]
+}

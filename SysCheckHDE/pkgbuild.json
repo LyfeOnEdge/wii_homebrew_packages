@@ -1,0 +1,20 @@
+{
+    "package": "SysCheckHDE",
+    "info": {
+        "title": "TONG!",
+        "author": "penduinbits",
+        "category": null,
+        "version": "1.2",
+        "url": null,
+        "license": null,
+        "description": "Tetris meets Pong",
+        "details": "Tetris and Pong, in the same place, at the same time.  Enjoy lots of customizable gameplay options, and plenty of great music!  Play using the Wii Remote held sideways (NES-style).  Control the tetrads with +, 1 and 2, tilt to move the paddles."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/SysCheckHDE/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "mame",
+    "info": {
+        "title": "SDL MAME Wii",
+        "author": "Toad King + MAME Team",
+        "category": null,
+        "version": "0.4 (MAME 0.135)",
+        "url": null,
+        "license": null,
+        "description": "Arcade Emulation",
+        "details": "This is a port of MAME for the Wii. Unlike the previous SDL MAME for the Wii, this is not based on Wii Linux. Please note that although many games work well with the emulator, others may not work at all. Please read the README for details."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/mame/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "calibrator",
+    "info": {
+        "title": "Calibrator",
+        "author": "Extrems",
+        "category": null,
+        "version": "1.0.1",
+        "url": null,
+        "license": null,
+        "description": "Calibration assistant",
+        "details": "Calibrator displays test patterns recognized by DScaler to assist with the calibration of capture devices."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/calibrator/icon.png",
+            "type": "icon"
+        }
+    ]
+}

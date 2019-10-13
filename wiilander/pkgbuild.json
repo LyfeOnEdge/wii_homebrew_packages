@@ -1,0 +1,20 @@
+{
+    "package": "wiilander",
+    "info": {
+        "title": "WiiLander",
+        "author": "Manny",
+        "category": null,
+        "version": "0.59",
+        "url": null,
+        "license": null,
+        "description": "Land your ship using wiimote",
+        "details": "\nv0.59 \nDiscover the secret word, landing on all the bases.\n\nThe object of WiiLander is to successfully land your little spacecraft in various places on the planet surface before you run out of fuel. Crashing your lander costs you fuel making it harder to complete your goal.\n\nYou control your lander by holding your Wiimote horizontally while tilting and twisting it. Tilting left or right steers your lander while twisting forward and backward controls your speed. Gravity also plays a role so you need to use just the right amount of power to land safely.\n\nHome  return to the HBC\nA\trestart the game\n\n\nCredits\nThank you to all the following:\n\nPETE_TORETE FOR THE HBC ICON\n\nNASA FOR THE IMAGES\nHERMES  FOR THE SNDLIB\nMJBAUER95 FOR THE LIBMII\nWPLAZ FOR THE TIMING ROUTINES\nNONAMENO-CRAYON FOR GRRLIB 4.0\nHERMES, FOR HIS GREAT WII CODE TUTORIAL AND FOR HIS HELP!!\n\n\n\nLibs\nGRRLib - Sndlib - libmii -pnglib -wiiuse\n\nand all other devs who helped on these and all libs used by these libs\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiilander/icon.png",
+            "type": "icon"
+        }
+    ]
+}

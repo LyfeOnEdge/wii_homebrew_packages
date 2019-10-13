@@ -1,0 +1,20 @@
+{
+    "package": "Rebooter",
+    "info": {
+        "title": "Rebooter",
+        "author": "SquidMan",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Reboot your Wii",
+        "details": "\nMade by SquidMan and thanks to hell_hibou who wrote the code!\n\nRequires:\n\n    * SD card\n    * Way of loading the ELF file (Twilight Hack, etc)\n    * GameCube controller \n\nLoad the ELF file as needed in order to reboot.\n\n    * Press Z to return to the loader. GameCube Z Button\n    * Press R to reboot. GameCube R Trigger.\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Rebooter/icon.png",
+            "type": "icon"
+        }
+    ]
+}

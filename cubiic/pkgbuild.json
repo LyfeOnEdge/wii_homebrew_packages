@@ -1,0 +1,20 @@
+{
+    "package": "cubiic",
+    "info": {
+        "title": "Cubiic",
+        "author": "Koopa",
+        "category": null,
+        "version": "0.1a2",
+        "url": null,
+        "license": null,
+        "description": "Puzzle Game",
+        "details": "\nRubik's cube for the Wii.\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/cubiic/icon.png",
+            "type": "icon"
+        }
+    ]
+}

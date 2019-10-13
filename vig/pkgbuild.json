@@ -1,0 +1,20 @@
+{
+    "package": "vig",
+    "info": {
+        "title": "Vigoroth le livreur",
+        "author": "Blabla (Or GameBlabla)",
+        "category": null,
+        "version": "1.21",
+        "url": null,
+        "license": null,
+        "description": "Livrez les colis !",
+        "details": "Aidez Vigoroth \u00e0 livrer les colis chez les personnes , faire\ndes kilom\u00e8tres en camion , aidez les tueurs en serie \u00e0 vider leur poubelles\net proteger les colis des oiseaux sauvages.\nIl y a 4 mini-jeux disponible , amusez-vous bien !\nCompil\u00e9 pour Wii par beredezebe. Merci \u00e0 lui !\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/vig/icon.png",
+            "type": "icon"
+        }
+    ]
+}

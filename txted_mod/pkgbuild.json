@@ -1,0 +1,20 @@
+{
+    "package": "txted_mod",
+    "info": {
+        "title": "txtEd Mod",
+        "author": "Freigeist",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Text Editor",
+        "details": "This is a Mod of TxtEd.\n\tControls: point and click to select file or use keyboard. dpad: RIGHT moves cursor foward fast, LEFT moves cursor back one space, DOWN advances screen one page, UP returns to start of file."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/txted_mod/icon.png",
+            "type": "icon"
+        }
+    ]
+}

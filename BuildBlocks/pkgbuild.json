@@ -1,0 +1,20 @@
+{
+    "package": "BuildBlocks",
+    "info": {
+        "title": "Build Blocks",
+        "author": "Poklik",
+        "category": null,
+        "version": "0.2",
+        "url": null,
+        "license": null,
+        "description": "Sandbox Game",
+        "details": "3D sandbox game with blocks!\nUp to 4 wii remotes supported.\nControls:\n   home : show/hide menu,\n   A : zoom in/place block,\n   B : rotate camera,\n   - : remove block,\n   + : quick place block (without zooming),\n   down : zoom out,\n   left/right : select block color,\n   2 : screenshot (with GUI),\n   up : toggle debug messages (and FPS counter).\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/BuildBlocks/icon.png",
+            "type": "icon"
+        }
+    ]
+}

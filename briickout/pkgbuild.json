@@ -1,0 +1,20 @@
+{
+    "package": "briickout",
+    "info": {
+        "title": "Briickout",
+        "author": "BHSPitMonkey",
+        "category": null,
+        "version": "0.2",
+        "url": null,
+        "license": null,
+        "description": "Simple Breakout clone",
+        "details": "\nBreak the bricks!\n\nFunctionality is very basic right now. No power-ups yet, infinite lives.\n\nControls:\n\nHold remote sideways to play.\n(D-pad) Move\n(2) Spawn a new ball\n(+) Pause\n(Home) Exit to loader\n\nChangelog:\n\nVersion 0.2:\n - Sexy new graphics\n - Visual ball spin effect\n - Pause functionality\n - Ball waits for user input before appearing\n - Code cleanup\n \nVersion 0.1:\n - Initial release\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/briickout/icon.png",
+            "type": "icon"
+        }
+    ]
+}

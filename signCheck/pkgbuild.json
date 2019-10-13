@@ -1,0 +1,20 @@
+{
+    "package": "signCheck",
+    "info": {
+        "title": "signCheck",
+        "author": "The Lemon Man",
+        "category": null,
+        "version": "0.3b",
+        "url": null,
+        "license": null,
+        "description": "IOS sanity check",
+        "details": "Features new in 0.3 :\n\n[*] Now analyze any ios present on the wii\n[+] Output a csv report of the wii ios set\n[+] Usb2, boot2 and flash access test\n\nFor complaints, bitching or compliments contact me on #wiihelp or #HACKERCHANNEL (EFNET)\nor on www.nextrl.it if you are italian :3\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/signCheck/icon.png",
+            "type": "icon"
+        }
+    ]
+}

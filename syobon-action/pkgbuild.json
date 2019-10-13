@@ -1,0 +1,20 @@
+{
+    "package": "syobon-action",
+    "info": {
+        "title": "Syobon Action",
+        "author": "Scognito",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Syobon Action for Wii",
+        "details": "This is the Wii port of the famous game released for PC."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/syobon-action/icon.png",
+            "type": "icon"
+        }
+    ]
+}

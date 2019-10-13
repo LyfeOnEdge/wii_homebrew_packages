@@ -1,0 +1,20 @@
+{
+    "package": "wiiwars",
+    "info": {
+        "title": "WiiWars",
+        "author": "ichfly",
+        "category": null,
+        "version": "0.06 Beta",
+        "url": null,
+        "license": null,
+        "description": "A round-based tactics game",
+        "details": "Wiiwars is a tactical game which is still in a very early stage of development. Later in time, you will be able to choose more maps, more units, classes of units, buildings and you'll even be able to use plugins and extensions for the game"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/wiiwars/icon.png",
+            "type": "icon"
+        }
+    ]
+}

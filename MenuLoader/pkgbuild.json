@@ -1,0 +1,20 @@
+{
+    "package": "MenuLoader",
+    "info": {
+        "title": "Wii Menu Loader",
+        "author": "Team Twiizers",
+        "category": null,
+        "version": "0.5",
+        "url": null,
+        "license": null,
+        "description": "Wii Menu Custom Bootloader",
+        "details": "A simple program that reboots the Wii with a custom setup.\nOptions Include:\n* Debugging Mode (via USBGecko) \n* RegionFree Mode for Wii Channels \n* RegionFree Mode for Wii and Gamecube discs \n* No Music in the Wii Menu \n* IOS selection to choose any version of the Wii system menu.\n* Improved RegionFree Compatibility"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/MenuLoader/icon.png",
+            "type": "icon"
+        }
+    ]
+}

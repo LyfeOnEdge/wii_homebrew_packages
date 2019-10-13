@@ -1,0 +1,20 @@
+{
+    "package": "teetertorture",
+    "info": {
+        "title": "Teeter Torture",
+        "author": "MiniK",
+        "category": null,
+        "version": "2005-10-18",
+        "url": null,
+        "license": null,
+        "description": "Galaga clone with a twist!",
+        "details": "Teeter Torture is a simple shooting game (similar to \"Space Invaders\", \"Galaga\" or \"Galaxian\"), but with a unique twist. Your cannon is sitting atop a teeter totter. If it leans too far in either direction, a barrel of TNT explodes! \"Weight monsters\" appear at the top of the screen, and randomly fall towards the teeter totter. If they attach to it, they'll weigh it down, making it more difficult to keep it balanced. (If they hit the cannon, it explodes and you lose a life.)"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/teetertorture/icon.png",
+            "type": "icon"
+        }
+    ]
+}

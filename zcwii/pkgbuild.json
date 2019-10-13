@@ -1,0 +1,20 @@
+{
+    "package": "zcwii",
+    "info": {
+        "title": "Zelda Classic 1.90 Wii via DosBOX",
+        "author": "Armageddon Games",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "ZC running on DosBOX",
+        "details": "Port of DOSBox to the Wii that runs ZC. You will need a keyboard to play this! http://armageddongames.net http://dproj.net.tf"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/zcwii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "toddtris",
+    "info": {
+        "title": "toddtris",
+        "author": "toddy",
+        "category": null,
+        "version": "1.2",
+        "url": null,
+        "license": null,
+        "description": "1-2 player tetris-like game",
+        "details": "\nHold the wiimotes sideways or use a classic controller \n\nWiimote keys are:\n1 - rotate anticlockwise / back in menu screens\n2 - rotate clockwise / select in menu screens\ndown - soft drop\nA, up* - hard drop\n+ - toggle ghost \nhome - pause\n\nClassic controller keys are:\nB - rotate anticlockwise / back in menu screens\nA - rotate clockwise / select in menu screens\ndown - soft drop\nL, R, ZL, ZR, up* - hard drop\nX - toggle ghost \nhome, -, + - pause\n\nCopyright 2009 - 2012, released under Gnu Public Licence v3.\n\nCredits:\nCode: Toddy\nSoundtrack: Pete\nBuilt using devkitPro and GRRLib 4.3.2\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/toddtris/icon.png",
+            "type": "icon"
+        }
+    ]
+}

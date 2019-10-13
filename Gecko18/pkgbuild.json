@@ -1,0 +1,20 @@
+{
+    "package": "Gecko18",
+    "info": {
+        "title": "Gecko",
+        "author": "brkirch",
+        "category": null,
+        "version": "1.9.3.1 Gecko",
+        "url": null,
+        "license": null,
+        "description": "Gecko OS 1.9.3.1",
+        "details": "Gecko OS 1.9.3.1. See Readme\n  \nControls: Use Wii Remote D-Pad, Gamecube Pad or Classic Controller Pad. Region Free options can be set with the config menu before launching the game. \n  \nUSB Gecko is only required if using WiiRD.\n  \nCheck wiird.l0nk.org/forum for support on WiiRD and Gecko.\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Gecko18/icon.png",
+            "type": "icon"
+        }
+    ]
+}

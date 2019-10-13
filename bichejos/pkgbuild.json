@@ -1,0 +1,20 @@
+{
+    "package": "bichejos",
+    "info": {
+        "title": "Bichejos",
+        "author": "nozintusei",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "kill the bichejos",
+        "details": "\nYou have to save the world.\n\nControls:\nUse the wiimote to shoot the bichejos \n(using A or B).\n\n+ : returns to the menu\nHOME : exits the game... why?!\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/bichejos/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "smashing",
+    "info": {
+        "title": "Smashing!",
+        "author": "Warpfish",
+        "category": null,
+        "version": "2.0",
+        "url": null,
+        "license": null,
+        "description": "Wii Arcade Shooter",
+        "details": "Smashing! Is a rather posh 3D arcade shooter by warpfish for the wii. \n\t\t\nFor more information on this and future releases please visit www.warpfish.co.uk\n\nEnjoy!\n\t\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/smashing/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "TrailBlazers",
+    "info": {
+        "title": "TRAILBLAZER",
+        "author": "Nuance & G*P",
+        "category": null,
+        "version": "Revision Party Version",
+        "url": null,
+        "license": null,
+        "description": "Squares. Ball. And stuff.",
+        "details": "Thundering into the unknown at breakneck speed, are you agile enough to negotiate the perils? Roll left and right to avoid the cracks but be careful not to fall off the edge of the path as you go. Be sure to identify and avoid the squares which will either speed you up or make you jump automatically. Keep a careful eye on the clock as the more time you have left at the end of each level, the more bonus time you will be awarded."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/TrailBlazers/icon.png",
+            "type": "icon"
+        }
+    ]
+}

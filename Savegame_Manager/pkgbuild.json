@@ -1,0 +1,20 @@
+{
+    "package": "Savegame_Manager",
+    "info": {
+        "title": "Savegame Manager",
+        "author": "Waninkoko",
+        "category": null,
+        "version": "r79",
+        "url": null,
+        "license": null,
+        "description": "Savegame Manager r79",
+        "details": "Savegame Manager is an application that allows you to extract/install savegames on your Wii. It supports games that cannot be copied using the System Menu's Data Management.\nCompiled by wiisixtyfour"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Savegame_Manager/icon.png",
+            "type": "icon"
+        }
+    ]
+}

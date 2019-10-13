@@ -1,0 +1,20 @@
+{
+    "package": "MyLittleBall",
+    "info": {
+        "title": "MyLittleBall",
+        "author": "PineCone",
+        "category": null,
+        "version": "1.0.1",
+        "url": null,
+        "license": null,
+        "description": "Guide the ball up and up!",
+        "details": "\nBe the ball. Holding it 'normally' (i.e: pointing to the screen) rotate the WiiMote left and right to control the aspiring little ball up and up and up! See how many points you can get, then challenge your friends, family, secret lovers, teachers and co-workers!\nDon't forget to bring a towel.....\n\nChangelog:\n---v1.0.1---\nDate Released: 06/03/09\n- 2 player mode! Features:\n|- Starts automatically when 'B' is pressed in gameplay\n|- Point at screen and drop bombs on Ball!\n- Removed some debugging information\n- Made 'cheating' nearly impossible\n- Basic framework for internationalisation, but alternative languages not yet supported.\n- Added some translations to XML description\n- Sound effects finally implemented\n- 'Falling platforms' animation added\n- Used a GRRLIB fix to strange images appearing on start-up\n- Optimization on storing high scores\n\n---v1.0.0---\nDate Released: 08/02/09\n- Graphical overhaul, courtesy of SpriteAttack\n- Added tamper-proof highscoring\n- Bugfixes\n- General gameplay improvements\n- Added music track\n- Made 'cheating' slightly harder\n\n---v0.0.1---\nDate Released: 21/01/09\n- Initial Release\n\nNOTE ON TRANSLATIONS:\nThanks to everyone who added XML file translations for MyLittleBall. Unfortunately, it seems the HBC does not support many of the accented characters in your translations. Also, at this time, there are no in-game translations. More information on this can be found on the wiki page.\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/MyLittleBall/icon.png",
+            "type": "icon"
+        }
+    ]
+}

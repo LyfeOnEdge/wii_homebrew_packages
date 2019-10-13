@@ -1,0 +1,20 @@
+{
+    "package": "GuitarsOnFire",
+    "info": {
+        "title": "GuitarsOnFire",
+        "author": "Daid",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Guitar Hero Clone",
+        "details": "This is a Guitar Hero clone made specialy for the Wii. Make use of FretsOnFire compattible songs."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/GuitarsOnFire/icon.png",
+            "type": "icon"
+        }
+    ]
+}

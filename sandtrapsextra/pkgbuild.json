@@ -1,0 +1,20 @@
+{
+    "package": "sandtrapsextra",
+    "info": {
+        "title": "Sand Traps - Level pack",
+        "author": "Chase Uherek",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Extra levels for the Sand Traps game",
+        "details": "Requires the original Sand Traps game to be installed"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/sandtrapsextra/icon.png",
+            "type": "icon"
+        }
+    ]
+}

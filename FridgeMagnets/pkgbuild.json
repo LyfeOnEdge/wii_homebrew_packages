@@ -1,0 +1,20 @@
+{
+    "package": "FridgeMagnets",
+    "info": {
+        "title": "Fridge Magnets",
+        "author": "Paul Overy",
+        "category": null,
+        "version": "v0.34",
+        "url": null,
+        "license": null,
+        "description": "Wii Fridge Magnets Game",
+        "details": "Move magnetic letters about, bit of fun and learning for children\nUp to 4 Controllers: \nShake Wiimote to shake letters\nScroll view with direction buttons\n(A or B) Hold down to pick up\n(A and B)  Drop new Letter\n(1)      Remove highlighted letter\n(2)      Pile up letters\n(-)/(+)  Change camera view zoom\n(Home)   Back to Homebrew Channel"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/FridgeMagnets/icon.png",
+            "type": "icon"
+        }
+    ]
+}

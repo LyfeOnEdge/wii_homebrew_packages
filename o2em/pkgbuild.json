@@ -1,0 +1,20 @@
+{
+    "package": "o2em",
+    "info": {
+        "title": "O2em",
+        "author": "Consolius",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Odyssey emu for the Wii",
+        "details": "Port of O2em to the Wii.\n\nCopy the application folder (o2em) in the \"apps\" directory of the SD card (HomeBrew channel directory structure).\nCreate a directory \"/roms/romsodd\" on the SD card\nPut all your roms (.bin or .zip) in that directory including the system rom (named \"o2rom.bin\") \nBoot the emulator from the HomeBrew Channel.\nSelect ROM and press the \"2\" button.\n\nPress: \n  \"HOME\"         to exit the emulator at anytime.\n  \"cursor keys\"  to navigate up/down/left/right.\n  \"button 2\"     to shoot (or whatever...)\n  \"plus\"         to invoke the emulated console's Keyboard/keyPad (press \"plus\" again to swap the joystick/keyPad number)\n                 and \"2\" button again to come back to the game and/or confirm the pad key press.\n  \"minus\"        to go back to the ROMs menu."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/o2em/icon.png",
+            "type": "icon"
+        }
+    ]
+}

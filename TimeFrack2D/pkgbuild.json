@@ -1,0 +1,20 @@
+{
+    "package": "TimeFrack2D",
+    "info": {
+        "title": "TimeFrack2D",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "shooter with time control",
+        "details": "Far from complete 2d shooter with time controls."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/TimeFrack2D/icon.png",
+            "type": "icon"
+        }
+    ]
+}

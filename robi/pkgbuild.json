@@ -1,0 +1,20 @@
+{
+    "package": "robi",
+    "info": {
+        "title": "Robi",
+        "author": "Copete23",
+        "category": null,
+        "version": "0.0",
+        "url": null,
+        "license": null,
+        "description": "auda a Robi a encontrar las capsulas",
+        "details": "En un accidente Robi ha perdido todas las capsulas de energia que habia estado recolectando, ahora han quedado esparcidas por todas partes."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/robi/icon.png",
+            "type": "icon"
+        }
+    ]
+}

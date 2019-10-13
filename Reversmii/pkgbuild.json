@@ -1,0 +1,20 @@
+{
+    "package": "Reversmii",
+    "info": {
+        "title": "Reversmii",
+        "author": "chris",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Othello",
+        "details": "Simple Othello game, with Miis.\n    \nv1.0 New graphics and themes, courtesy of SpriteAttack.\n    \ntoxicbreakfast.com\n\nTOX 013"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Reversmii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

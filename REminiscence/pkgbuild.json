@@ -1,0 +1,20 @@
+{
+    "package": "REminiscence",
+    "info": {
+        "title": "REminiscence",
+        "author": "BigS",
+        "category": null,
+        "version": "0.83",
+        "url": null,
+        "license": null,
+        "description": "FlashBack !!!",
+        "details": "You need to own an original version of Flashback to play. You will need the original files, here is the required list :\n\nFB_TXT.FNT GLOBAL.ICN GLOBAL.FIB GLOBAL.SPC *.OFF *.SPR *.MAP *.PAL *.ANI *.CT *.MBK *.OBJ *.PGE *.RP *.TBN *.CMD *.POL *CINE.*\n\nPut all of them in DATA directory. "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/REminiscence/icon.png",
+            "type": "icon"
+        }
+    ]
+}

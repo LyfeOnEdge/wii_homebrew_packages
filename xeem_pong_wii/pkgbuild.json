@@ -1,0 +1,20 @@
+{
+    "package": "xeem_pong_wii",
+    "info": {
+        "title": "XEEM PONG WII",
+        "author": "XeEmO",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "A one player pong game for the WII.",
+        "details": "A one player pong game for the WII.  Press HOME to exit.  Made with GRRLIB."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/xeem_pong_wii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

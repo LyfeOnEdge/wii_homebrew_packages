@@ -1,0 +1,20 @@
+{
+    "package": "PongYourWii",
+    "info": {
+        "title": "PongYourWii",
+        "author": "kanario92",
+        "category": null,
+        "version": "v1.00",
+        "url": null,
+        "license": null,
+        "description": "Version moderna de pong para wii",
+        "details": "\n\tJuega a pong en tu wii como nunca lo habias hecho antes.\n\tTotalmente hecho en LUA usando LuaFWii\n\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/PongYourWii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "maryo",
+    "info": {
+        "title": "Secret Maryo Chronicles",
+        "author": "Wiimpathy",
+        "category": null,
+        "version": "0.2",
+        "url": null,
+        "license": null,
+        "description": "platform game",
+        "details": "A port of Secret Maryo Chronicles to the Wii.\n  A Jump and Run game like Super Mario World with an advanced Editor.\n\n  HOW TO PLAY :\n  \n  WIIMOTE\n  * B:\t\tLoad level\n  * 1:\t\tShoot\n  * 2:\t\tJump\n  * -:\t\tItem\n  * +:\t\tLevel editor\n  * Home:\tMenu\n  * Dpad:   Run/Choose level\n\n  CLASSIC CONTROLLER\n  * A:\t\tJump\n  * B:\t\tJump\n  * X:\t\tShoot\n  * Y:\t\tShoot\n  * -:\t\tItem\n  * +:\t\tLevel editor\n  * Home:\tMenu\n  * ZL:\t\tLoad level\n  * Dpad:   Run/Choose level\n\n  CREDITS :\n\n  concept :\n  Project Leader: Florian Richter ( FluXy )\n\n  Programmers:\n  Code of old version Developer: Florian Richter ( FluXy )\n  Linux Compatibility: Thomas Huth ( Thothy )\n  http://www.secretmaryo.org/\n\n  New additional Code and bonus Developer: HunoPPC\n  OS4 port by Hugues Nouvel HunoPPC.\n  http://www.clubevolution4.com/HunoPortSDL/\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/maryo/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "asteroids",
+    "info": {
+        "title": "Asteroids",
+        "author": "Andy Sommerville",
+        "category": null,
+        "version": "2008.04.19",
+        "url": null,
+        "license": null,
+        "description": "Asteroids",
+        "details": "Wiimote support added by para.\nThis is a work in progress."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/asteroids/icon.png",
+            "type": "icon"
+        }
+    ]
+}

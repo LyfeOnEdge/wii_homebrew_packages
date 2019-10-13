@@ -1,0 +1,20 @@
+{
+    "package": "dvdinstl34",
+    "info": {
+        "title": "DVDx Installer 3.4",
+        "author": "svpe",
+        "category": null,
+        "version": null,
+        "url": null,
+        "license": null,
+        "description": "Allows DVDs to be played",
+        "details": "The DVDX installer will install a small, hidden, channel on your Wii that allows you to read DVDs on an unmodified system. Just follow the onscreen instructions to install. This version is for v3.4."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/dvdinstl34/icon.png",
+            "type": "icon"
+        }
+    ]
+}

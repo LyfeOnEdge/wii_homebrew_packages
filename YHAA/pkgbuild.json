@@ -1,0 +1,20 @@
+{
+    "package": "YHAA",
+    "info": {
+        "title": "YHAA!",
+        "author": "Lucas HUMBERT",
+        "category": null,
+        "version": "0.6",
+        "url": null,
+        "license": null,
+        "description": "WOUHOU!",
+        "details": "ALLEZ,GO,GO,GO!!!!!!\nWHOU!                 C'EST TROP FUN!\n\n.  .  .\n\nC'est quoi le texte d\u00e9j\u00e0?\n\nVisitez mon site:\nhttp://homerewssympas.unblog.fr/\nCa va peut-\u00eatre changer en:\nhttp://homebrewssympas.unblog.fr/"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/YHAA/icon.png",
+            "type": "icon"
+        }
+    ]
+}

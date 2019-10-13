@@ -1,0 +1,20 @@
+{
+    "package": "pong2",
+    "info": {
+        "title": "Pong2",
+        "author": "wplaat",
+        "category": null,
+        "version": "1.00",
+        "url": null,
+        "license": null,
+        "description": "PONG for Wii",
+        "details": "Pong2 is an open-source game based on the original pong game. This version have improve features. Paddle can be moved horizontal and vertical. Have 10 tracks of nice background music available. The player who first scores 10 points each level is the winner. \n\nSpecial thanks to my family for there support during the development"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/pong2/icon.png",
+            "type": "icon"
+        }
+    ]
+}

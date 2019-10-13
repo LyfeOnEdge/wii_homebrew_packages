@@ -1,0 +1,20 @@
+{
+    "package": "TickTockTankFight",
+    "info": {
+        "title": "TickTockTankFight",
+        "author": "ThatOtherPerson",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "Tank Fight",
+        "details": "A time based combat game with destructable walls.\n\nAuthor:\nThatOtherPerson (thatotherperson@yahoo.com)\nthatotherdev.wordpress.com\n\nBiosphere background music by Joshua Arambula \nhttp://www.jamendo.com/en/album/86257\n\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/TickTockTankFight/icon.png",
+            "type": "icon"
+        }
+    ]
+}

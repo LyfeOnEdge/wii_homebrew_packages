@@ -1,0 +1,20 @@
+{
+    "package": "mii-extractor",
+    "info": {
+        "title": "Mii Extractor",
+        "author": "Waninkoko",
+        "category": null,
+        "version": "1.1",
+        "url": null,
+        "license": null,
+        "description": "Extracts all the Miis from your Wii to a SD card",
+        "details": "Just run this application and all your Miis will be copied to the \"miis\" directory at the SD card."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/mii-extractor/icon.png",
+            "type": "icon"
+        }
+    ]
+}

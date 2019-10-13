@@ -1,0 +1,20 @@
+{
+    "package": "masteroids",
+    "info": {
+        "title": "Masteroids",
+        "author": "Feesh!",
+        "category": null,
+        "version": "0.4",
+        "url": null,
+        "license": null,
+        "description": "Multiplayer Asteroids",
+        "details": "\n\t\tMasteroids is a multiplayer Asteroids clone, letting you enjoy the \n\t\tclassic arcade title with up to 3 friends (4 player). Masteroids\n\t\tuses almost every controller available to the Wii.\n\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/masteroids/icon.png",
+            "type": "icon"
+        }
+    ]
+}

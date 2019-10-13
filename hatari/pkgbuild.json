@@ -1,0 +1,20 @@
+{
+    "package": "hatari",
+    "info": {
+        "title": "HataWii",
+        "author": "yohanes",
+        "category": null,
+        "version": "0.0.1",
+        "url": null,
+        "license": null,
+        "description": "Atari ST Emulator for Wii",
+        "details": "This is a port of Hatari, Atari ST Emulator. You will need to have a USB keyboard to use this application. Mouse is emulated using Wiimote."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/hatari/icon.png",
+            "type": "icon"
+        }
+    ]
+}

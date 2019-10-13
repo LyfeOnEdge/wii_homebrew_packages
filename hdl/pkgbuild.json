@@ -1,0 +1,20 @@
+{
+    "package": "hdl",
+    "info": {
+        "title": "Homebrew Disc Loader",
+        "author": "Sierradev",
+        "category": null,
+        "version": "0.3",
+        "url": null,
+        "license": null,
+        "description": "Load homebrew from disc",
+        "details": "Load homebrew applications from regular ISO9660 DVDs using this program.\nMake sure the programs are named boot.dol. You can have more than one program on a disc, just put them in different directories (subdirectories are allowed too). The program will display a menu with all programs on the disc. Add meta.xml (HBC-format) to the directories for friendly program names and descriptions.\n\t\nAuthor:\nSierradev (projects@sierradev.org) - www.sierradev.org\n\nThanks to: shagkur (DOL loading), joedj (pointing out ISO9660 devoptab), Duhow (betatester) and everyone on #wiidev!"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/hdl/icon.png",
+            "type": "icon"
+        }
+    ]
+}

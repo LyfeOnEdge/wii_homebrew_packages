@@ -1,0 +1,20 @@
+{
+    "package": "WiiVNC",
+    "info": {
+        "title": "WiiVNC",
+        "author": "PaulWagener",
+        "category": null,
+        "version": "1.3",
+        "url": null,
+        "license": null,
+        "description": "Control your computer",
+        "details": "Connect to a VNC server\n   \n   Controls:\n   A - Left click\n   B - Right click\n   plus minus - Zoom\n   D-pad - Move screen\n   2 - Keyboard\n   Home - Go back to Homebrew Channel"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/WiiVNC/icon.png",
+            "type": "icon"
+        }
+    ]
+}

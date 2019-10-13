@@ -1,0 +1,20 @@
+{
+    "package": "desert_bus",
+    "info": {
+        "title": "Desert Bus",
+        "author": "tueidj",
+        "category": null,
+        "version": "v1.04",
+        "url": null,
+        "license": null,
+        "description": "Driving VeriSimulator(tm)",
+        "details": "It's a bus. In a desert. Drive it from Tucson AZ to Las Vegas NV without running off the road. Turn around. Repeat ad infinitum."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/desert_bus/icon.png",
+            "type": "icon"
+        }
+    ]
+}

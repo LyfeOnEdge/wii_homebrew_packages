@@ -1,0 +1,20 @@
+{
+    "package": "TicTacToe",
+    "info": {
+        "title": "TicTacToe",
+        "author": "bmic",
+        "category": null,
+        "version": "1.0",
+        "url": null,
+        "license": null,
+        "description": "TicTacToe game",
+        "details": "\n\t\tTicTacToe (\"Jogo da Velha\" in portuguese) is casual game, i have used one old code of mine to make the AI. \n\t\tThis version used GRRLIB 3.0 optimized by me with fade in and out functions, and used others make by the comunitylike load png from a file and save the screen. \n\t\tHold the wiimote normaly to play and press the \"Home\" button to exit the game at any  time, in the intro i put a img explaining all the buttons used in the game.\n\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/TicTacToe/icon.png",
+            "type": "icon"
+        }
+    ]
+}

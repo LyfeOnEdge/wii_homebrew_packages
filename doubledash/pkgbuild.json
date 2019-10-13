@@ -1,0 +1,20 @@
+{
+    "package": "doubledash",
+    "info": {
+        "title": "DoubleDash (WII)",
+        "author": "BlackWhiteEagle (Matz3)",
+        "category": null,
+        "version": "1.23",
+        "url": null,
+        "license": null,
+        "description": "DoubleDash (WII)",
+        "details": "\n\tDoubleDash v1.23 - A Boulder Dash Clone WITH A MAPEDITOR/CONVERTER!!!\n\t\n\tUp to 4 Players can play this game.\n\tGamemodes are SINGLEPLAYER/VS,COOP,SPEEDRUN and RACE\n\t\n\tRewritten, extremly enhanced and ported to the WII by BlackWhiteEagle (Matz3)\n\t\n\tThis release includes the doubledash.exe for win32 systems and the needed SDL/DLL librarys (should also work with linux systems;wine/untested)\n\t\n\tThanks to everyone, who made this programming possible\n\tmarcan, bushing, devkitpro, sdl,sdl-port for the wii, an a big thanks goes to Michal B. with a source code inspiration.\n\tCHANGELOG:\n1.23\n*   ddashconvert.py lev2tmx and dummyxml.xml added DIAMNUM \n*   ddashconvert.py added a mapcheck (counts diamonds, boulders, entrys, etc.) during conversion and checks if there are enough diamonds, entrys and exits\n*   removed some levels from the vs/coop/speedrace maps, because similar leves are now in race/clone mode\n*   made some new maps for vs/coop/speedrace\nN*  made a working win32exe of ddasconvert.py with py2exe (windows tested and ok), but i did not included it because it raises the packagesize about +2.7MB!\n\n1.22\n*   (WII)levelrestart with first wiimote (A+B+1+2)\n*   gamemode: speedrun fix, if level was chosen manually ingame with PLUS*   MINUS, the EXIT was closed\n*   added menu arrows\nadded menu version number\n\n1.21\n*   fixed coop*   mode: collecting a diamond will be added to each player\n"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/doubledash/icon.png",
+            "type": "icon"
+        }
+    ]
+}

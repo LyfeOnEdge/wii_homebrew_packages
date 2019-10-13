@@ -1,0 +1,20 @@
+{
+    "package": "matching_cards",
+    "info": {
+        "title": "Matching Cards",
+        "author": "teknecal",
+        "category": null,
+        "version": "0.2",
+        "url": null,
+        "license": null,
+        "description": "Pair up all the cards",
+        "details": "Pair up all the cards before the time runs out to proceed to the next level.\nThere are 3 difficulties (easy, normal, hard) and 7 levels.\n\t\t\nUses the Wiimote Controller with IR.\n\nA Button = Select card\nPlus Button = Return to menu\nHome Button = Return to loader\n\nIf you need to correct your IR cursor in the game, use:\nUp Button = Y - 25\nDown Button = Y + 25\nLeft Button = X - 50\nRight Button = X + 50"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/matching_cards/icon.png",
+            "type": "icon"
+        }
+    ]
+}

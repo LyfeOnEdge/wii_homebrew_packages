@@ -1,0 +1,20 @@
+{
+    "package": "balls_of_steel",
+    "info": {
+        "title": "Balls of Steel",
+        "author": "EvilTroopa",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "Ballsy Plateforming Game",
+        "details": "I've got balls of steel. And I like to use 'em.\n\t\n\tUse the Wiimote NES-style to make your way through the level(s).\n\tD-Pad Left/Right : move the ball\n\tButton 2 : jump !\n\t\n\tMade by EvilTroopa and Olyfno\n\thttp://www.eviltroopa.com\n\thttp://www.olyfno.com\n\t"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/balls_of_steel/icon.png",
+            "type": "icon"
+        }
+    ]
+}

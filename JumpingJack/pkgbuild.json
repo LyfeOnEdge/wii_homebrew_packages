@@ -1,0 +1,20 @@
+{
+    "package": "JumpingJack",
+    "info": {
+        "title": "Jumping Jack",
+        "author": "Zalo",
+        "category": null,
+        "version": "0.9",
+        "url": null,
+        "license": null,
+        "description": "Jumping Jack for the Wii",
+        "details": "A new 3d version of the classic videogame for spectrum. Jump throught the gaps to the top floor and avoid the evil enemies. All the 21 levels with their hazards and the classic gameplay are finally remade."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/JumpingJack/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "timeless",
+    "info": {
+        "title": "Timeless",
+        "author": "David Ashley",
+        "category": null,
+        "version": "1.00",
+        "url": null,
+        "license": null,
+        "description": "Timeless screensaver",
+        "details": "Wii port of linux port of ancient Timeless hack by Tran"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/timeless/icon.png",
+            "type": "icon"
+        }
+    ]
+}

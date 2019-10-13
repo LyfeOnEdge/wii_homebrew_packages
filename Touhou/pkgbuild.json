@@ -1,0 +1,20 @@
+{
+    "package": "Touhou",
+    "info": {
+        "title": "Touhou Wii",
+        "author": "SquidMan",
+        "category": null,
+        "version": "0.1a",
+        "url": null,
+        "license": null,
+        "description": "Touhou Fangame for Wii",
+        "details": "A nice little Touhou Fangame using GRRLIB"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/Touhou/icon.png",
+            "type": "icon"
+        }
+    ]
+}

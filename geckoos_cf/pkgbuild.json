@@ -1,0 +1,20 @@
+{
+    "package": "geckoos_cf",
+    "info": {
+        "title": "Gecko OS",
+        "author": "Nuke",
+        "category": null,
+        "version": "1.07b GeckoOS",
+        "url": null,
+        "license": null,
+        "description": "Gecko OS 1.07b",
+        "details": "Gecko OS 1.07b. See Readme\n  \nControls: Use Wii Remote D-Pad or Gamecube Pad in the first port. Region Free options can be set with the config menu before launching the game. \n  \nUSB Gecko is only required if using WiiRD.\n  \nCheck www.usbgecko.com/forums for support on WiiRD and GeckoOS.\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/geckoos_cf/icon.png",
+            "type": "icon"
+        }
+    ]
+}

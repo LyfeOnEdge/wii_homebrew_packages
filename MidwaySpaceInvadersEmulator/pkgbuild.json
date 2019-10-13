@@ -1,0 +1,20 @@
+{
+    "package": "MidwaySpaceInvadersEmulator",
+    "info": {
+        "title": "Midway Space Invaders Emulator",
+        "author": "SoftDev",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "Arcade emulator",
+        "details": "With the return of classic titles like Space Invaders on today's consoles and handhelds, it's no surprise that even the homebrew scene wanted a piece of some of the old school action. In particular, developer Softdev created a Z80 emulator which exclusively plays a port of Midway's Space Invaders on the Nintendo Wii.\n\nMidway Space Invaders Emulator includes support for the GameCube functions on the console while emulating all the classic gameplay from the original title. It's basically broken up into two directories on you SD card - the wav folder containing the sound files and the roms folder which hold the rom files of the game.\n\nPlease note that the actual rom files (invaders.e, invaders.f, invaders.g, invaders.h) are not included with the program and should be downloaded from any of the popular MAME sites out there.\n\nFor more information, please make sure to check out the in-game documentation for details on how to install it properly onto your Wii console. You can also read up on the homebrew game's different controls by taking a look at the link found on the source link below."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/MidwaySpaceInvadersEmulator/icon.png",
+            "type": "icon"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "thpoker-wii",
+    "info": {
+        "title": "Texas Hold'em Poker Wii",
+        "author": "Eli Sherer",
+        "category": null,
+        "version": "0.11",
+        "url": null,
+        "license": null,
+        "description": "Texas Hold'em Poker Wii",
+        "details": "Texas Holde'm Poker for the wii using AI and maybe in the future network play (might be using wiiconnect) ."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/thpoker-wii/icon.png",
+            "type": "icon"
+        }
+    ]
+}

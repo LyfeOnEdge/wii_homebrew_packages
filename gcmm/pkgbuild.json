@@ -1,0 +1,20 @@
+{
+    "package": "gcmm",
+    "info": {
+        "title": "GCMM",
+        "author": "Suloku",
+        "category": null,
+        "version": "1.4c",
+        "url": null,
+        "license": null,
+        "description": "Memory Card Manager",
+        "details": "A memory card manager for Wii/GC.\n\nUpdated to latest libraries by PabloACZ\nBatch gci backup by Pikachu025\nBanner and Icon support by dronesplitter\nF-Zero and Phantasy Star Online support by Ralf\n\nThanks to original mcbackup example code, Askot, dsbomb and justb.\nSpecial thanks to Costis, Masken, Tantric and tueidj."
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/gcmm/icon.png",
+            "type": "icon"
+        }
+    ]
+}

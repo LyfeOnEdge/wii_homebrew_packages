@@ -1,0 +1,20 @@
+{
+    "package": "MusicPainter",
+    "info": {
+        "title": "Music Painter",
+        "author": "Mr. Reaper",
+        "category": null,
+        "version": "0.1",
+        "url": null,
+        "license": null,
+        "description": "Musical Doodling Toy",
+        "details": " \n  Point One or Two Wiimotes at the screen and \"paint music.\"\n  \n  B = Normal Pitch\n  A = Higher Pitch\n  -/+ Change Instrument\n  1/2 Change DrumTrack\n  "
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/MusicPainter/icon.png",
+            "type": "icon"
+        }
+    ]
+}

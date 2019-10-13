@@ -1,0 +1,20 @@
+{
+    "package": "DeSmuMEWii",
+    "info": {
+        "title": "DeSmuME Wii",
+        "author": "Many",
+        "category": null,
+        "version": "r185",
+        "url": null,
+        "license": null,
+        "description": "DeSmuME on Wii",
+        "details": "A port of the Nintendo DS emulator DeSmuME to the Nintendo Wii.\n\nWritten By: Arikado, scanff, firnis, and baby.lueshi"
+    },
+    "changelog": null,
+    "assets": [
+        {
+            "url": "wii.apps.fortheusers.org/packages/DeSmuMEWii/icon.png",
+            "type": "icon"
+        }
+    ]
+}
