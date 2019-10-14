@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<app version='1'>
+<name>Alien Puzzle Wii</name>
+<coder>GEMISIS</coder>
+<version>0.5</version>
+<release_date>200992</release_date>
+<short_description>An alien puzzle game!</short_description>
+<long_description>An alien puzzle game where you must get
+the highest score possible.  Each gem is
+worth one point.  Get to the end of the
+level teleporter to beat the level!</long_description>
+</app>

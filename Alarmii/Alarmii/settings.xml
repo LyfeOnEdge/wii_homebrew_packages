@@ -1,0 +1,6 @@
+<?xml version="1.0"?><alarmii><settings
+hourMode="0" tickNoise="1" alarmIsOn="0" alarmWasOn="0" alarmSetHour="12"
+alarmSetMinute="0" alarmSetSecond="1" alarmRemainHour="10"
+alarmRemainMinute="31" alarmRemainSecond="21" alarmIntervalHour="0"
+alarmIntervalMinute="10" alarmIntervalSecond="0" editingId="0"
+prevEditingId="0" /></alarmii>
