@@ -1,0 +1,89 @@
+author pages:
+	thatotherdev - http://thatotherdev.com/?s=explorer
+	"https://github.com/miguel28/PiipePaniic", 
+    "https://github.com/joedj/ftpii", 
+    "https://github.com/Wiimpathy/biniax", 
+    "https://github.com/wplaat/RedSquare", 
+    "https://github.com/BHSPitMonkey/liightsout",
+    "https://github.com/Izhido/QRevPAK", 
+    "https://github.com/Firnis/pcsx-revolution", 
+    "https://github.com/BHSPitMonkey/helii3d", 
+    "https://github.com/Tamentis/rezerwar", 
+    "https://github.com/PaulWagener/WiiEarth", 
+    "https://github.com/PaulWagener/WiiVNC", 
+    "https://github.com/wplaat/bibleQuiz", 
+    "https://github.com/rom#1/nwancat", 
+    "https://github.com/wplaat/SpaceBubble", 
+    "https://github.com/Suloku/gcmm"
+
+- Researched package sources:
+	ziip - https://github.com/cpages/ziip
+	zeldaRoth - http://www.zeldaroth.fr/ (no source)
+	zeRace - http://royale.zerezo.com/wii/, http://royale.zerezo.com/wii/zeRace-0.7-Wii.patch.bz2
+	zcwii - (NOT WII SOURCE, ORIGINAL) - https://github.com/ArmageddonGames/ZeldaClassic/releases
+	Yabause - none
+	WUFE (wii update file extractor) - https://gbatemp.net/threads/wufe-wii-update-file-extractor.96789/
+	Wmlflash - none
+	wsmplayer (wii system menu player) - https://code.google.com/archive/p/wii-system-menu-player/source/default/source
+	winterman - Sent Email
+	WiiXplorer - https://github.com/dimok789, no wii, lots of wii u tho, not active in a while
+	wiixl - https://github.com/raz0red/wiixl
+	WiiX-Ball - Nothing
+	wiiwhiteboard - https://sourceforge.net/p/wiiwhiteboard/code/
+	WiiWestBang - Messaged cid2mizard on gbatemp
+	wiiwebserver - https://sourceforge.net/p/wiiwebserver/code/HEAD/tree/
+	wiiwars - none
+	wiiVNC - https://github.com/PaulWagener/WiiVNC
+	wiitweet - none
+	wiituka - https://github.com/DSkywalk/wiiu-pituka
+	wiitube - https://github.com/alienmind, no wii stuff, not contacted
+	wiitriis - https://github.com/wilco2009, not contacted
+	Wiitrch - none
+	WiiSX - https://code.google.com/archive/p/pcsxgc/source/default/source
+	wiisoduku2 - none
+	Wiistrobe - https://wiibrew.org/wiki/WiiStrobe/Source huh
+	wiisquarez - none
+	wiispace - https://wiibrew.org/wiki/WiiSPACE, https://wiibrew.org/w/images/c/c5/WiiSPACE_v1.2a_Source.zip <Download Link
+	wiisolitaire - none
+	wiiship - none
+	wiirecipe - http://www.wiibrew.org/wiki/WiiRecipe, source available
+	wiireader - none
+	wiiquizz - source dead
+	wiiqix - none
+	WiiPoker - https://wii.brewology.com/downloads/download.php?id=2601&mcid=3
+	wii physics - https://code.google.com/archive/p/wiiphysics/source/default/source
+	wiipeng - none
+	wiipaintball - https://github.com/miguel28, not contacted
+	wiipaint - none
+	wiinetpuzzle - none
+	wiimpc - https://wiibrew.org/wiki/WiiMPC, http://sshock.com/wiimpc/wiimpc_0.1b_src.zip <Download Link
+	wiiimp3 - https://code.google.com/archive/p/wiimp3/source/default/source
+	WiiMotionDemo (wiimoteDemo) - https://wiibrew.org/wiki/WiiMotionDemo
+	wiimon - none
+	wiimednafen - whttps://github.com/raz0red/wii-mednafen
+	wiimc - http://www.wiimc.org/downloads/
+	wiimc-channel-installer - http://www.wiimc.org/downloads/
+	wiimarel - none
+	wiilight - source dead
+	WiiLife - none 
+	wiilax-minitro - none
+	wiilauncher - https://code.google.com/archive/p/wiilauncher/source/default/source
+	wiilander - none
+	wiihttpd - none
+	wiihandysdl - https://github.com/raz0red/wiihandy
+	wiiExplorer - https://sourceforge.net/p/wiixplorer/code/HEAD/tree/
+	wiiengine - none
+	wiiearth - https://github.com/PaulWagener/WiiEarth
+	wiidoubledown - none
+	wiiddash - none
+
+	playstats - http://clearloop.co/downloads/download.php?id=3193&mcid=3
+
+	Q1Rev - http://clearloop.co/downloads/download.php?id=3226&mcid=3
+
+	freecellwii - https://wii.brewology.com/downloads/download.php?id=2360&mcid=3
+
+
+ - Possible additions:
+
+	WiiSXR - https://github.com/Mystro256/wiisxr
